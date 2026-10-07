@@ -1,0 +1,13 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.0
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+pybaseball
+pyarrow
+scipy
+requests
+anthropic

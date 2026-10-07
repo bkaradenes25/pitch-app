@@ -1,0 +1,7522 @@
+{
+ "434378": {
+  "name": "Verlander, Justin",
+  "cluster": -1,
+  "pitches": {
+   "CU": 30,
+   "FF": 71,
+   "SL": 43
+  }
+ },
+ "445276": {
+  "name": "Jansen, Kenley",
+  "cluster": 0,
+  "pitches": {
+   "FC": 600,
+   "SI": 49,
+   "SL": 76
+  }
+ },
+ "453286": {
+  "name": "Scherzer, Max",
+  "cluster": 3,
+  "pitches": {
+   "CH": 227,
+   "CU": 214,
+   "FC": 83,
+   "FF": 689,
+   "SL": 247
+  }
+ },
+ "455119": {
+  "name": "Martin, Chris",
+  "cluster": -1,
+  "pitches": {
+   "FC": 104,
+   "FF": 65,
+   "SI": 30
+  }
+ },
+ "471911": {
+  "name": "Carrasco, Carlos",
+  "cluster": -1,
+  "pitches": {
+   "CH": 76,
+   "FC": 38,
+   "FF": 30,
+   "SI": 66,
+   "SL": 34
+  }
+ },
+ "472610": {
+  "name": "Garc\u00eda, Luis",
+  "cluster": -1,
+  "pitches": {
+   "FS": 80,
+   "SI": 123,
+   "ST": 53
+  }
+ },
+ "476594": {
+  "name": "Stock, Robert",
+  "cluster": -1,
+  "pitches": {
+   "CH": 48,
+   "FC": 176,
+   "FF": 134,
+   "SI": 125,
+   "ST": 68
+  }
+ },
+ "489446": {
+  "name": "Yates, Kirby",
+  "cluster": 2,
+  "pitches": {
+   "FF": 476,
+   "FS": 236
+  }
+ },
+ "500743": {
+  "name": "Rojas, Miguel",
+  "cluster": -1,
+  "pitches": {
+   "EP": 43
+  }
+ },
+ "500779": {
+  "name": "Quintana, Jose",
+  "cluster": 2,
+  "pitches": {
+   "CH": 164,
+   "CU": 126,
+   "FF": 230,
+   "SI": 165,
+   "SV": 129
+  }
+ },
+ "518585": {
+  "name": "Cruz, Fernando",
+  "cluster": 2,
+  "pitches": {
+   "FF": 301,
+   "FS": 484,
+   "ST": 131
+  }
+ },
+ "518876": {
+  "name": "Kelly, Merrill",
+  "cluster": 2,
+  "pitches": {
+   "CH": 724,
+   "CU": 298,
+   "FC": 360,
+   "FF": 717,
+   "SI": 247,
+   "SL": 267
+  }
+ },
+ "518886": {
+  "name": "Kimbrel, Craig",
+  "cluster": 0,
+  "pitches": {
+   "FF": 507,
+   "KC": 75,
+   "SI": 62,
+   "ST": 107
+  }
+ },
+ "519141": {
+  "name": "Pomeranz, Drew",
+  "cluster": 0,
+  "pitches": {
+   "FF": 348,
+   "KC": 128
+  }
+ },
+ "519242": {
+  "name": "Sale, Chris",
+  "cluster": 3,
+  "pitches": {
+   "CH": 265,
+   "FF": 1065,
+   "SI": 216,
+   "SL": 1027
+  }
+ },
+ "527048": {
+  "name": "P\u00e9rez, Mart\u00edn",
+  "cluster": 2,
+  "pitches": {
+   "CH": 695,
+   "CU": 161,
+   "FC": 493,
+   "FF": 98,
+   "SI": 794
+  }
+ },
+ "542888": {
+  "name": "Armstrong, Shawn",
+  "cluster": 0,
+  "pitches": {
+   "FC": 150,
+   "FF": 194,
+   "SI": 107,
+   "ST": 176
+  }
+ },
+ "543037": {
+  "name": "Cole, Gerrit",
+  "cluster": 3,
+  "pitches": {
+   "CH": 248,
+   "FF": 945,
+   "KC": 271,
+   "SI": 68,
+   "SL": 384
+  }
+ },
+ "543056": {
+  "name": "Coulombe, Danny",
+  "cluster": 0,
+  "pitches": {
+   "FC": 143,
+   "FF": 38,
+   "SI": 114,
+   "ST": 66
+  }
+ },
+ "543135": {
+  "name": "Eovaldi, Nathan",
+  "cluster": 2,
+  "pitches": {
+   "CU": 492,
+   "FC": 422,
+   "FF": 307,
+   "FS": 830,
+   "SI": 151
+  }
+ },
+ "543238": {
+  "name": "Gose, Anthony",
+  "cluster": -1,
+  "pitches": {
+   "FF": 119,
+   "SL": 68
+  }
+ },
+ "543243": {
+  "name": "Gray, Sonny",
+  "cluster": 3,
+  "pitches": {
+   "CH": 142,
+   "CU": 393,
+   "FC": 465,
+   "FF": 424,
+   "SI": 537,
+   "ST": 504
+  }
+ },
+ "543309": {
+  "name": "Higashioka, Kyle",
+  "cluster": -1,
+  "pitches": {
+   "EP": 45
+  }
+ },
+ "543510": {
+  "name": "McCann, James",
+  "cluster": -1,
+  "pitches": {
+   "EP": 55
+  }
+ },
+ "544150": {
+  "name": "Su\u00e1rez, Albert",
+  "cluster": 0,
+  "pitches": {
+   "CH": 156,
+   "CU": 91,
+   "FC": 204,
+   "FF": 518
+  }
+ },
+ "547179": {
+  "name": "Lorenzen, Michael",
+  "cluster": 2,
+  "pitches": {
+   "CH": 489,
+   "CU": 253,
+   "FC": 344,
+   "FF": 454,
+   "SI": 486,
+   "SL": 180,
+   "ST": 191
+  }
+ },
+ "547184": {
+  "name": "Kelly, Michael",
+  "cluster": -1,
+  "pitches": {
+   "SL": 32,
+   "ST": 50
+  }
+ },
+ "547973": {
+  "name": "Chapman, Aroldis",
+  "cluster": 0,
+  "pitches": {
+   "FF": 310,
+   "FS": 103,
+   "SI": 273,
+   "SL": 153
+  }
+ },
+ "548384": {
+  "name": "Raley, Brooks",
+  "cluster": 3,
+  "pitches": {
+   "CH": 107,
+   "FC": 248,
+   "SI": 183,
+   "ST": 302
+  }
+ },
+ "552640": {
+  "name": "Kittredge, Andrew",
+  "cluster": 1,
+  "pitches": {
+   "FF": 87,
+   "SI": 280,
+   "SL": 343
+  }
+ },
+ "554430": {
+  "name": "Wheeler, Zack",
+  "cluster": 3,
+  "pitches": {
+   "CU": 229,
+   "FC": 279,
+   "FF": 945,
+   "FS": 431,
+   "SI": 409,
+   "ST": 355
+  }
+ },
+ "571510": {
+  "name": "Boyd, Matthew",
+  "cluster": 2,
+  "pitches": {
+   "CH": 545,
+   "CU": 242,
+   "FF": 862,
+   "SL": 279
+  }
+ },
+ "571578": {
+  "name": "Corbin, Patrick",
+  "cluster": 3,
+  "pitches": {
+   "CH": 247,
+   "FC": 213,
+   "FF": 159,
+   "SI": 382,
+   "SL": 387
+  }
+ },
+ "571882": {
+  "name": "Law, Derek",
+  "cluster": -1,
+  "pitches": {
+   "FC": 58,
+   "SL": 49
+  }
+ },
+ "571927": {
+  "name": "Matz, Steven",
+  "cluster": 2,
+  "pitches": {
+   "CH": 383,
+   "CU": 180,
+   "SI": 672,
+   "SL": 106
+  }
+ },
+ "571945": {
+  "name": "Mikolas, Miles",
+  "cluster": 1,
+  "pitches": {
+   "CH": 145,
+   "CU": 271,
+   "FF": 450,
+   "SI": 434,
+   "SL": 424,
+   "ST": 97
+  }
+ },
+ "571948": {
+  "name": "Milner, Hoby",
+  "cluster": 3,
+  "pitches": {
+   "CH": 123,
+   "FF": 103,
+   "SI": 260,
+   "ST": 184
+  }
+ },
+ "572143": {
+  "name": "Smith, Burch",
+  "cluster": -1,
+  "pitches": {
+   "CU": 71,
+   "FC": 60,
+   "FF": 125
+  }
+ },
+ "572955": {
+  "name": "Johnson, Pierce",
+  "cluster": 1,
+  "pitches": {
+   "CU": 529,
+   "FF": 304
+  }
+ },
+ "573009": {
+  "name": "Mantiply, Joe",
+  "cluster": -1,
+  "pitches": {
+   "CH": 96,
+   "CU": 106,
+   "SI": 195
+  }
+ },
+ "573124": {
+  "name": "Rogers, Taylor",
+  "cluster": 1,
+  "pitches": {
+   "FC": 147,
+   "SI": 391,
+   "ST": 528
+  }
+ },
+ "573204": {
+  "name": "Thielbar, Caleb",
+  "cluster": 1,
+  "pitches": {
+   "CU": 216,
+   "FF": 330,
+   "SL": 181,
+   "ST": 118
+  }
+ },
+ "579328": {
+  "name": "Kikuchi, Yusei",
+  "cluster": 2,
+  "pitches": {
+   "CU": 136,
+   "FC": 66,
+   "FF": 487,
+   "FS": 208,
+   "SL": 305
+  }
+ },
+ "592094": {
+  "name": "Adam, Jason",
+  "cluster": 1,
+  "pitches": {
+   "CH": 190,
+   "FF": 134,
+   "SL": 220,
+   "ST": 39
+  }
+ },
+ "592155": {
+  "name": "Booser, Cam",
+  "cluster": 0,
+  "pitches": {
+   "FC": 245,
+   "FF": 260,
+   "ST": 60
+  }
+ },
+ "592332": {
+  "name": "Gausman, Kevin",
+  "cluster": 2,
+  "pitches": {
+   "CH": 35,
+   "FF": 1517,
+   "FS": 1174,
+   "SL": 249
+  }
+ },
+ "592454": {
+  "name": "Kahnle, Tommy",
+  "cluster": -1,
+  "pitches": {
+   "CH": 106,
+   "FF": 51
+  }
+ },
+ "592662": {
+  "name": "Ray, Robbie",
+  "cluster": 3,
+  "pitches": {
+   "CH": 529,
+   "FF": 891,
+   "KC": 330,
+   "SI": 433,
+   "SL": 666
+  }
+ },
+ "592773": {
+  "name": "Stanek, Ryne",
+  "cluster": 3,
+  "pitches": {
+   "FF": 556,
+   "FS": 170,
+   "SI": 100,
+   "SL": 251
+  }
+ },
+ "592779": {
+  "name": "Stewart, Brock",
+  "cluster": -1,
+  "pitches": {
+   "CH": 57,
+   "FC": 34,
+   "FF": 141,
+   "SI": 55,
+   "ST": 95
+  }
+ },
+ "592791": {
+  "name": "Taillon, Jameson",
+  "cluster": 3,
+  "pitches": {
+   "CH": 227,
+   "CU": 159,
+   "FC": 272,
+   "FF": 395,
+   "SI": 138,
+   "ST": 236
+  }
+ },
+ "592836": {
+  "name": "Walker, Taijuan",
+  "cluster": 2,
+  "pitches": {
+   "CU": 54,
+   "FC": 84,
+   "FF": 42,
+   "FS": 97,
+   "SI": 96,
+   "SL": 50
+  }
+ },
+ "592866": {
+  "name": "Williams, Trevor",
+  "cluster": -1,
+  "pitches": {
+   "CH": 59,
+   "FF": 202,
+   "SI": 83,
+   "SL": 34,
+   "ST": 136
+  }
+ },
+ "593958": {
+  "name": "Rodriguez, Eduardo",
+  "cluster": 2,
+  "pitches": {
+   "CH": 807,
+   "CU": 375,
+   "FC": 411,
+   "FF": 1225,
+   "SI": 244
+  }
+ },
+ "593974": {
+  "name": "Peralta, Wandy",
+  "cluster": 2,
+  "pitches": {
+   "CH": 418,
+   "FF": 114,
+   "SI": 510,
+   "SL": 180
+  }
+ },
+ "594027": {
+  "name": "Guerrero, Tyron",
+  "cluster": 0,
+  "pitches": {
+   "SI": 519,
+   "SL": 58
+  }
+ },
+ "594580": {
+  "name": "Moll, Sam",
+  "cluster": 3,
+  "pitches": {
+   "CH": 167,
+   "FF": 123,
+   "SI": 380,
+   "ST": 387
+  }
+ },
+ "594798": {
+  "name": "deGrom, Jacob",
+  "cluster": 1,
+  "pitches": {
+   "CH": 373,
+   "CU": 182,
+   "FF": 1151,
+   "SI": 91,
+   "SL": 936
+  }
+ },
+ "594835": {
+  "name": "Gonzales, Marco",
+  "cluster": -1,
+  "pitches": {
+   "FF": 38
+  }
+ },
+ "595014": {
+  "name": "Treinen, Blake",
+  "cluster": 3,
+  "pitches": {
+   "FC": 54,
+   "FF": 60,
+   "SI": 179,
+   "ST": 197
+  }
+ },
+ "595345": {
+  "name": "Okert, Steven",
+  "cluster": 1,
+  "pitches": {
+   "FF": 289,
+   "SI": 57,
+   "SL": 697
+  }
+ },
+ "595978": {
+  "name": "Hedges, Austin",
+  "cluster": -1,
+  "pitches": {
+   "FA": 34
+  }
+ },
+ "596001": {
+  "name": "Junis, Jakob",
+  "cluster": 1,
+  "pitches": {
+   "CH": 171,
+   "FF": 163,
+   "SI": 151,
+   "ST": 360
+  }
+ },
+ "596117": {
+  "name": "Stubbs, Garrett",
+  "cluster": -1,
+  "pitches": {
+   "EP": 40
+  }
+ },
+ "596133": {
+  "name": "Weaver, Luke",
+  "cluster": 2,
+  "pitches": {
+   "CH": 308,
+   "FC": 132,
+   "FF": 460
+  }
+ },
+ "601713": {
+  "name": "Pivetta, Nick",
+  "cluster": -1,
+  "pitches": {
+   "CU": 128,
+   "FC": 77,
+   "FF": 302,
+   "ST": 64
+  }
+ },
+ "605130": {
+  "name": "Barlow, Scott",
+  "cluster": 1,
+  "pitches": {
+   "CU": 199,
+   "FF": 76,
+   "SI": 77,
+   "ST": 206
+  }
+ },
+ "605135": {
+  "name": "Bassitt, Chris",
+  "cluster": 3,
+  "pitches": {
+   "CH": 83,
+   "CU": 374,
+   "FC": 346,
+   "FF": 139,
+   "SI": 636,
+   "SL": 50,
+   "ST": 103
+  }
+ },
+ "605154": {
+  "name": "Brebbia, John",
+  "cluster": -1,
+  "pitches": {
+   "FF": 37,
+   "SL": 45
+  }
+ },
+ "605218": {
+  "name": "Edwards Jr., Carl",
+  "cluster": -1,
+  "pitches": {
+   "CU": 30,
+   "FF": 53
+  }
+ },
+ "605242": {
+  "name": "Fulmer, Michael",
+  "cluster": -1,
+  "pitches": {
+   "CH": 32,
+   "FC": 106,
+   "ST": 76
+  }
+ },
+ "605280": {
+  "name": "Holmes, Clay",
+  "cluster": 3,
+  "pitches": {
+   "CH": 230,
+   "CU": 111,
+   "FC": 170,
+   "SI": 787,
+   "ST": 296
+  }
+ },
+ "605288": {
+  "name": "Houser, Adrian",
+  "cluster": 0,
+  "pitches": {
+   "CH": 275,
+   "CU": 119,
+   "FF": 375,
+   "SI": 791,
+   "SL": 167
+  }
+ },
+ "605400": {
+  "name": "Nola, Aaron",
+  "cluster": 3,
+  "pitches": {
+   "CH": 481,
+   "FC": 223,
+   "FF": 705,
+   "KC": 979,
+   "SI": 535
+  }
+ },
+ "605447": {
+  "name": "Romano, Jordan",
+  "cluster": 1,
+  "pitches": {
+   "FF": 267,
+   "SL": 364
+  }
+ },
+ "605452": {
+  "name": "Ross, Joe",
+  "cluster": -1,
+  "pitches": {
+   "FF": 41,
+   "FS": 42,
+   "SI": 50,
+   "SL": 59
+  }
+ },
+ "605483": {
+  "name": "Snell, Blake",
+  "cluster": -1,
+  "pitches": {
+   "CH": 132,
+   "CU": 162,
+   "FF": 366,
+   "SL": 80
+  }
+ },
+ "605488": {
+  "name": "Springs, Jeffrey",
+  "cluster": 2,
+  "pitches": {
+   "CH": 614,
+   "FC": 103,
+   "FF": 1064,
+   "SL": 536,
+   "ST": 143
+  }
+ },
+ "605540": {
+  "name": "Woodruff, Brandon",
+  "cluster": 0,
+  "pitches": {
+   "CH": 136,
+   "FC": 66,
+   "FF": 281,
+   "SI": 123
+  }
+ },
+ "606303": {
+  "name": "Payamps, Joel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 61,
+   "ST": 69
+  }
+ },
+ "606965": {
+  "name": "Devenski, Chris",
+  "cluster": -1,
+  "pitches": {
+   "CH": 59,
+   "FF": 53
+  }
+ },
+ "606996": {
+  "name": "Hart, Kyle",
+  "cluster": 1,
+  "pitches": {
+   "FF": 92,
+   "FS": 214,
+   "SI": 342,
+   "SL": 148,
+   "ST": 271
+  }
+ },
+ "607067": {
+  "name": "Rea, Colin",
+  "cluster": 2,
+  "pitches": {
+   "CH": 411,
+   "CU": 125,
+   "FC": 133,
+   "FF": 935,
+   "SI": 180,
+   "SL": 242,
+   "ST": 197
+  }
+ },
+ "607074": {
+  "name": "Rod\u00f3n, Carlos",
+  "cluster": 3,
+  "pitches": {
+   "CH": 209,
+   "FF": 661,
+   "SI": 175,
+   "SL": 366
+  }
+ },
+ "607192": {
+  "name": "Glasnow, Tyler",
+  "cluster": 1,
+  "pitches": {
+   "CU": 57,
+   "FF": 399,
+   "KC": 245,
+   "SI": 244,
+   "SL": 203
+  }
+ },
+ "607200": {
+  "name": "Fedde, Erick",
+  "cluster": 3,
+  "pitches": {
+   "CH": 272,
+   "FC": 446,
+   "SI": 740,
+   "ST": 925
+  }
+ },
+ "607259": {
+  "name": "Martinez, Nick",
+  "cluster": 2,
+  "pitches": {
+   "CH": 650,
+   "CU": 103,
+   "FC": 555,
+   "FF": 316,
+   "SI": 799,
+   "SL": 96
+  }
+ },
+ "607455": {
+  "name": "Banda, Anthony",
+  "cluster": 3,
+  "pitches": {
+   "CH": 38,
+   "FF": 159,
+   "SI": 160,
+   "SL": 249
+  }
+ },
+ "607481": {
+  "name": "Bummer, Aaron",
+  "cluster": 3,
+  "pitches": {
+   "CU": 70,
+   "FC": 33,
+   "SI": 127,
+   "ST": 70
+  }
+ },
+ "607536": {
+  "name": "Freeland, Kyle",
+  "cluster": 3,
+  "pitches": {
+   "CH": 295,
+   "FC": 459,
+   "FF": 515,
+   "KC": 485,
+   "SI": 215,
+   "ST": 217
+  }
+ },
+ "607625": {
+  "name": "Lugo, Seth",
+  "cluster": 3,
+  "pitches": {
+   "CH": 257,
+   "CS": 64,
+   "CU": 428,
+   "FC": 453,
+   "FF": 468,
+   "SI": 558,
+   "SL": 263,
+   "ST": 326,
+   "SV": 36
+  }
+ },
+ "608331": {
+  "name": "Fried, Max",
+  "cluster": 3,
+  "pitches": {
+   "CH": 206,
+   "CU": 229,
+   "FC": 381,
+   "FF": 296,
+   "SI": 355,
+   "ST": 209
+  }
+ },
+ "608337": {
+  "name": "Giolito, Lucas",
+  "cluster": 2,
+  "pitches": {
+   "CH": 191,
+   "CU": 37,
+   "FF": 229,
+   "SL": 94
+  }
+ },
+ "608371": {
+  "name": "Sims, Lucas",
+  "cluster": -1,
+  "pitches": {
+   "FF": 77,
+   "SL": 40,
+   "ST": 35
+  }
+ },
+ "608372": {
+  "name": "Sugano, Tomoyuki",
+  "cluster": 2,
+  "pitches": {
+   "CU": 205,
+   "FC": 271,
+   "FF": 518,
+   "FS": 532,
+   "SI": 477,
+   "SL": 234,
+   "ST": 283
+  }
+ },
+ "608379": {
+  "name": "Wacha, Michael",
+  "cluster": 2,
+  "pitches": {
+   "CH": 762,
+   "CU": 301,
+   "FC": 448,
+   "FF": 840,
+   "SI": 413,
+   "SL": 262
+  }
+ },
+ "608566": {
+  "name": "M\u00e1rquez, Germ\u00e1n",
+  "cluster": 1,
+  "pitches": {
+   "FF": 350,
+   "KC": 292,
+   "SI": 128,
+   "SL": 119
+  }
+ },
+ "608650": {
+  "name": "Enns, Dietrich",
+  "cluster": -1,
+  "pitches": {
+   "CH": 59,
+   "FF": 160
+  }
+ },
+ "608718": {
+  "name": "Suter, Brent",
+  "cluster": 2,
+  "pitches": {
+   "CH": 413,
+   "FF": 394,
+   "SI": 522,
+   "SL": 192
+  }
+ },
+ "608723": {
+  "name": "Voth, Austin",
+  "cluster": -1,
+  "pitches": {
+   "CU": 34,
+   "FC": 51,
+   "FF": 53,
+   "ST": 40
+  }
+ },
+ "615698": {
+  "name": "Quantrill, Cal",
+  "cluster": 0,
+  "pitches": {
+   "CU": 72,
+   "FC": 331,
+   "FF": 405,
+   "FS": 379,
+   "SI": 421,
+   "SL": 60
+  }
+ },
+ "621016": {
+  "name": "Cuas, Jose",
+  "cluster": -1,
+  "pitches": {
+   "FF": 152,
+   "SI": 174,
+   "ST": 122
+  }
+ },
+ "621053": {
+  "name": "Ferguson, Tyler",
+  "cluster": -1,
+  "pitches": {
+   "FF": 135,
+   "ST": 62
+  }
+ },
+ "621074": {
+  "name": "Rucker, Michael",
+  "cluster": 3,
+  "pitches": {
+   "CU": 235,
+   "FC": 164,
+   "FF": 250,
+   "SI": 93
+  }
+ },
+ "621097": {
+  "name": "Waguespack, Jacob",
+  "cluster": -1,
+  "pitches": {
+   "CH": 132,
+   "CU": 40,
+   "FC": 219,
+   "FF": 278
+  }
+ },
+ "621111": {
+  "name": "Buehler, Walker",
+  "cluster": 3,
+  "pitches": {
+   "CH": 247,
+   "FC": 635,
+   "FF": 526,
+   "KC": 219,
+   "SI": 519,
+   "SL": 274,
+   "ST": 184
+  }
+ },
+ "621112": {
+  "name": "Blackburn, Paul",
+  "cluster": 2,
+  "pitches": {
+   "CH": 265,
+   "CU": 179,
+   "FC": 242,
+   "FF": 34,
+   "SI": 420,
+   "ST": 90
+  }
+ },
+ "621121": {
+  "name": "McCullers Jr., Lance",
+  "cluster": 3,
+  "pitches": {
+   "CH": 118,
+   "FC": 219,
+   "KC": 116,
+   "SI": 174,
+   "ST": 137
+  }
+ },
+ "621237": {
+  "name": "Alvarado, Jos\u00e9",
+  "cluster": 0,
+  "pitches": {
+   "FC": 365,
+   "SI": 711
+  }
+ },
+ "621242": {
+  "name": "D\u00edaz, Edwin",
+  "cluster": -1,
+  "pitches": {
+   "FF": 220,
+   "SL": 172
+  }
+ },
+ "621345": {
+  "name": "Minter, A.J.",
+  "cluster": 0,
+  "pitches": {
+   "CH": 87,
+   "FC": 372,
+   "FF": 187,
+   "SI": 30
+  }
+ },
+ "621366": {
+  "name": "Borucki, Ryan",
+  "cluster": 1,
+  "pitches": {
+   "FS": 50,
+   "SI": 133,
+   "SL": 143,
+   "ST": 36
+  }
+ },
+ "621381": {
+  "name": "Strahm, Matt",
+  "cluster": 3,
+  "pitches": {
+   "CH": 72,
+   "FC": 46,
+   "FF": 246,
+   "SI": 92,
+   "SL": 177
+  }
+ },
+ "621383": {
+  "name": "Banks, Tanner",
+  "cluster": 1,
+  "pitches": {
+   "CH": 32,
+   "FF": 141,
+   "SI": 105,
+   "SL": 238,
+   "ST": 151
+  }
+ },
+ "622088": {
+  "name": "Antone, Tejay",
+  "cluster": 1,
+  "pitches": {
+   "CU": 105,
+   "FC": 153,
+   "FF": 44,
+   "SI": 107,
+   "ST": 479
+  }
+ },
+ "622491": {
+  "name": "Castillo, Luis",
+  "cluster": 3,
+  "pitches": {
+   "CH": 346,
+   "FF": 999,
+   "SI": 433,
+   "SL": 582
+  }
+ },
+ "622554": {
+  "name": "Dom\u00ednguez, Seranthony",
+  "cluster": 3,
+  "pitches": {
+   "FF": 476,
+   "FS": 126,
+   "SI": 183,
+   "ST": 308
+  }
+ },
+ "622608": {
+  "name": "Senzatela, Antonio",
+  "cluster": 0,
+  "pitches": {
+   "CH": 53,
+   "CU": 99,
+   "FC": 391,
+   "FF": 355,
+   "SI": 245
+  }
+ },
+ "622663": {
+  "name": "Severino, Luis",
+  "cluster": 3,
+  "pitches": {
+   "CH": 59,
+   "FC": 226,
+   "FF": 229,
+   "SI": 257,
+   "SL": 35,
+   "ST": 278
+  }
+ },
+ "622694": {
+  "name": "Hern\u00e1ndez, Elieser",
+  "cluster": -1,
+  "pitches": {
+   "CH": 50,
+   "FF": 81,
+   "ST": 78
+  }
+ },
+ "622761": {
+  "name": "Mateo, Jorge",
+  "cluster": -1,
+  "pitches": {
+   "FA": 41
+  }
+ },
+ "623149": {
+  "name": "Sewald, Paul",
+  "cluster": 3,
+  "pitches": {
+   "FF": 472,
+   "ST": 363
+  }
+ },
+ "623168": {
+  "name": "Heineman, Tyler",
+  "cluster": -1,
+  "pitches": {
+   "EP": 38
+  }
+ },
+ "623211": {
+  "name": "Brazob\u00e1n, Huascar",
+  "cluster": 2,
+  "pitches": {
+   "CH": 412,
+   "FC": 30,
+   "FF": 75,
+   "SI": 514
+  }
+ },
+ "623352": {
+  "name": "Hader, Josh",
+  "cluster": 3,
+  "pitches": {
+   "SI": 435,
+   "SL": 241
+  }
+ },
+ "623437": {
+  "name": "Topa, Justin",
+  "cluster": 0,
+  "pitches": {
+   "CH": 54,
+   "FC": 109,
+   "SI": 166,
+   "ST": 82
+  }
+ },
+ "623454": {
+  "name": "Anderson, Drew",
+  "cluster": 2,
+  "pitches": {
+   "CH": 550,
+   "CU": 389,
+   "FF": 715,
+   "SL": 84
+  }
+ },
+ "623465": {
+  "name": "Phillips, Evan",
+  "cluster": -1,
+  "pitches": {
+   "FC": 43,
+   "FF": 191,
+   "SI": 32,
+   "ST": 157
+  }
+ },
+ "623474": {
+  "name": "Herget, Jimmy",
+  "cluster": 3,
+  "pitches": {
+   "CH": 82,
+   "FC": 267,
+   "FF": 79,
+   "SI": 209,
+   "SL": 45,
+   "ST": 262
+  }
+ },
+ "624133": {
+  "name": "Suarez, Ranger",
+  "cluster": 0,
+  "pitches": {
+   "CH": 291,
+   "CU": 401,
+   "FC": 442,
+   "FF": 540,
+   "SI": 584,
+   "SL": 125
+  }
+ },
+ "624431": {
+  "name": "Trevino, Jose",
+  "cluster": -1,
+  "pitches": {
+   "EP": 67,
+   "KN": 49
+  }
+ },
+ "624522": {
+  "name": "Thompson, Keegan",
+  "cluster": -1,
+  "pitches": {
+   "FC": 47,
+   "FF": 56,
+   "SI": 44
+  }
+ },
+ "625643": {
+  "name": "L\u00f3pez, Reynaldo",
+  "cluster": 3,
+  "pitches": {
+   "CH": 57,
+   "CU": 147,
+   "FF": 738,
+   "SL": 424
+  }
+ },
+ "628452": {
+  "name": "Iglesias, Raisel",
+  "cluster": 2,
+  "pitches": {
+   "CH": 325,
+   "FF": 334,
+   "SI": 183,
+   "SL": 68
+  }
+ },
+ "640448": {
+  "name": "Finnegan, Kyle",
+  "cluster": 2,
+  "pitches": {
+   "FF": 546,
+   "FS": 336,
+   "SL": 178
+  }
+ },
+ "640451": {
+  "name": "Harvey, Hunter",
+  "cluster": -1,
+  "pitches": {
+   "FF": 38
+  }
+ },
+ "640454": {
+  "name": "Krook, Matt",
+  "cluster": -1,
+  "pitches": {
+   "SI": 78,
+   "ST": 93
+  }
+ },
+ "640455": {
+  "name": "Manaea, Sean",
+  "cluster": 3,
+  "pitches": {
+   "CH": 108,
+   "FC": 196,
+   "FF": 961,
+   "SI": 473,
+   "ST": 751
+  }
+ },
+ "641302": {
+  "name": "Alexander, Tyler",
+  "cluster": 2,
+  "pitches": {
+   "CH": 278,
+   "FC": 253,
+   "FF": 216,
+   "SI": 229,
+   "ST": 221
+  }
+ },
+ "641312": {
+  "name": "Anderson, Shaun",
+  "cluster": -1,
+  "pitches": {
+   "CH": 90,
+   "FF": 94,
+   "SL": 93,
+   "ST": 47
+  }
+ },
+ "641329": {
+  "name": "Baker, Bryan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 428,
+   "FF": 516,
+   "SL": 32
+  }
+ },
+ "641401": {
+  "name": "Brogdon, Connor",
+  "cluster": -1,
+  "pitches": {
+   "CH": 110,
+   "FF": 132
+  }
+ },
+ "641585": {
+  "name": "France, J.P.",
+  "cluster": -1,
+  "pitches": {
+   "CU": 33
+  }
+ },
+ "641656": {
+  "name": "Hamilton, Ian",
+  "cluster": -1,
+  "pitches": {
+   "SL": 57
+  }
+ },
+ "641743": {
+  "name": "Kay, Anthony",
+  "cluster": 3,
+  "pitches": {
+   "CH": 399,
+   "FC": 452,
+   "FF": 596,
+   "SI": 500,
+   "SL": 170,
+   "ST": 660
+  }
+ },
+ "641745": {
+  "name": "Keller, Brad",
+  "cluster": 3,
+  "pitches": {
+   "CH": 72,
+   "FF": 170,
+   "SI": 104,
+   "SL": 120,
+   "ST": 66
+  }
+ },
+ "641755": {
+  "name": "Kinley, Tyler",
+  "cluster": 1,
+  "pitches": {
+   "CU": 149,
+   "FF": 137,
+   "SL": 607
+  }
+ },
+ "641778": {
+  "name": "Lauer, Eric",
+  "cluster": 3,
+  "pitches": {
+   "CH": 269,
+   "CU": 223,
+   "FC": 412,
+   "FF": 759,
+   "SL": 148
+  }
+ },
+ "641793": {
+  "name": "Littell, Zack",
+  "cluster": 1,
+  "pitches": {
+   "FF": 503,
+   "FS": 456,
+   "SI": 286,
+   "SL": 558,
+   "ST": 171
+  }
+ },
+ "641816": {
+  "name": "Mahle, Tyler",
+  "cluster": 2,
+  "pitches": {
+   "FC": 356,
+   "FF": 1160,
+   "FS": 713,
+   "SL": 152
+  }
+ },
+ "641835": {
+  "name": "Mayza, Tim",
+  "cluster": 3,
+  "pitches": {
+   "FF": 126,
+   "SI": 612,
+   "SL": 322
+  }
+ },
+ "641927": {
+  "name": "Ober, Bailey",
+  "cluster": 2,
+  "pitches": {
+   "CH": 696,
+   "FF": 660,
+   "SI": 67,
+   "SL": 378,
+   "ST": 268
+  }
+ },
+ "641941": {
+  "name": "Pag\u00e1n, Emilio",
+  "cluster": 0,
+  "pitches": {
+   "FC": 132,
+   "FF": 422,
+   "FS": 119
+  }
+ },
+ "642048": {
+  "name": "Saucedo, Tayler",
+  "cluster": -1,
+  "pitches": {
+   "CH": 34,
+   "FF": 49,
+   "SI": 57,
+   "SL": 88,
+   "ST": 114
+  }
+ },
+ "642100": {
+  "name": "Speier, Gabe",
+  "cluster": 3,
+  "pitches": {
+   "FF": 279,
+   "SI": 232,
+   "SL": 179
+  }
+ },
+ "642121": {
+  "name": "Sulser, Cole",
+  "cluster": 2,
+  "pitches": {
+   "CH": 358,
+   "FC": 124,
+   "FF": 416,
+   "ST": 36
+  }
+ },
+ "642152": {
+  "name": "Trivino III, Lou",
+  "cluster": -1,
+  "pitches": {
+   "FC": 45,
+   "SI": 43
+  }
+ },
+ "642207": {
+  "name": "Williams, Devin",
+  "cluster": 2,
+  "pitches": {
+   "CH": 348,
+   "FF": 399
+  }
+ },
+ "642215": {
+  "name": "Wilson, Weston",
+  "cluster": -1,
+  "pitches": {
+   "EP": 44
+  }
+ },
+ "642232": {
+  "name": "Yarbrough, Ryan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 241,
+   "FC": 304,
+   "FF": 166,
+   "SI": 139,
+   "ST": 209
+  }
+ },
+ "642376": {
+  "name": "Yan, Jefry",
+  "cluster": -1,
+  "pitches": {
+   "CH": 37,
+   "FF": 93,
+   "SI": 162,
+   "SL": 73
+  }
+ },
+ "642397": {
+  "name": "Soto, Gregory",
+  "cluster": 3,
+  "pitches": {
+   "FF": 186,
+   "SI": 453,
+   "SL": 330,
+   "ST": 181
+  }
+ },
+ "642528": {
+  "name": "Lo\u00e1isiga, Jonathan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 261,
+   "CU": 142,
+   "FC": 66,
+   "FF": 154,
+   "SI": 337
+  }
+ },
+ "642546": {
+  "name": "Hern\u00e1ndez, Jonathan",
+  "cluster": 3,
+  "pitches": {
+   "FF": 71,
+   "SI": 150,
+   "SL": 185
+  }
+ },
+ "642547": {
+  "name": "Peralta, Freddy",
+  "cluster": 2,
+  "pitches": {
+   "CH": 692,
+   "CU": 383,
+   "FF": 1564,
+   "SL": 118,
+   "ST": 169
+  }
+ },
+ "642701": {
+  "name": "Santana, Dennis",
+  "cluster": 3,
+  "pitches": {
+   "CH": 129,
+   "FC": 101,
+   "FF": 249,
+   "SI": 115,
+   "SL": 334
+  }
+ },
+ "642759": {
+  "name": "Fern\u00e1ndez, Julian",
+  "cluster": -1,
+  "pitches": {
+   "FF": 42
+  }
+ },
+ "643377": {
+  "name": "Jax, Griffin",
+  "cluster": 2,
+  "pitches": {
+   "CH": 387,
+   "CU": 149,
+   "FC": 50,
+   "FF": 312,
+   "SI": 390,
+   "ST": 431
+  }
+ },
+ "643410": {
+  "name": "Leiter Jr., Mark",
+  "cluster": 2,
+  "pitches": {
+   "CU": 106,
+   "FC": 51,
+   "FF": 64,
+   "FS": 181,
+   "SI": 144
+  }
+ },
+ "643511": {
+  "name": "Rogers, Tyler",
+  "cluster": 0,
+  "pitches": {
+   "SI": 769,
+   "SL": 245
+  }
+ },
+ "645261": {
+  "name": "Alcantara, Sandy",
+  "cluster": 2,
+  "pitches": {
+   "CH": 681,
+   "CU": 141,
+   "FC": 493,
+   "FF": 591,
+   "SI": 863,
+   "SL": 230,
+   "ST": 289
+  }
+ },
+ "646241": {
+  "name": "De Jesus, Enmanuel",
+  "cluster": 0,
+  "pitches": {
+   "CH": 147,
+   "FC": 106,
+   "FF": 281,
+   "SI": 90,
+   "SL": 43
+  }
+ },
+ "647315": {
+  "name": "Pop, Zach",
+  "cluster": -1,
+  "pitches": {
+   "SI": 81,
+   "SL": 34
+  }
+ },
+ "647336": {
+  "name": "Soroka, Michael",
+  "cluster": 3,
+  "pitches": {
+   "CH": 228,
+   "FC": 215,
+   "FF": 597,
+   "SI": 189,
+   "SV": 594
+  }
+ },
+ "650556": {
+  "name": "Abreu, Bryan",
+  "cluster": 1,
+  "pitches": {
+   "FC": 125,
+   "FF": 479,
+   "SL": 485
+  }
+ },
+ "650633": {
+  "name": "King, Michael",
+  "cluster": 2,
+  "pitches": {
+   "CH": 786,
+   "FF": 604,
+   "SI": 828,
+   "SL": 196,
+   "ST": 561
+  }
+ },
+ "650644": {
+  "name": "Civale, Aaron",
+  "cluster": 3,
+  "pitches": {
+   "CU": 484,
+   "FC": 715,
+   "FF": 196,
+   "FS": 137,
+   "SI": 304,
+   "SL": 58
+  }
+ },
+ "650911": {
+  "name": "S\u00e1nchez, Cristopher",
+  "cluster": 2,
+  "pitches": {
+   "CH": 1170,
+   "SI": 1396,
+   "SL": 585
+  }
+ },
+ "650960": {
+  "name": "Duarte, Daniel",
+  "cluster": -1,
+  "pitches": {
+   "CH": 49,
+   "FC": 153,
+   "FF": 72,
+   "SI": 68,
+   "ST": 121
+  }
+ },
+ "655889": {
+  "name": "Rodr\u00edguez, Manuel",
+  "cluster": -1,
+  "pitches": {
+   "SI": 51,
+   "SL": 65
+  }
+ },
+ "656212": {
+  "name": "Barnes, Charlie",
+  "cluster": -1,
+  "pitches": {
+   "CH": 36,
+   "FF": 67,
+   "SI": 43,
+   "SL": 42
+  }
+ },
+ "656222": {
+  "name": "Beeks, Jalen",
+  "cluster": 2,
+  "pitches": {
+   "CH": 163,
+   "FC": 37,
+   "FF": 205
+  }
+ },
+ "656234": {
+  "name": "Bird, Jake",
+  "cluster": 1,
+  "pitches": {
+   "CU": 77,
+   "FF": 110,
+   "SI": 225,
+   "ST": 260
+  }
+ },
+ "656240": {
+  "name": "Blewett, Scott",
+  "cluster": -1,
+  "pitches": {
+   "FC": 194,
+   "FF": 145,
+   "FS": 39,
+   "SI": 58,
+   "SL": 147
+  }
+ },
+ "656271": {
+  "name": "Burke, Brock",
+  "cluster": 3,
+  "pitches": {
+   "CH": 206,
+   "FF": 480,
+   "SI": 158,
+   "SL": 327
+  }
+ },
+ "656288": {
+  "name": "Canning, Griffin",
+  "cluster": 2,
+  "pitches": {
+   "CH": 386,
+   "FC": 85,
+   "FF": 377,
+   "KC": 133,
+   "SI": 151,
+   "SL": 366,
+   "ST": 45
+  }
+ },
+ "656302": {
+  "name": "Cease, Dylan",
+  "cluster": 1,
+  "pitches": {
+   "CH": 332,
+   "FF": 1068,
+   "KC": 292,
+   "SI": 228,
+   "SL": 871,
+   "ST": 101
+  }
+ },
+ "656427": {
+  "name": "Flaherty, Jack",
+  "cluster": 3,
+  "pitches": {
+   "CH": 44,
+   "FF": 815,
+   "KC": 321,
+   "SI": 73,
+   "SL": 402
+  }
+ },
+ "656457": {
+  "name": "Gilbert, Tyler",
+  "cluster": -1,
+  "pitches": {
+   "SI": 53,
+   "ST": 49
+  }
+ },
+ "656464": {
+  "name": "Ginkel, Kevin",
+  "cluster": 1,
+  "pitches": {
+   "FF": 506,
+   "SI": 60,
+   "SL": 532
+  }
+ },
+ "656492": {
+  "name": "Griffin, Foster",
+  "cluster": 3,
+  "pitches": {
+   "CH": 325,
+   "CU": 251,
+   "FC": 918,
+   "FF": 457,
+   "FS": 160,
+   "SI": 292,
+   "ST": 425
+  }
+ },
+ "656529": {
+  "name": "Hentges, Sam",
+  "cluster": 3,
+  "pitches": {
+   "CU": 117,
+   "FF": 231,
+   "SI": 184,
+   "SL": 155
+  }
+ },
+ "656546": {
+  "name": "Hoffman, Jeff",
+  "cluster": 1,
+  "pitches": {
+   "FF": 376,
+   "FS": 240,
+   "SI": 54,
+   "SL": 539
+  }
+ },
+ "656550": {
+  "name": "Holmes, Grant",
+  "cluster": 1,
+  "pitches": {
+   "CH": 173,
+   "CU": 183,
+   "FC": 194,
+   "FF": 672,
+   "SI": 297,
+   "SL": 861
+  }
+ },
+ "656605": {
+  "name": "Keller, Mitch",
+  "cluster": 3,
+  "pitches": {
+   "CH": 169,
+   "CU": 165,
+   "FC": 145,
+   "FF": 602,
+   "SI": 322,
+   "SL": 175,
+   "ST": 308
+  }
+ },
+ "656638": {
+  "name": "Lange, Alex",
+  "cluster": 2,
+  "pitches": {
+   "CH": 245,
+   "FC": 151,
+   "FF": 116,
+   "SI": 267,
+   "SL": 356
+  }
+ },
+ "656641": {
+  "name": "Latz, Jacob",
+  "cluster": 3,
+  "pitches": {
+   "CH": 227,
+   "CU": 83,
+   "FF": 625,
+   "SL": 191
+  }
+ },
+ "656686": {
+  "name": "Martin, Corbin",
+  "cluster": -1,
+  "pitches": {
+   "FF": 56
+  }
+ },
+ "656716": {
+  "name": "McKinstry, Zach",
+  "cluster": -1,
+  "pitches": {
+   "FA": 33
+  }
+ },
+ "656730": {
+  "name": "Megill, Trevor",
+  "cluster": 3,
+  "pitches": {
+   "FF": 564,
+   "KC": 307
+  }
+ },
+ "656756": {
+  "name": "Montgomery, Jordan",
+  "cluster": -1,
+  "pitches": {
+   "CH": 51,
+   "CU": 66,
+   "FF": 66,
+   "SI": 161,
+   "SL": 70
+  }
+ },
+ "656786": {
+  "name": "Mushinski, Parker",
+  "cluster": -1,
+  "pitches": {
+   "ST": 40
+  }
+ },
+ "656794": {
+  "name": "Newcomb, Sean",
+  "cluster": 3,
+  "pitches": {
+   "CH": 42,
+   "CU": 63,
+   "FF": 577,
+   "SI": 308,
+   "SV": 456
+  }
+ },
+ "656848": {
+  "name": "Petersen, Michael",
+  "cluster": 3,
+  "pitches": {
+   "CH": 132,
+   "FF": 694,
+   "SL": 300
+  }
+ },
+ "656849": {
+  "name": "Peterson, David",
+  "cluster": 3,
+  "pitches": {
+   "CH": 323,
+   "CU": 256,
+   "FF": 623,
+   "SI": 727,
+   "SL": 542
+  }
+ },
+ "656876": {
+  "name": "Rasmussen, Drew",
+  "cluster": 0,
+  "pitches": {
+   "CH": 354,
+   "CU": 92,
+   "FC": 768,
+   "FF": 745,
+   "SI": 633,
+   "ST": 68
+  }
+ },
+ "656945": {
+  "name": "Scott, Tanner",
+  "cluster": 1,
+  "pitches": {
+   "FF": 472,
+   "SL": 489
+  }
+ },
+ "656986": {
+  "name": "Sousa, Bennett",
+  "cluster": -1,
+  "pitches": {
+   "FF": 130,
+   "SI": 43,
+   "SL": 359
+  }
+ },
+ "657044": {
+  "name": "Thompson, Ryan",
+  "cluster": 3,
+  "pitches": {
+   "SI": 408,
+   "SL": 217
+  }
+ },
+ "657097": {
+  "name": "Webb, Jacob",
+  "cluster": 2,
+  "pitches": {
+   "CH": 440,
+   "CU": 85,
+   "FF": 488,
+   "SL": 97
+  }
+ },
+ "657265": {
+  "name": "Strzelecki, Peter",
+  "cluster": -1,
+  "pitches": {
+   "CU": 69,
+   "SI": 99
+  }
+ },
+ "657277": {
+  "name": "Webb, Logan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 595,
+   "FC": 322,
+   "FF": 338,
+   "SI": 730,
+   "ST": 499
+  }
+ },
+ "657424": {
+  "name": "Gage, Matt",
+  "cluster": 1,
+  "pitches": {
+   "CH": 75,
+   "FF": 173,
+   "SI": 41,
+   "SL": 236
+  }
+ },
+ "657514": {
+  "name": "Bernardino, Brennan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 74,
+   "CU": 343,
+   "FC": 107,
+   "FF": 48,
+   "SI": 414
+  }
+ },
+ "657571": {
+  "name": "Ferguson, Caleb",
+  "cluster": 0,
+  "pitches": {
+   "FC": 150,
+   "FF": 146,
+   "SI": 195,
+   "SV": 94
+  }
+ },
+ "657612": {
+  "name": "Hill, Tim",
+  "cluster": 0,
+  "pitches": {
+   "FF": 49,
+   "SI": 676,
+   "SL": 90
+  }
+ },
+ "657649": {
+  "name": "Koenig, Jared",
+  "cluster": -1,
+  "pitches": {
+   "CH": 31,
+   "FC": 43,
+   "SI": 77
+  }
+ },
+ "657746": {
+  "name": "Ryan, Joe",
+  "cluster": 3,
+  "pitches": {
+   "FF": 1081,
+   "FS": 293,
+   "KC": 274,
+   "SI": 230,
+   "SL": 167,
+   "ST": 396
+  }
+ },
+ "657756": {
+  "name": "Seabold, Connor",
+  "cluster": 2,
+  "pitches": {
+   "CH": 100,
+   "FC": 47,
+   "FF": 252,
+   "SL": 76
+  }
+ },
+ "660271": {
+  "name": "Ohtani, Shohei",
+  "cluster": 3,
+  "pitches": {
+   "CU": 133,
+   "FF": 602,
+   "FS": 113,
+   "SI": 69,
+   "ST": 393
+  }
+ },
+ "660604": {
+  "name": "Rangel, Alan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 183,
+   "CU": 59,
+   "FF": 168,
+   "SL": 81
+  }
+ },
+ "660710": {
+  "name": "Dur\u00e1n, Rodolfo",
+  "cluster": -1,
+  "pitches": {
+   "FA": 35
+  }
+ },
+ "660761": {
+  "name": "Suarez, Jos\u00e9",
+  "cluster": 2,
+  "pitches": {
+   "CH": 257,
+   "FF": 388,
+   "SI": 103,
+   "SL": 279,
+   "ST": 32
+  }
+ },
+ "660787": {
+  "name": "De los Santos, Yerry",
+  "cluster": -1,
+  "pitches": {
+   "CH": 81,
+   "FF": 44,
+   "SI": 207
+  }
+ },
+ "660825": {
+  "name": "Bazardo, Eduard",
+  "cluster": 3,
+  "pitches": {
+   "SI": 695,
+   "ST": 387
+  }
+ },
+ "660844": {
+  "name": "Rivas, Leo",
+  "cluster": -1,
+  "pitches": {
+   "EP": 31
+  }
+ },
+ "660853": {
+  "name": "De Los Santos, Enyel",
+  "cluster": 2,
+  "pitches": {
+   "CH": 299,
+   "FF": 504,
+   "SL": 348
+  }
+ },
+ "661395": {
+  "name": "Duran, Jhoan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 44,
+   "FF": 265,
+   "FS": 443,
+   "KC": 90,
+   "ST": 103
+  }
+ },
+ "661563": {
+  "name": "Gil, Luis",
+  "cluster": 2,
+  "pitches": {
+   "CH": 97,
+   "FF": 253,
+   "SI": 45,
+   "SL": 101
+  }
+ },
+ "662253": {
+  "name": "Mu\u00f1oz, Andr\u00e9s",
+  "cluster": 1,
+  "pitches": {
+   "CH": 66,
+   "FF": 408,
+   "SI": 74,
+   "SL": 404
+  }
+ },
+ "663158": {
+  "name": "Suarez, Robert",
+  "cluster": 2,
+  "pitches": {
+   "CH": 153,
+   "FC": 69,
+   "FF": 234,
+   "SI": 30
+  }
+ },
+ "663362": {
+  "name": "Waldron, Matt",
+  "cluster": 3,
+  "pitches": {
+   "FC": 145,
+   "FF": 123,
+   "KN": 208,
+   "SI": 112,
+   "ST": 101
+  }
+ },
+ "663372": {
+  "name": "Feltner, Ryan",
+  "cluster": 1,
+  "pitches": {
+   "CH": 380,
+   "CU": 102,
+   "FF": 581,
+   "SI": 288,
+   "SL": 474,
+   "ST": 223
+  }
+ },
+ "663423": {
+  "name": "Thornton, Trent",
+  "cluster": 3,
+  "pitches": {
+   "CU": 115,
+   "FC": 155,
+   "FF": 225,
+   "SI": 75,
+   "ST": 135
+  }
+ },
+ "663432": {
+  "name": "Rainey, Tanner",
+  "cluster": -1,
+  "pitches": {
+   "FF": 62,
+   "SL": 51
+  }
+ },
+ "663436": {
+  "name": "Martin, Davis",
+  "cluster": 3,
+  "pitches": {
+   "CH": 340,
+   "CU": 336,
+   "FC": 294,
+   "FF": 616,
+   "SI": 429,
+   "SL": 297
+  }
+ },
+ "663460": {
+  "name": "Bubic, Kris",
+  "cluster": 2,
+  "pitches": {
+   "CH": 180,
+   "FF": 365,
+   "SI": 113,
+   "SL": 75,
+   "ST": 148
+  }
+ },
+ "663465": {
+  "name": "Allard, Kolby",
+  "cluster": -1,
+  "pitches": {
+   "CH": 33,
+   "FC": 40,
+   "FF": 60
+  }
+ },
+ "663485": {
+  "name": "Sands, Cole",
+  "cluster": -1,
+  "pitches": {
+   "FC": 49,
+   "FF": 83,
+   "FS": 33
+  }
+ },
+ "663542": {
+  "name": "Hudson, Bryan",
+  "cluster": 0,
+  "pitches": {
+   "FF": 698,
+   "SI": 41,
+   "ST": 300
+  }
+ },
+ "663554": {
+  "name": "Mize, Casey",
+  "cluster": 2,
+  "pitches": {
+   "FF": 726,
+   "FS": 492,
+   "SI": 199,
+   "SL": 575,
+   "SV": 88
+  }
+ },
+ "663556": {
+  "name": "McClanahan, Shane",
+  "cluster": 2,
+  "pitches": {
+   "CH": 516,
+   "CU": 272,
+   "FF": 703,
+   "SL": 336
+  }
+ },
+ "663558": {
+  "name": "Mor\u00e1n, Jovani",
+  "cluster": 2,
+  "pitches": {
+   "CH": 373,
+   "FC": 124,
+   "FF": 414,
+   "SI": 97,
+   "ST": 47
+  }
+ },
+ "663559": {
+  "name": "Falter, Bailey",
+  "cluster": -1,
+  "pitches": {
+   "FF": 120,
+   "SL": 56
+  }
+ },
+ "663567": {
+  "name": "Lambert, Peter",
+  "cluster": 2,
+  "pitches": {
+   "CH": 625,
+   "FC": 269,
+   "FF": 830,
+   "SI": 270,
+   "SL": 289,
+   "ST": 206,
+   "SV": 140
+  }
+ },
+ "663568": {
+  "name": "Kolek, Stephen",
+  "cluster": 3,
+  "pitches": {
+   "CH": 100,
+   "FC": 102,
+   "FF": 237,
+   "SI": 181,
+   "SL": 137,
+   "ST": 78
+  }
+ },
+ "663574": {
+  "name": "Santillan, Tony",
+  "cluster": 3,
+  "pitches": {
+   "FF": 435,
+   "SL": 55,
+   "SV": 203
+  }
+ },
+ "663623": {
+  "name": "Irvin, Jake",
+  "cluster": 3,
+  "pitches": {
+   "CH": 151,
+   "CU": 440,
+   "FC": 194,
+   "FF": 619,
+   "SI": 366,
+   "ST": 169
+  }
+ },
+ "663687": {
+  "name": "Harris, Hogan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 53,
+   "CU": 355,
+   "FF": 821,
+   "SL": 83
+  }
+ },
+ "663738": {
+  "name": "Lynch IV, Daniel",
+  "cluster": 2,
+  "pitches": {
+   "CH": 316,
+   "FF": 190,
+   "KC": 118,
+   "SI": 422,
+   "SL": 252
+  }
+ },
+ "663765": {
+  "name": "Woodford, Jake",
+  "cluster": 0,
+  "pitches": {
+   "FC": 167,
+   "FS": 74,
+   "SI": 145,
+   "ST": 72
+  }
+ },
+ "663767": {
+  "name": "Shugart, Chase",
+  "cluster": 0,
+  "pitches": {
+   "CH": 83,
+   "FC": 278,
+   "FF": 80,
+   "SI": 251,
+   "ST": 175
+  }
+ },
+ "663776": {
+  "name": "Sandoval, Patrick",
+  "cluster": 1,
+  "pitches": {
+   "CH": 342,
+   "CU": 48,
+   "FF": 309,
+   "SI": 206,
+   "SL": 250,
+   "ST": 63
+  }
+ },
+ "663795": {
+  "name": "Hagenman, Justin",
+  "cluster": -1,
+  "pitches": {
+   "CH": 30,
+   "FC": 36,
+   "FF": 55
+  }
+ },
+ "663855": {
+  "name": "Hicks, Jordan",
+  "cluster": 3,
+  "pitches": {
+   "FF": 184,
+   "FS": 31,
+   "SI": 402,
+   "ST": 269
+  }
+ },
+ "663878": {
+  "name": "Pearson, Nate",
+  "cluster": 1,
+  "pitches": {
+   "CU": 92,
+   "FF": 345,
+   "SI": 101,
+   "SL": 216
+  }
+ },
+ "663893": {
+  "name": "Little, Brendon",
+  "cluster": -1,
+  "pitches": {
+   "FF": 93,
+   "KC": 156,
+   "SI": 148,
+   "SL": 152
+  }
+ },
+ "663903": {
+  "name": "Singer, Brady",
+  "cluster": 3,
+  "pitches": {
+   "FC": 192,
+   "FF": 54,
+   "SI": 1407,
+   "SL": 767,
+   "ST": 367
+  }
+ },
+ "663941": {
+  "name": "Beck, Tristan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 129,
+   "SL": 39,
+   "ST": 120
+  }
+ },
+ "663947": {
+  "name": "Holton, Tyler",
+  "cluster": 3,
+  "pitches": {
+   "CH": 185,
+   "CU": 37,
+   "FC": 357,
+   "FF": 143,
+   "SI": 230,
+   "ST": 175
+  }
+ },
+ "663969": {
+  "name": "Phillips, Tyler",
+  "cluster": 1,
+  "pitches": {
+   "CU": 355,
+   "FF": 170,
+   "FS": 475,
+   "SI": 521,
+   "SL": 32,
+   "ST": 483
+  }
+ },
+ "663978": {
+  "name": "Paddack, Chris",
+  "cluster": 2,
+  "pitches": {
+   "CH": 275,
+   "CU": 115,
+   "FC": 133,
+   "FF": 348,
+   "SI": 62,
+   "ST": 76
+  }
+ },
+ "663992": {
+  "name": "Lovelady, Richard",
+  "cluster": 1,
+  "pitches": {
+   "FF": 139,
+   "SI": 187,
+   "SL": 31,
+   "ST": 276
+  }
+ },
+ "664062": {
+  "name": "Gonsolin, Tony",
+  "cluster": -1,
+  "pitches": {
+   "FF": 37
+  }
+ },
+ "664076": {
+  "name": "Cleavinger, Garrett",
+  "cluster": 1,
+  "pitches": {
+   "FF": 113,
+   "SI": 207,
+   "SL": 323,
+   "ST": 91
+  }
+ },
+ "664126": {
+  "name": "Fairbanks, Pete",
+  "cluster": 0,
+  "pitches": {
+   "FC": 177,
+   "FF": 373,
+   "SL": 202
+  }
+ },
+ "664129": {
+  "name": "Hartlieb, Geoff",
+  "cluster": -1,
+  "pitches": {
+   "FC": 72,
+   "FF": 141,
+   "SI": 70,
+   "SL": 152
+  }
+ },
+ "664141": {
+  "name": "Brubaker, JT",
+  "cluster": 3,
+  "pitches": {
+   "CH": 138,
+   "CU": 87,
+   "FF": 60,
+   "SI": 451,
+   "SL": 264
+  }
+ },
+ "664192": {
+  "name": "Lucchesi, Joey",
+  "cluster": -1,
+  "pitches": {
+   "CU": 30,
+   "SI": 57
+  }
+ },
+ "664199": {
+  "name": "Clarke, Taylor",
+  "cluster": 2,
+  "pitches": {
+   "CH": 294,
+   "FC": 200,
+   "SI": 242,
+   "SL": 317
+  }
+ },
+ "664208": {
+  "name": "Maton, Phil",
+  "cluster": 3,
+  "pitches": {
+   "CU": 157,
+   "FC": 201,
+   "SI": 104,
+   "ST": 83
+  }
+ },
+ "664285": {
+  "name": "Valdez, Framber",
+  "cluster": 3,
+  "pitches": {
+   "CH": 496,
+   "CU": 825,
+   "FF": 104,
+   "SI": 1212,
+   "SL": 126
+  }
+ },
+ "664299": {
+  "name": "Javier, Cristian",
+  "cluster": 3,
+  "pitches": {
+   "CH": 178,
+   "FC": 86,
+   "FF": 514,
+   "ST": 297
+  }
+ },
+ "664353": {
+  "name": "Urquidy, Jos\u00e9",
+  "cluster": -1,
+  "pitches": {
+   "CH": 170,
+   "CU": 94,
+   "FF": 129,
+   "SI": 126,
+   "ST": 79
+  }
+ },
+ "664702": {
+  "name": "Straw, Myles",
+  "cluster": -1,
+  "pitches": {
+   "EP": 38
+  }
+ },
+ "664849": {
+  "name": "Young, Danny",
+  "cluster": -1,
+  "pitches": {
+   "SI": 128,
+   "ST": 131
+  }
+ },
+ "664854": {
+  "name": "Helsley, Ryan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 123,
+   "FS": 33,
+   "SL": 106
+  }
+ },
+ "664875": {
+  "name": "Lawrence, Justin",
+  "cluster": 3,
+  "pitches": {
+   "FF": 93,
+   "SI": 292,
+   "ST": 299
+  }
+ },
+ "664954": {
+  "name": "Sullivan, Brett",
+  "cluster": -1,
+  "pitches": {
+   "EP": 58,
+   "FA": 35
+  }
+ },
+ "664991": {
+  "name": "Wolfram, Grant",
+  "cluster": 3,
+  "pitches": {
+   "CU": 139,
+   "FF": 213,
+   "SI": 349,
+   "SL": 106,
+   "ST": 81
+  }
+ },
+ "665152": {
+  "name": "Kremer, Dean",
+  "cluster": 2,
+  "pitches": {
+   "CU": 182,
+   "FC": 55,
+   "FF": 385,
+   "FS": 370,
+   "SI": 193,
+   "SL": 262
+  }
+ },
+ "665622": {
+  "name": "Medina, Luis",
+  "cluster": 3,
+  "pitches": {
+   "CH": 189,
+   "CU": 167,
+   "FF": 368,
+   "SI": 328,
+   "SL": 213
+  }
+ },
+ "665645": {
+  "name": "Castro, Kervin",
+  "cluster": -1,
+  "pitches": {
+   "FF": 49
+  }
+ },
+ "665660": {
+  "name": "Alvarado, Elvis",
+  "cluster": 0,
+  "pitches": {
+   "FF": 562,
+   "FS": 62,
+   "SI": 140,
+   "SL": 187
+  }
+ },
+ "665665": {
+  "name": "Sanmartin, Reiver",
+  "cluster": -1,
+  "pitches": {
+   "CH": 96,
+   "SI": 127,
+   "SL": 93
+  }
+ },
+ "665795": {
+  "name": "Cabrera, Edward",
+  "cluster": 2,
+  "pitches": {
+   "CH": 413,
+   "CU": 267,
+   "FF": 228,
+   "SI": 287,
+   "SL": 156
+  }
+ },
+ "665871": {
+  "name": "Assad, Javier",
+  "cluster": 0,
+  "pitches": {
+   "CH": 117,
+   "CU": 108,
+   "FC": 186,
+   "FF": 284,
+   "SI": 634,
+   "SL": 56,
+   "ST": 117
+  }
+ },
+ "666126": {
+  "name": "Cortes, Carlos",
+  "cluster": -1,
+  "pitches": {
+   "FA": 149
+  }
+ },
+ "666129": {
+  "name": "Garrett, Braxton",
+  "cluster": -1,
+  "pitches": {
+   "CH": 32,
+   "FF": 37,
+   "SI": 53,
+   "SL": 44,
+   "ST": 32
+  }
+ },
+ "666142": {
+  "name": "Ragans, Cole",
+  "cluster": 3,
+  "pitches": {
+   "CH": 105,
+   "FC": 36,
+   "FF": 358,
+   "KC": 54,
+   "SL": 85
+  }
+ },
+ "666157": {
+  "name": "Lodolo, Nick",
+  "cluster": 2,
+  "pitches": {
+   "CH": 425,
+   "CU": 463,
+   "FF": 521,
+   "SI": 481
+  }
+ },
+ "666171": {
+  "name": "Zeferjahn, Ryan",
+  "cluster": 1,
+  "pitches": {
+   "FF": 414,
+   "SI": 199,
+   "SL": 125,
+   "ST": 501
+  }
+ },
+ "666200": {
+  "name": "Luzardo, Jes\u00fas",
+  "cluster": 1,
+  "pitches": {
+   "CH": 521,
+   "FF": 749,
+   "SI": 496,
+   "ST": 1091
+  }
+ },
+ "666201": {
+  "name": "Manoah, Alek",
+  "cluster": -1,
+  "pitches": {
+   "CH": 63,
+   "SI": 56
+  }
+ },
+ "666277": {
+  "name": "Soriano, George",
+  "cluster": 2,
+  "pitches": {
+   "CH": 358,
+   "FF": 340,
+   "SI": 79,
+   "SL": 264,
+   "ST": 106
+  }
+ },
+ "666374": {
+  "name": "Brash, Matt",
+  "cluster": -1,
+  "pitches": {
+   "CH": 35,
+   "SI": 55,
+   "SL": 155
+  }
+ },
+ "666619": {
+  "name": "Santos, Gregory",
+  "cluster": -1,
+  "pitches": {
+   "SL": 44
+  }
+ },
+ "666661": {
+  "name": "Morillo, Juan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 218,
+   "FF": 495,
+   "SI": 204,
+   "SL": 122
+  }
+ },
+ "666711": {
+  "name": "Peguero, Joel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 73,
+   "SI": 57,
+   "SL": 39
+  }
+ },
+ "666745": {
+  "name": "Brito, Jhony",
+  "cluster": -1,
+  "pitches": {
+   "CH": 39,
+   "SI": 34
+  }
+ },
+ "666808": {
+  "name": "Doval, Camilo",
+  "cluster": 0,
+  "pitches": {
+   "FC": 275,
+   "SI": 412,
+   "SL": 324
+  }
+ },
+ "666974": {
+  "name": "Cano, Yennier",
+  "cluster": 2,
+  "pitches": {
+   "FF": 37,
+   "FS": 219,
+   "SI": 433,
+   "ST": 95
+  }
+ },
+ "667297": {
+  "name": "Nance, Tommy",
+  "cluster": 1,
+  "pitches": {
+   "CU": 283,
+   "SI": 266,
+   "SL": 428
+  }
+ },
+ "667463": {
+  "name": "King, John",
+  "cluster": 1,
+  "pitches": {
+   "CH": 143,
+   "CU": 82,
+   "SI": 227,
+   "SL": 137,
+   "ST": 114
+  }
+ },
+ "667652": {
+  "name": "Ralston, Jack",
+  "cluster": -1,
+  "pitches": {
+   "FF": 82,
+   "FS": 158,
+   "SL": 70
+  }
+ },
+ "667755": {
+  "name": "Soriano, Jos\u00e9",
+  "cluster": 2,
+  "pitches": {
+   "FF": 606,
+   "FS": 547,
+   "KC": 745,
+   "SI": 872,
+   "SL": 141
+  }
+ },
+ "668390": {
+  "name": "Winn, Cole",
+  "cluster": 3,
+  "pitches": {
+   "FC": 225,
+   "FF": 248,
+   "FS": 113,
+   "SL": 185
+  }
+ },
+ "668674": {
+  "name": "Erceg, Lucas",
+  "cluster": 3,
+  "pitches": {
+   "CH": 122,
+   "FF": 258,
+   "SI": 252,
+   "SL": 251
+  }
+ },
+ "668678": {
+  "name": "Gallen, Zac",
+  "cluster": 1,
+  "pitches": {
+   "CH": 304,
+   "FF": 626,
+   "KC": 340,
+   "SI": 99,
+   "SL": 409
+  }
+ },
+ "668820": {
+  "name": "Kranick, Max",
+  "cluster": -1,
+  "pitches": {
+   "CU": 82,
+   "FF": 126,
+   "SL": 97
+  }
+ },
+ "668831": {
+  "name": "Stallings, Garrett",
+  "cluster": -1,
+  "pitches": {
+   "CH": 79,
+   "FC": 51,
+   "SI": 49
+  }
+ },
+ "668834": {
+  "name": "McGee, Easton",
+  "cluster": -1,
+  "pitches": {
+   "CU": 40,
+   "FC": 31,
+   "FF": 38,
+   "SI": 34,
+   "ST": 34
+  }
+ },
+ "668873": {
+  "name": "Kilian, Caleb",
+  "cluster": 3,
+  "pitches": {
+   "FF": 389,
+   "KC": 187,
+   "SI": 105,
+   "SL": 101
+  }
+ },
+ "668881": {
+  "name": "Greene, Hunter",
+  "cluster": 3,
+  "pitches": {
+   "FF": 236,
+   "FS": 46,
+   "SL": 145
+  }
+ },
+ "668909": {
+  "name": "Williams, Gavin",
+  "cluster": 1,
+  "pitches": {
+   "CU": 665,
+   "FC": 173,
+   "FF": 806,
+   "SI": 461,
+   "ST": 851
+  }
+ },
+ "668933": {
+  "name": "Ashcraft, Graham",
+  "cluster": 1,
+  "pitches": {
+   "FC": 329,
+   "SL": 277
+  }
+ },
+ "668941": {
+  "name": "Romero, JoJo",
+  "cluster": 3,
+  "pitches": {
+   "CH": 154,
+   "SI": 415,
+   "ST": 334
+  }
+ },
+ "668964": {
+  "name": "Myers, Tobias",
+  "cluster": 2,
+  "pitches": {
+   "FC": 105,
+   "FF": 385,
+   "FS": 211,
+   "SL": 114
+  }
+ },
+ "668970": {
+  "name": "Hollowell, Gavin",
+  "cluster": -1,
+  "pitches": {
+   "FF": 92,
+   "SI": 58,
+   "ST": 86
+  }
+ },
+ "668984": {
+  "name": "Legumina, Casey",
+  "cluster": 3,
+  "pitches": {
+   "CH": 131,
+   "FF": 481,
+   "SI": 245,
+   "SL": 131,
+   "ST": 128
+  }
+ },
+ "669020": {
+  "name": "Rolison, Ryan",
+  "cluster": 1,
+  "pitches": {
+   "CU": 162,
+   "FF": 392,
+   "SI": 147,
+   "SL": 124,
+   "ST": 154
+  }
+ },
+ "669022": {
+  "name": "Gore, MacKenzie",
+  "cluster": 3,
+  "pitches": {
+   "CH": 387,
+   "CU": 534,
+   "FC": 184,
+   "FF": 1404,
+   "SI": 156,
+   "SL": 294
+  }
+ },
+ "669060": {
+  "name": "Wilson, Bryse",
+  "cluster": 0,
+  "pitches": {
+   "CU": 39,
+   "FC": 194,
+   "FF": 97,
+   "FS": 47,
+   "SI": 180
+  }
+ },
+ "669062": {
+  "name": "Miller, Erik",
+  "cluster": 3,
+  "pitches": {
+   "CH": 35,
+   "FF": 58,
+   "SI": 475,
+   "SL": 398
+  }
+ },
+ "669084": {
+  "name": "Hall, DL",
+  "cluster": 3,
+  "pitches": {
+   "CH": 154,
+   "CU": 164,
+   "FF": 121,
+   "SI": 360,
+   "SL": 105,
+   "ST": 79
+  }
+ },
+ "669093": {
+  "name": "Estrada, Jeremiah",
+  "cluster": 2,
+  "pitches": {
+   "FF": 298,
+   "FS": 164,
+   "SL": 49
+  }
+ },
+ "669160": {
+  "name": "May, Dustin",
+  "cluster": 3,
+  "pitches": {
+   "CH": 145,
+   "CU": 182,
+   "FC": 568,
+   "FF": 595,
+   "SI": 479,
+   "ST": 425
+  }
+ },
+ "669165": {
+  "name": "Hurt, Kyle",
+  "cluster": 2,
+  "pitches": {
+   "CH": 263,
+   "FF": 408,
+   "SL": 70
+  }
+ },
+ "669194": {
+  "name": "Nelson, Ryne",
+  "cluster": 3,
+  "pitches": {
+   "CU": 123,
+   "FC": 134,
+   "FF": 783,
+   "SI": 48,
+   "SL": 285
+  }
+ },
+ "669199": {
+  "name": "Bachar, Lake",
+  "cluster": 1,
+  "pitches": {
+   "CU": 296,
+   "FF": 438,
+   "FS": 104,
+   "SI": 62,
+   "SL": 323,
+   "ST": 225
+  }
+ },
+ "669203": {
+  "name": "Burnes, Corbin",
+  "cluster": -1,
+  "pitches": {
+   "CU": 47,
+   "FC": 106
+  }
+ },
+ "669211": {
+  "name": "Akin, Keegan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 113,
+   "FF": 217,
+   "SL": 110
+  }
+ },
+ "669212": {
+  "name": "Morgan, Eli",
+  "cluster": 2,
+  "pitches": {
+   "CH": 112,
+   "FF": 125,
+   "SL": 101
+  }
+ },
+ "669270": {
+  "name": "Kuhnel, Joel",
+  "cluster": 0,
+  "pitches": {
+   "CH": 45,
+   "FC": 219,
+   "FF": 54,
+   "SI": 386
+  }
+ },
+ "669276": {
+  "name": "Lee, Dylan",
+  "cluster": 1,
+  "pitches": {
+   "CH": 170,
+   "FF": 334,
+   "SL": 548
+  }
+ },
+ "669298": {
+  "name": "Shook, TJ",
+  "cluster": -1,
+  "pitches": {
+   "FF": 59,
+   "ST": 31
+  }
+ },
+ "669302": {
+  "name": "Gilbert, Logan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 215,
+   "FC": 152,
+   "FF": 1187,
+   "FS": 447,
+   "SL": 741,
+   "ST": 214
+  }
+ },
+ "669310": {
+  "name": "Van Eyk, CJ",
+  "cluster": -1,
+  "pitches": {
+   "CH": 36,
+   "CU": 49,
+   "FC": 58,
+   "FF": 39
+  }
+ },
+ "669330": {
+  "name": "Wells, Tyler",
+  "cluster": 2,
+  "pitches": {
+   "CH": 238,
+   "CU": 47,
+   "FC": 323,
+   "FF": 299,
+   "SL": 159
+  }
+ },
+ "669358": {
+  "name": "Baz, Shane",
+  "cluster": 3,
+  "pitches": {
+   "CH": 269,
+   "FC": 433,
+   "FF": 989,
+   "KC": 959,
+   "SI": 256
+  }
+ },
+ "669371": {
+  "name": "Henry, Cole",
+  "cluster": -1,
+  "pitches": {
+   "FF": 135,
+   "ST": 98
+  }
+ },
+ "669372": {
+  "name": "Ginn, J.T.",
+  "cluster": 2,
+  "pitches": {
+   "CH": 434,
+   "CU": 64,
+   "FC": 355,
+   "FF": 246,
+   "SI": 802,
+   "SL": 280
+  }
+ },
+ "669373": {
+  "name": "Skubal, Tarik",
+  "cluster": 2,
+  "pitches": {
+   "CH": 603,
+   "CU": 118,
+   "FF": 892,
+   "SI": 412,
+   "SL": 325
+  }
+ },
+ "669387": {
+  "name": "Mlodzinski, Carmen",
+  "cluster": 2,
+  "pitches": {
+   "CU": 245,
+   "FC": 105,
+   "FF": 537,
+   "FS": 522,
+   "SI": 383,
+   "SL": 73,
+   "ST": 215
+  }
+ },
+ "669432": {
+  "name": "Rogers, Trevor",
+  "cluster": 2,
+  "pitches": {
+   "CH": 549,
+   "FC": 225,
+   "FF": 1262,
+   "SI": 269,
+   "ST": 380
+  }
+ },
+ "669438": {
+  "name": "Englert, Mason",
+  "cluster": 2,
+  "pitches": {
+   "CH": 178,
+   "CU": 124,
+   "FC": 68,
+   "FF": 114,
+   "SI": 132,
+   "SL": 37
+  }
+ },
+ "669456": {
+  "name": "Bieber, Shane",
+  "cluster": 2,
+  "pitches": {
+   "CH": 171,
+   "FC": 113,
+   "FF": 340,
+   "KC": 172,
+   "SI": 41,
+   "SL": 93
+  }
+ },
+ "669461": {
+  "name": "Liberatore, Matthew",
+  "cluster": 1,
+  "pitches": {
+   "CH": 325,
+   "CU": 473,
+   "FC": 105,
+   "FF": 779,
+   "SI": 212,
+   "SL": 690
+  }
+ },
+ "669467": {
+  "name": "Pallante, Andre",
+  "cluster": 1,
+  "pitches": {
+   "FF": 899,
+   "FS": 76,
+   "KC": 452,
+   "SI": 441,
+   "SL": 770
+  }
+ },
+ "669620": {
+  "name": "Basso, Brady",
+  "cluster": -1,
+  "pitches": {
+   "CH": 30,
+   "CU": 124,
+   "FC": 77,
+   "FF": 305,
+   "SI": 55,
+   "SL": 101
+  }
+ },
+ "669622": {
+  "name": "Bender, Anthony",
+  "cluster": 1,
+  "pitches": {
+   "SI": 171,
+   "SL": 69,
+   "ST": 279
+  }
+ },
+ "669684": {
+  "name": "Murphy, Chris",
+  "cluster": 1,
+  "pitches": {
+   "CU": 146,
+   "FF": 210,
+   "SL": 178,
+   "ST": 30
+  }
+ },
+ "669704": {
+  "name": "Strowd, Kade",
+  "cluster": -1,
+  "pitches": {
+   "FC": 40
+  }
+ },
+ "669711": {
+  "name": "Weissert, Greg",
+  "cluster": 3,
+  "pitches": {
+   "CH": 130,
+   "FF": 292,
+   "SI": 342,
+   "SL": 80,
+   "ST": 124
+  }
+ },
+ "669713": {
+  "name": "Wesneski, Hayden",
+  "cluster": -1,
+  "pitches": {
+   "CH": 107,
+   "FC": 136,
+   "FF": 218,
+   "SI": 170,
+   "ST": 264
+  }
+ },
+ "669724": {
+  "name": "Hanifee, Brenan",
+  "cluster": 0,
+  "pitches": {
+   "SI": 193,
+   "SL": 74
+  }
+ },
+ "669854": {
+  "name": "Blanco, Ronel",
+  "cluster": -1,
+  "pitches": {
+   "CH": 152,
+   "CU": 87,
+   "FF": 210,
+   "SL": 120
+  }
+ },
+ "669920": {
+  "name": "Alexander, Jason",
+  "cluster": -1,
+  "pitches": {
+   "CH": 105,
+   "FF": 68,
+   "SI": 70
+  }
+ },
+ "669923": {
+  "name": "Kirby, George",
+  "cluster": 3,
+  "pitches": {
+   "CH": 140,
+   "FC": 116,
+   "FF": 784,
+   "FS": 80,
+   "KC": 282,
+   "SI": 574,
+   "ST": 779
+  }
+ },
+ "669947": {
+  "name": "Scholtens, Jesse",
+  "cluster": 1,
+  "pitches": {
+   "FF": 164,
+   "FS": 115,
+   "SI": 179,
+   "SL": 236,
+   "ST": 79
+  }
+ },
+ "670036": {
+  "name": "Festa, Matt",
+  "cluster": 3,
+  "pitches": {
+   "FC": 53,
+   "FF": 543,
+   "SI": 65,
+   "ST": 440
+  }
+ },
+ "670059": {
+  "name": "Holderman, Colin",
+  "cluster": 1,
+  "pitches": {
+   "CU": 90,
+   "FF": 40,
+   "SI": 437,
+   "ST": 290
+  }
+ },
+ "670062": {
+  "name": "Garcia, Julian",
+  "cluster": 1,
+  "pitches": {
+   "FF": 217,
+   "SL": 126,
+   "ST": 368
+  }
+ },
+ "670090": {
+  "name": "Mills, Wyatt",
+  "cluster": -1,
+  "pitches": {
+   "FF": 41,
+   "SI": 40,
+   "SL": 44
+  }
+ },
+ "670103": {
+  "name": "Burgos, Raymond",
+  "cluster": -1,
+  "pitches": {
+   "FC": 34,
+   "SI": 126,
+   "ST": 96
+  }
+ },
+ "670167": {
+  "name": "Schreiber, John",
+  "cluster": 3,
+  "pitches": {
+   "CH": 64,
+   "FC": 126,
+   "FF": 279,
+   "SI": 257,
+   "ST": 269
+  }
+ },
+ "670183": {
+  "name": "Acton, Garrett",
+  "cluster": -1,
+  "pitches": {
+   "FF": 116,
+   "SL": 83
+  }
+ },
+ "670245": {
+  "name": "Watson, Ryan",
+  "cluster": 3,
+  "pitches": {
+   "CU": 200,
+   "FC": 277,
+   "FF": 214,
+   "SI": 162,
+   "ST": 272
+  }
+ },
+ "670280": {
+  "name": "Bednar, David",
+  "cluster": 2,
+  "pitches": {
+   "CU": 210,
+   "FF": 468,
+   "FS": 476
+  }
+ },
+ "670329": {
+  "name": "Garcia, Rico",
+  "cluster": 2,
+  "pitches": {
+   "CH": 273,
+   "CU": 240,
+   "FF": 330,
+   "SL": 152
+  }
+ },
+ "670950": {
+  "name": "Richards, Trevor",
+  "cluster": 2,
+  "pitches": {
+   "CH": 359,
+   "FF": 820,
+   "SL": 114
+  }
+ },
+ "670970": {
+  "name": "Morejon, Adrian",
+  "cluster": 2,
+  "pitches": {
+   "CH": 304,
+   "FF": 187,
+   "SI": 627,
+   "SL": 199
+  }
+ },
+ "670990": {
+  "name": "Ram\u00edrez, Yohan",
+  "cluster": 1,
+  "pitches": {
+   "CU": 149,
+   "FF": 293,
+   "SI": 344,
+   "ST": 619
+  }
+ },
+ "671083": {
+  "name": "Kennedy, Buddy",
+  "cluster": -1,
+  "pitches": {
+   "FA": 39
+  }
+ },
+ "671096": {
+  "name": "Abbott, Andrew",
+  "cluster": 3,
+  "pitches": {
+   "CH": 555,
+   "CU": 370,
+   "FC": 95,
+   "FF": 1268,
+   "ST": 558
+  }
+ },
+ "671106": {
+  "name": "Allen, Logan",
+  "cluster": -1,
+  "pitches": {
+   "CH": 43,
+   "FC": 77,
+   "FF": 88,
+   "SI": 52,
+   "ST": 64
+  }
+ },
+ "671109": {
+  "name": "Eder, Jake",
+  "cluster": -1,
+  "pitches": {
+   "FF": 34
+  }
+ },
+ "671111": {
+  "name": "Peralta, Sammy",
+  "cluster": -1,
+  "pitches": {
+   "CH": 71,
+   "FF": 59,
+   "SI": 105,
+   "SL": 82,
+   "ST": 82
+  }
+ },
+ "671162": {
+  "name": "Thomas, Connor",
+  "cluster": -1,
+  "pitches": {
+   "CH": 81,
+   "FC": 68,
+   "FF": 95,
+   "SI": 98,
+   "ST": 76
+  }
+ },
+ "671212": {
+  "name": "Boyle, Joe",
+  "cluster": -1,
+  "pitches": {
+   "FF": 77,
+   "FS": 49,
+   "SI": 65,
+   "SL": 112,
+   "ST": 43
+  }
+ },
+ "671345": {
+  "name": "Foley, Jason",
+  "cluster": -1,
+  "pitches": {
+   "FF": 81,
+   "FS": 61,
+   "SI": 187,
+   "SL": 119
+  }
+ },
+ "671382": {
+  "name": "Foster, Cameron",
+  "cluster": -1,
+  "pitches": {
+   "FC": 37,
+   "FF": 110,
+   "SL": 41
+  }
+ },
+ "671737": {
+  "name": "Bradley, Taj",
+  "cluster": 0,
+  "pitches": {
+   "CU": 278,
+   "FC": 734,
+   "FF": 1396,
+   "FS": 587
+  }
+ },
+ "671922": {
+  "name": "Smith, Cade",
+  "cluster": 2,
+  "pitches": {
+   "FF": 788,
+   "FS": 309,
+   "ST": 128
+  }
+ },
+ "671936": {
+  "name": "Macko, Adam",
+  "cluster": 1,
+  "pitches": {
+   "CH": 84,
+   "FF": 230,
+   "KC": 32,
+   "SL": 231
+  }
+ },
+ "672021": {
+  "name": "Cerantola, Eric",
+  "cluster": -1,
+  "pitches": {
+   "FF": 45,
+   "SL": 49
+  }
+ },
+ "672282": {
+  "name": "Detmers, Reid",
+  "cluster": 1,
+  "pitches": {
+   "CH": 275,
+   "CU": 326,
+   "FF": 1355,
+   "SL": 970
+  }
+ },
+ "672335": {
+  "name": "P\u00e9rez, Cionel",
+  "cluster": 1,
+  "pitches": {
+   "CU": 128,
+   "FF": 166,
+   "SI": 234,
+   "SV": 261
+  }
+ },
+ "672442": {
+  "name": "Cruz, Yovanny",
+  "cluster": -1,
+  "pitches": {
+   "FF": 64,
+   "SI": 46,
+   "SL": 126
+  }
+ },
+ "672456": {
+  "name": "Montero, Keider",
+  "cluster": 3,
+  "pitches": {
+   "CH": 314,
+   "FF": 691,
+   "KC": 318,
+   "SI": 527,
+   "SL": 449
+  }
+ },
+ "672582": {
+  "name": "Zerpa, Angel",
+  "cluster": -1,
+  "pitches": {
+   "SI": 146,
+   "SL": 45
+  }
+ },
+ "672629": {
+  "name": "Carrillo, Gerardo",
+  "cluster": -1,
+  "pitches": {
+   "FC": 92,
+   "FF": 34,
+   "FS": 81,
+   "SI": 68,
+   "ST": 41
+  }
+ },
+ "672782": {
+  "name": "G\u00f3mez, Yoendrys",
+  "cluster": 0,
+  "pitches": {
+   "CH": 64,
+   "FC": 169,
+   "FF": 518,
+   "SI": 100,
+   "ST": 271
+  }
+ },
+ "672841": {
+  "name": "Vargas, Carlos",
+  "cluster": -1,
+  "pitches": {
+   "FC": 69,
+   "SI": 142,
+   "SL": 70
+  }
+ },
+ "673380": {
+  "name": "N\u00fa\u00f1ez, Dedniel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 113,
+   "SL": 96
+  }
+ },
+ "673513": {
+  "name": "Matsui, Yuki",
+  "cluster": 2,
+  "pitches": {
+   "FF": 413,
+   "FS": 281,
+   "SI": 31,
+   "SL": 329,
+   "ST": 31
+  }
+ },
+ "673540": {
+  "name": "Senga, Kodai",
+  "cluster": 3,
+  "pitches": {
+   "FC": 149,
+   "FF": 481,
+   "FO": 302,
+   "SI": 36,
+   "SL": 67,
+   "ST": 92
+  }
+ },
+ "673929": {
+  "name": "Leasure, Jordan",
+  "cluster": 3,
+  "pitches": {
+   "FF": 164,
+   "SL": 129
+  }
+ },
+ "674003": {
+  "name": "Bradford, Cody",
+  "cluster": -1,
+  "pitches": {
+   "CH": 223,
+   "CU": 32,
+   "FF": 369,
+   "SL": 78
+  }
+ },
+ "674073": {
+  "name": "Weisenburger, Jack",
+  "cluster": -1,
+  "pitches": {
+   "FC": 38,
+   "FF": 63,
+   "SI": 36,
+   "ST": 49
+  }
+ },
+ "674370": {
+  "name": "Bido, Osvaldo",
+  "cluster": 1,
+  "pitches": {
+   "FF": 92,
+   "SI": 65,
+   "SL": 77,
+   "ST": 63
+  }
+ },
+ "674444": {
+  "name": "Cruz, Steven",
+  "cluster": 0,
+  "pitches": {
+   "FC": 265,
+   "FF": 522,
+   "SL": 138
+  }
+ },
+ "674841": {
+  "name": "Alvarez, Andrew",
+  "cluster": 1,
+  "pitches": {
+   "CH": 101,
+   "CU": 593,
+   "FF": 521,
+   "SI": 264,
+   "SL": 376
+  }
+ },
+ "675512": {
+  "name": "Melton, Troy",
+  "cluster": 0,
+  "pitches": {
+   "CH": 200,
+   "CU": 139,
+   "FC": 389,
+   "FF": 581,
+   "SI": 162,
+   "SL": 301
+  }
+ },
+ "675540": {
+  "name": "Curry, Xzavion",
+  "cluster": -1,
+  "pitches": {
+   "CU": 37,
+   "FF": 131,
+   "FS": 53,
+   "SL": 100
+  }
+ },
+ "675627": {
+  "name": "Grove, Michael",
+  "cluster": -1,
+  "pitches": {
+   "SL": 34
+  }
+ },
+ "675660": {
+  "name": "Drohan, Shane",
+  "cluster": 3,
+  "pitches": {
+   "CH": 101,
+   "CU": 257,
+   "FC": 235,
+   "FF": 535,
+   "SI": 437,
+   "SL": 432
+  }
+ },
+ "675848": {
+  "name": "Mejia, Juan",
+  "cluster": 3,
+  "pitches": {
+   "FF": 698,
+   "SI": 59,
+   "ST": 490
+  }
+ },
+ "675911": {
+  "name": "Strider, Spencer",
+  "cluster": 1,
+  "pitches": {
+   "CH": 71,
+   "CU": 100,
+   "FF": 329,
+   "SL": 191
+  }
+ },
+ "675916": {
+  "name": "Karinchak, James",
+  "cluster": -1,
+  "pitches": {
+   "CU": 64,
+   "FF": 98
+  }
+ },
+ "675919": {
+  "name": "Raquet, Nick",
+  "cluster": -1,
+  "pitches": {
+   "ST": 31
+  }
+ },
+ "675989": {
+  "name": "Bolton, Cody",
+  "cluster": 0,
+  "pitches": {
+   "CH": 42,
+   "CU": 45,
+   "FC": 93,
+   "FF": 110,
+   "SI": 59,
+   "ST": 41
+  }
+ },
+ "676051": {
+  "name": "Heuer, Codi",
+  "cluster": -1,
+  "pitches": {
+   "CH": 46,
+   "FF": 81,
+   "SL": 61
+  }
+ },
+ "676083": {
+  "name": "Junk, Janson",
+  "cluster": 1,
+  "pitches": {
+   "CH": 346,
+   "CU": 179,
+   "FF": 702,
+   "SI": 78,
+   "SL": 380,
+   "ST": 286
+  }
+ },
+ "676105": {
+  "name": "Criswell, Jeff",
+  "cluster": -1,
+  "pitches": {
+   "FF": 33,
+   "SL": 37
+  }
+ },
+ "676106": {
+  "name": "Hancock, Emerson",
+  "cluster": 0,
+  "pitches": {
+   "CH": 108,
+   "CU": 97,
+   "FC": 252,
+   "FF": 857,
+   "SI": 507,
+   "ST": 348
+  }
+ },
+ "676254": {
+  "name": "Walker, Ryan",
+  "cluster": 0,
+  "pitches": {
+   "SI": 393,
+   "SL": 186
+  }
+ },
+ "676263": {
+  "name": "Dreyer, Jack",
+  "cluster": 1,
+  "pitches": {
+   "CU": 169,
+   "FF": 490,
+   "SL": 373
+  }
+ },
+ "676272": {
+  "name": "Miller, Bobby",
+  "cluster": -1,
+  "pitches": {
+   "CU": 57,
+   "FF": 49
+  }
+ },
+ "676282": {
+  "name": "Cantillo, Joey",
+  "cluster": 2,
+  "pitches": {
+   "CH": 666,
+   "CU": 843,
+   "FC": 223,
+   "FF": 900,
+   "SL": 111
+  }
+ },
+ "676395": {
+  "name": "Garcia, Robert",
+  "cluster": -1,
+  "pitches": {
+   "CH": 101,
+   "FF": 127,
+   "SL": 59
+  }
+ },
+ "676428": {
+  "name": "Hurter, Brant",
+  "cluster": 3,
+  "pitches": {
+   "CH": 54,
+   "SI": 276,
+   "ST": 151
+  }
+ },
+ "676440": {
+  "name": "Bibee, Tanner",
+  "cluster": 0,
+  "pitches": {
+   "CH": 458,
+   "CU": 325,
+   "FC": 717,
+   "FF": 695,
+   "SI": 614,
+   "ST": 155
+  }
+ },
+ "676454": {
+  "name": "Cellucci, Brendan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 48,
+   "ST": 52
+  }
+ },
+ "676467": {
+  "name": "Gordon, Colton",
+  "cluster": -1,
+  "pitches": {
+   "CH": 38,
+   "FF": 77,
+   "SI": 58,
+   "ST": 75
+  }
+ },
+ "676477": {
+  "name": "Whitlock, Garrett",
+  "cluster": 3,
+  "pitches": {
+   "CH": 134,
+   "SI": 416,
+   "SL": 192
+  }
+ },
+ "676508": {
+  "name": "Casparius, Ben",
+  "cluster": -1,
+  "pitches": {
+   "FF": 41
+  }
+ },
+ "676510": {
+  "name": "Hoffman, Nolan",
+  "cluster": -1,
+  "pitches": {
+   "FC": 60,
+   "FF": 57,
+   "SI": 56
+  }
+ },
+ "676534": {
+  "name": "Faucher, Calvin",
+  "cluster": 3,
+  "pitches": {
+   "CU": 152,
+   "FC": 372,
+   "FF": 128,
+   "SI": 187,
+   "ST": 299
+  }
+ },
+ "676568": {
+  "name": "Vanasco, Ricky",
+  "cluster": -1,
+  "pitches": {
+   "CH": 44,
+   "CU": 39,
+   "FF": 87
+  }
+ },
+ "676571": {
+  "name": "Poulin, PJ",
+  "cluster": 3,
+  "pitches": {
+   "CH": 75,
+   "FF": 189,
+   "SI": 145,
+   "ST": 224
+  }
+ },
+ "676604": {
+  "name": "Zuber, Tyler",
+  "cluster": 1,
+  "pitches": {
+   "CU": 44,
+   "FF": 274,
+   "SI": 82,
+   "SL": 120,
+   "ST": 174
+  }
+ },
+ "676617": {
+  "name": "O'Brien, Riley",
+  "cluster": 3,
+  "pitches": {
+   "SI": 617,
+   "SL": 82,
+   "ST": 348
+  }
+ },
+ "676620": {
+  "name": "Weiman, Blake",
+  "cluster": -1,
+  "pitches": {
+   "SI": 36,
+   "SL": 69,
+   "ST": 138
+  }
+ },
+ "676661": {
+  "name": "Lazar, Max",
+  "cluster": -1,
+  "pitches": {
+   "FC": 32,
+   "FF": 61,
+   "FS": 35
+  }
+ },
+ "676664": {
+  "name": "Sears, JP",
+  "cluster": 2,
+  "pitches": {
+   "CH": 109,
+   "FF": 182,
+   "SI": 78,
+   "SL": 74,
+   "ST": 76
+  }
+ },
+ "676680": {
+  "name": "Cosgrove, Tom",
+  "cluster": -1,
+  "pitches": {
+   "FF": 75,
+   "ST": 178
+  }
+ },
+ "676684": {
+  "name": "Vest, Will",
+  "cluster": 3,
+  "pitches": {
+   "CH": 55,
+   "FF": 213,
+   "SI": 75,
+   "SL": 139
+  }
+ },
+ "676742": {
+  "name": "Sanders, Cam",
+  "cluster": -1,
+  "pitches": {
+   "CH": 69,
+   "FF": 250,
+   "SL": 211
+  }
+ },
+ "676755": {
+  "name": "Mattson, Isaac",
+  "cluster": 0,
+  "pitches": {
+   "CH": 74,
+   "FF": 513,
+   "SL": 65,
+   "ST": 76
+  }
+ },
+ "676760": {
+  "name": "Marinaccio, Ron",
+  "cluster": 2,
+  "pitches": {
+   "CH": 284,
+   "FC": 217,
+   "FF": 444,
+   "ST": 97
+  }
+ },
+ "676775": {
+  "name": "Winn, Keaton",
+  "cluster": 2,
+  "pitches": {
+   "FF": 157,
+   "FS": 293,
+   "SI": 144,
+   "SL": 48
+  }
+ },
+ "676879": {
+  "name": "Ashby, Aaron",
+  "cluster": 3,
+  "pitches": {
+   "CH": 188,
+   "CU": 354,
+   "SI": 825,
+   "SL": 187
+  }
+ },
+ "676917": {
+  "name": "Cavalli, Cade",
+  "cluster": 3,
+  "pitches": {
+   "CH": 212,
+   "FC": 175,
+   "FF": 903,
+   "KC": 737,
+   "SI": 347,
+   "ST": 397
+  }
+ },
+ "676962": {
+  "name": "Brown, Ben",
+  "cluster": 3,
+  "pitches": {
+   "CH": 60,
+   "FF": 370,
+   "KC": 366,
+   "SI": 206
+  }
+ },
+ "676974": {
+  "name": "Meyer, Max",
+  "cluster": 1,
+  "pitches": {
+   "CH": 182,
+   "FF": 430,
+   "SI": 173,
+   "SL": 465,
+   "ST": 537
+  }
+ },
+ "676979": {
+  "name": "Crochet, Garrett",
+  "cluster": 0,
+  "pitches": {
+   "FC": 127,
+   "FF": 173,
+   "SI": 115,
+   "ST": 74
+  }
+ },
+ "677020": {
+  "name": "Walker, Josh",
+  "cluster": -1,
+  "pitches": {
+   "CH": 50,
+   "FF": 127,
+   "SI": 137,
+   "SL": 191
+  }
+ },
+ "677053": {
+  "name": "Nardi, Andrew",
+  "cluster": 3,
+  "pitches": {
+   "CH": 44,
+   "FF": 180,
+   "SL": 59,
+   "ST": 87
+  }
+ },
+ "677161": {
+  "name": "Kelly, Zack",
+  "cluster": -1,
+  "pitches": {
+   "FC": 124,
+   "FF": 38,
+   "SI": 48,
+   "ST": 61
+  }
+ },
+ "677865": {
+  "name": "Bruihl, Justin",
+  "cluster": 3,
+  "pitches": {
+   "CH": 112,
+   "FF": 80,
+   "SI": 574,
+   "ST": 533
+  }
+ },
+ "677944": {
+  "name": "Cecconi, Slade",
+  "cluster": 0,
+  "pitches": {
+   "CH": 41,
+   "CU": 296,
+   "FC": 512,
+   "FF": 538,
+   "SI": 403,
+   "SL": 91,
+   "ST": 118
+  }
+ },
+ "677952": {
+  "name": "Ashcraft, Braxton",
+  "cluster": 1,
+  "pitches": {
+   "CU": 637,
+   "FF": 737,
+   "FS": 100,
+   "SI": 399,
+   "SL": 536
+  }
+ },
+ "677955": {
+  "name": "Hill, Jaden",
+  "cluster": 2,
+  "pitches": {
+   "CH": 145,
+   "FF": 221,
+   "SI": 142,
+   "SL": 184
+  }
+ },
+ "677958": {
+  "name": "Rocker, Kumar",
+  "cluster": 3,
+  "pitches": {
+   "CH": 81,
+   "FC": 352,
+   "FF": 368,
+   "SI": 736,
+   "SL": 938
+  }
+ },
+ "677960": {
+  "name": "Weathers, Ryan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 574,
+   "FF": 505,
+   "SI": 474,
+   "SL": 266,
+   "ST": 458
+  }
+ },
+ "677961": {
+  "name": "Wilcox, Cole",
+  "cluster": 1,
+  "pitches": {
+   "CH": 58,
+   "FF": 135,
+   "SI": 78,
+   "SL": 83,
+   "ST": 133
+  }
+ },
+ "677976": {
+  "name": "Dobnak, Randy",
+  "cluster": 2,
+  "pitches": {
+   "CH": 278,
+   "FF": 122,
+   "SI": 486,
+   "SL": 63,
+   "ST": 312
+  }
+ },
+ "678020": {
+  "name": "Halvorsen, Seth",
+  "cluster": 3,
+  "pitches": {
+   "FF": 313,
+   "FS": 47,
+   "SL": 151
+  }
+ },
+ "678022": {
+  "name": "Perkins, Jack",
+  "cluster": 2,
+  "pitches": {
+   "CH": 388,
+   "CU": 34,
+   "FC": 315,
+   "FF": 606,
+   "SI": 114,
+   "ST": 586
+  }
+ },
+ "678061": {
+  "name": "Kerr, Ray",
+  "cluster": -1,
+  "pitches": {
+   "CU": 65,
+   "FF": 76,
+   "SI": 48
+  }
+ },
+ "678368": {
+  "name": "Bellozo, Valente",
+  "cluster": -1,
+  "pitches": {
+   "CH": 31,
+   "FC": 40,
+   "FF": 36,
+   "ST": 35
+  }
+ },
+ "678391": {
+  "name": "Vivas, Jorbit",
+  "cluster": -1,
+  "pitches": {
+   "EP": 53
+  }
+ },
+ "678394": {
+  "name": "Bello, Brayan",
+  "cluster": 0,
+  "pitches": {
+   "CH": 387,
+   "CU": 64,
+   "FC": 277,
+   "FF": 182,
+   "SI": 737,
+   "ST": 258
+  }
+ },
+ "678576": {
+  "name": "Ramos, Wilkin",
+  "cluster": -1,
+  "pitches": {
+   "SI": 37
+  }
+ },
+ "678606": {
+  "name": "Ferrer, Jos\u00e9 A.",
+  "cluster": 0,
+  "pitches": {
+   "CH": 196,
+   "SI": 748,
+   "SL": 135
+  }
+ },
+ "678868": {
+  "name": "Yean, Eddy",
+  "cluster": -1,
+  "pitches": {
+   "CH": 50,
+   "SI": 97
+  }
+ },
+ "678906": {
+  "name": "Teng, Kai-Wei",
+  "cluster": 1,
+  "pitches": {
+   "CH": 125,
+   "CU": 116,
+   "FF": 344,
+   "SI": 211,
+   "ST": 448
+  }
+ },
+ "679358": {
+  "name": "Orze, Eric",
+  "cluster": 2,
+  "pitches": {
+   "CU": 63,
+   "FF": 176,
+   "FS": 338,
+   "SL": 97
+  }
+ },
+ "679775": {
+  "name": "Backhus, Kyle",
+  "cluster": 3,
+  "pitches": {
+   "CH": 37,
+   "SI": 195,
+   "ST": 121
+  }
+ },
+ "679883": {
+  "name": "Avila, Luinder",
+  "cluster": 3,
+  "pitches": {
+   "CH": 134,
+   "CU": 191,
+   "FF": 334,
+   "SI": 352,
+   "SL": 278
+  }
+ },
+ "679885": {
+  "name": "Martinez, Justin",
+  "cluster": -1,
+  "pitches": {
+   "FF": 84,
+   "FS": 54,
+   "SI": 84
+  }
+ },
+ "680570": {
+  "name": "Rodriguez, Grayson",
+  "cluster": 2,
+  "pitches": {
+   "CH": 467,
+   "CU": 207,
+   "FF": 905,
+   "SL": 192
+  }
+ },
+ "680573": {
+  "name": "Woods Richardson, Simeon",
+  "cluster": 2,
+  "pitches": {
+   "CU": 112,
+   "FF": 502,
+   "FS": 287,
+   "SL": 257
+  }
+ },
+ "680604": {
+  "name": "Casta\u00f1o, Blas",
+  "cluster": 3,
+  "pitches": {
+   "CH": 47,
+   "FC": 63,
+   "FF": 56,
+   "SI": 185,
+   "ST": 104
+  }
+ },
+ "680694": {
+  "name": "Bradish, Kyle",
+  "cluster": 1,
+  "pitches": {
+   "CU": 569,
+   "FF": 445,
+   "SI": 959,
+   "SL": 636
+  }
+ },
+ "680702": {
+  "name": "Gerber, Joey",
+  "cluster": -1,
+  "pitches": {
+   "FC": 54,
+   "FF": 70
+  }
+ },
+ "680704": {
+  "name": "Sandlin, Nick",
+  "cluster": -1,
+  "pitches": {
+   "FS": 37,
+   "SL": 85
+  }
+ },
+ "680723": {
+  "name": "Rom, Drew",
+  "cluster": -1,
+  "pitches": {
+   "FF": 182,
+   "FS": 36,
+   "SI": 46,
+   "ST": 35
+  }
+ },
+ "680730": {
+  "name": "Parker, Mitchell",
+  "cluster": 1,
+  "pitches": {
+   "CU": 103,
+   "FF": 223,
+   "SL": 329
+  }
+ },
+ "680732": {
+  "name": "Burke, Sean",
+  "cluster": 3,
+  "pitches": {
+   "CH": 53,
+   "FC": 300,
+   "FF": 1067,
+   "KC": 579,
+   "SI": 396,
+   "SL": 480
+  }
+ },
+ "680736": {
+  "name": "Wrobleski, Justin",
+  "cluster": 3,
+  "pitches": {
+   "CH": 106,
+   "CU": 98,
+   "FC": 32,
+   "FF": 1047,
+   "SI": 177,
+   "SL": 601,
+   "ST": 73
+  }
+ },
+ "680742": {
+  "name": "Bowlan, Jonathan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 128,
+   "FF": 465,
+   "SI": 108,
+   "SL": 179,
+   "ST": 77
+  }
+ },
+ "680744": {
+  "name": "Madden, Ty",
+  "cluster": 3,
+  "pitches": {
+   "FC": 159,
+   "FF": 247,
+   "FS": 104,
+   "SI": 82,
+   "SL": 157
+  }
+ },
+ "680755": {
+  "name": "Fisher, Braydon",
+  "cluster": 1,
+  "pitches": {
+   "CU": 372,
+   "FC": 30,
+   "FF": 245,
+   "SL": 603
+  }
+ },
+ "680767": {
+  "name": "Vodnik, Victor",
+  "cluster": 3,
+  "pitches": {
+   "CH": 152,
+   "FF": 467,
+   "SI": 38,
+   "SL": 283,
+   "SV": 70
+  }
+ },
+ "680802": {
+  "name": "Weiss, Ryan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 79,
+   "FF": 196,
+   "SI": 66,
+   "ST": 171
+  }
+ },
+ "680899": {
+  "name": "Tolman, Erik",
+  "cluster": -1,
+  "pitches": {
+   "CH": 79,
+   "FF": 151,
+   "SL": 59
+  }
+ },
+ "680916": {
+  "name": "Aleman, Franco",
+  "cluster": -1,
+  "pitches": {
+   "FF": 283,
+   "SL": 116
+  }
+ },
+ "681006": {
+  "name": "Simpson, Josh",
+  "cluster": -1,
+  "pitches": {
+   "CU": 39,
+   "SI": 59,
+   "ST": 42
+  }
+ },
+ "681035": {
+  "name": "Scott, Christian",
+  "cluster": 3,
+  "pitches": {
+   "CU": 100,
+   "FC": 372,
+   "FF": 926,
+   "FS": 84,
+   "SI": 33,
+   "ST": 448
+  }
+ },
+ "681151": {
+  "name": "Murray, Jayden",
+  "cluster": 0,
+  "pitches": {
+   "FF": 162,
+   "ST": 75
+  }
+ },
+ "681168": {
+  "name": "Curvelo, Luis",
+  "cluster": -1,
+  "pitches": {
+   "FF": 57,
+   "FS": 38,
+   "SI": 38,
+   "SL": 54
+  }
+ },
+ "681190": {
+  "name": "V\u00e1squez, Randy",
+  "cluster": 0,
+  "pitches": {
+   "CH": 194,
+   "CU": 171,
+   "FC": 538,
+   "FF": 706,
+   "SI": 369,
+   "SL": 136,
+   "ST": 111
+  }
+ },
+ "681217": {
+  "name": "Silseth, Chase",
+  "cluster": 2,
+  "pitches": {
+   "FF": 456,
+   "FS": 261,
+   "SI": 138,
+   "ST": 232
+  }
+ },
+ "681252": {
+  "name": "Anderson, Jack",
+  "cluster": -1,
+  "pitches": {
+   "FF": 60,
+   "FS": 42,
+   "SL": 40
+  }
+ },
+ "681293": {
+  "name": "Arrighetti, Spencer",
+  "cluster": 1,
+  "pitches": {
+   "CH": 155,
+   "CU": 665,
+   "FC": 129,
+   "FF": 545,
+   "SI": 204,
+   "ST": 224
+  }
+ },
+ "681320": {
+  "name": "Lavender, Nate",
+  "cluster": -1,
+  "pitches": {
+   "FF": 216,
+   "SL": 31
+  }
+ },
+ "681343": {
+  "name": "Smith, Shane",
+  "cluster": -1,
+  "pitches": {
+   "CH": 41,
+   "CU": 53,
+   "FF": 74,
+   "SI": 32
+  }
+ },
+ "681347": {
+  "name": "Burrows, Mike",
+  "cluster": 2,
+  "pitches": {
+   "CH": 424,
+   "CU": 225,
+   "FF": 447,
+   "SI": 212,
+   "SL": 258
+  }
+ },
+ "681402": {
+  "name": "Varland, Gus",
+  "cluster": 3,
+  "pitches": {
+   "FF": 332,
+   "SL": 232
+  }
+ },
+ "681517": {
+  "name": "Leahy, Kyle",
+  "cluster": 1,
+  "pitches": {
+   "CH": 339,
+   "CU": 381,
+   "FF": 604,
+   "SI": 307,
+   "SL": 378,
+   "ST": 316
+  }
+ },
+ "681544": {
+  "name": "Olds, Wyatt",
+  "cluster": -1,
+  "pitches": {
+   "FC": 41,
+   "FF": 149,
+   "SL": 93
+  }
+ },
+ "681676": {
+  "name": "Fernandez, Ryan",
+  "cluster": -1,
+  "pitches": {
+   "CH": 46,
+   "FF": 158,
+   "SL": 167
+  }
+ },
+ "681751": {
+  "name": "Estrada, Lazaro",
+  "cluster": -1,
+  "pitches": {
+   "CU": 37,
+   "FC": 55,
+   "FF": 101
+  }
+ },
+ "681799": {
+  "name": "Roberts, Ethan",
+  "cluster": 3,
+  "pitches": {
+   "FC": 196,
+   "SI": 71,
+   "ST": 169
+  }
+ },
+ "681810": {
+  "name": "Warren, Austin",
+  "cluster": 1,
+  "pitches": {
+   "CU": 63,
+   "FF": 149,
+   "SI": 260,
+   "ST": 423
+  }
+ },
+ "681867": {
+  "name": "Criswell, Cooper",
+  "cluster": 2,
+  "pitches": {
+   "CH": 169,
+   "FC": 125,
+   "FF": 45,
+   "SI": 183,
+   "ST": 114
+  }
+ },
+ "681870": {
+  "name": "Sabrowski, Erik",
+  "cluster": 3,
+  "pitches": {
+   "CU": 154,
+   "FF": 531,
+   "SL": 133
+  }
+ },
+ "681892": {
+  "name": "Funderburk, Kody",
+  "cluster": 3,
+  "pitches": {
+   "CH": 51,
+   "FC": 311,
+   "SI": 301,
+   "SL": 36,
+   "ST": 174
+  }
+ },
+ "681895": {
+  "name": "Sisk, Evan",
+  "cluster": 1,
+  "pitches": {
+   "CH": 74,
+   "CU": 220,
+   "FF": 144,
+   "SI": 255,
+   "ST": 138
+  }
+ },
+ "681911": {
+  "name": "Vesia, Alex",
+  "cluster": 3,
+  "pitches": {
+   "CH": 142,
+   "FF": 564,
+   "SL": 305
+  }
+ },
+ "681916": {
+  "name": "Smith, Dylan",
+  "cluster": 3,
+  "pitches": {
+   "CU": 44,
+   "FF": 400,
+   "FS": 42,
+   "SI": 58,
+   "ST": 157
+  }
+ },
+ "681982": {
+  "name": "Anderson, Grant",
+  "cluster": 3,
+  "pitches": {
+   "CH": 31,
+   "FF": 324,
+   "SI": 219,
+   "ST": 341
+  }
+ },
+ "682052": {
+  "name": "Lopez, Jacob",
+  "cluster": 3,
+  "pitches": {
+   "CH": 193,
+   "FC": 445,
+   "FF": 768,
+   "SI": 63,
+   "SL": 754
+  }
+ },
+ "682120": {
+  "name": "Herrin, Tim",
+  "cluster": 1,
+  "pitches": {
+   "CU": 298,
+   "FF": 195,
+   "SI": 236,
+   "SL": 249
+  }
+ },
+ "682227": {
+  "name": "Williamson, Brandon",
+  "cluster": 2,
+  "pitches": {
+   "CH": 191,
+   "CU": 80,
+   "FC": 302,
+   "FF": 155,
+   "SI": 76,
+   "ST": 103
+  }
+ },
+ "682243": {
+  "name": "Miller, Bryce",
+  "cluster": 2,
+  "pitches": {
+   "FC": 107,
+   "FF": 742,
+   "FS": 439,
+   "KC": 80,
+   "SI": 162,
+   "SL": 214,
+   "ST": 136
+  }
+ },
+ "682254": {
+  "name": "Montgomery, Mason",
+  "cluster": 3,
+  "pitches": {
+   "CU": 156,
+   "FF": 542,
+   "SI": 286,
+   "SL": 162
+  }
+ },
+ "682274": {
+  "name": "Hiraldo, Yaramil",
+  "cluster": -1,
+  "pitches": {
+   "FF": 86,
+   "FS": 59,
+   "SL": 48
+  }
+ },
+ "682445": {
+  "name": "Gonzalez, Domingo",
+  "cluster": -1,
+  "pitches": {
+   "FF": 50,
+   "SI": 31,
+   "SL": 46
+  }
+ },
+ "682608": {
+  "name": "Gray, Peyton",
+  "cluster": 2,
+  "pitches": {
+   "CH": 373,
+   "FF": 393,
+   "SL": 174
+  }
+ },
+ "682610": {
+  "name": "Mu\u00f1oz, Roddery",
+  "cluster": -1,
+  "pitches": {
+   "SL": 46
+  }
+ },
+ "682825": {
+  "name": "Mey, Luis",
+  "cluster": -1,
+  "pitches": {
+   "SI": 390,
+   "SL": 243
+  }
+ },
+ "682842": {
+  "name": "Uribe, Abner",
+  "cluster": 3,
+  "pitches": {
+   "SI": 565,
+   "SL": 348
+  }
+ },
+ "682982": {
+  "name": "Espino, Daniel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 169,
+   "SL": 79
+  }
+ },
+ "682989": {
+  "name": "Mederos, Victor",
+  "cluster": -1,
+  "pitches": {
+   "FC": 272,
+   "FF": 137,
+   "FS": 75,
+   "SI": 76
+  }
+ },
+ "682995": {
+  "name": "Barco, Hunter",
+  "cluster": 3,
+  "pitches": {
+   "CH": 30,
+   "FF": 130,
+   "SI": 68,
+   "SL": 82
+  }
+ },
+ "683000": {
+  "name": "Cornelio, Riley",
+  "cluster": 1,
+  "pitches": {
+   "FC": 99,
+   "FF": 250,
+   "SL": 335
+  }
+ },
+ "683003": {
+  "name": "Jones, Jared",
+  "cluster": 1,
+  "pitches": {
+   "CH": 181,
+   "CU": 135,
+   "FF": 761,
+   "SL": 556
+  }
+ },
+ "683004": {
+  "name": "Leiter, Jack",
+  "cluster": 3,
+  "pitches": {
+   "CH": 243,
+   "CU": 122,
+   "FC": 137,
+   "FF": 538,
+   "SI": 102,
+   "SL": 255
+  }
+ },
+ "683155": {
+  "name": "Estes, Joey",
+  "cluster": -1,
+  "pitches": {
+   "FF": 43
+  }
+ },
+ "683175": {
+  "name": "Phillips, Connor",
+  "cluster": 1,
+  "pitches": {
+   "FF": 293,
+   "ST": 278
+  }
+ },
+ "683232": {
+  "name": "Mears, Nick",
+  "cluster": 1,
+  "pitches": {
+   "CH": 36,
+   "CU": 46,
+   "FF": 125,
+   "SI": 41,
+   "SL": 92
+  }
+ },
+ "683352": {
+  "name": "Bratt, Mitch",
+  "cluster": 1,
+  "pitches": {
+   "CH": 71,
+   "FF": 337,
+   "SI": 57,
+   "SL": 64,
+   "SV": 169
+  }
+ },
+ "683363": {
+  "name": "Wilkinson, Matt",
+  "cluster": -1,
+  "pitches": {
+   "CH": 96,
+   "FF": 237,
+   "SL": 60
+  }
+ },
+ "683409": {
+  "name": "Chivilli, Angel",
+  "cluster": -1,
+  "pitches": {
+   "CH": 118,
+   "FF": 59,
+   "SL": 107
+  }
+ },
+ "683618": {
+  "name": "Henriquez, Edgardo",
+  "cluster": 0,
+  "pitches": {
+   "CU": 41,
+   "FC": 141,
+   "FF": 332,
+   "SI": 240,
+   "SL": 212
+  }
+ },
+ "683627": {
+  "name": "Molina, Anthony",
+  "cluster": -1,
+  "pitches": {
+   "CH": 117,
+   "CU": 77,
+   "FF": 262,
+   "SL": 57
+  }
+ },
+ "683734": {
+  "name": "Vaughn, Andrew",
+  "cluster": -1,
+  "pitches": {
+   "KN": 50
+  }
+ },
+ "683742": {
+  "name": "Franco, Jose",
+  "cluster": 1,
+  "pitches": {
+   "CH": 47,
+   "FF": 160,
+   "SL": 139
+  }
+ },
+ "683769": {
+  "name": "Gaddis, Hunter",
+  "cluster": 1,
+  "pitches": {
+   "CH": 196,
+   "FF": 290,
+   "SL": 488
+  }
+ },
+ "684007": {
+  "name": "Imanaga, Shota",
+  "cluster": 2,
+  "pitches": {
+   "CU": 81,
+   "FF": 1127,
+   "FS": 970,
+   "SI": 166,
+   "SL": 54,
+   "ST": 411
+  }
+ },
+ "684049": {
+  "name": "Bidois, Brandan",
+  "cluster": 3,
+  "pitches": {
+   "FF": 177,
+   "SL": 136
+  }
+ },
+ "684320": {
+  "name": "Rodr\u00edguez, Yariel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 36,
+   "FS": 42,
+   "SL": 68
+  }
+ },
+ "684442": {
+  "name": "Drake, Kohl",
+  "cluster": -1,
+  "pitches": {
+   "CH": 73,
+   "CU": 65,
+   "FC": 44,
+   "FF": 165,
+   "SL": 35
+  }
+ },
+ "684665": {
+  "name": "Murphy, Luke",
+  "cluster": -1,
+  "pitches": {
+   "FC": 80,
+   "FF": 209,
+   "SL": 63
+  }
+ },
+ "684974": {
+  "name": "Yoho, Craig",
+  "cluster": 2,
+  "pitches": {
+   "CH": 337,
+   "FC": 79,
+   "FF": 103,
+   "SI": 107
+  }
+ },
+ "685005": {
+  "name": "Roa, Christian",
+  "cluster": -1,
+  "pitches": {
+   "FF": 45,
+   "SI": 57,
+   "SL": 62
+  }
+ },
+ "685112": {
+  "name": "McCambley, Zach",
+  "cluster": -1,
+  "pitches": {
+   "FC": 104,
+   "FF": 82,
+   "ST": 50
+  }
+ },
+ "685126": {
+  "name": "Eisert, Brandon",
+  "cluster": 2,
+  "pitches": {
+   "CH": 147,
+   "FF": 307,
+   "SI": 52,
+   "SL": 273
+  }
+ },
+ "685299": {
+  "name": "Gordon, Tanner",
+  "cluster": 2,
+  "pitches": {
+   "CH": 377,
+   "CU": 159,
+   "FC": 35,
+   "FF": 728,
+   "SI": 38,
+   "SL": 351
+  }
+ },
+ "685464": {
+  "name": "Winquest, Cade",
+  "cluster": -1,
+  "pitches": {
+   "CU": 67,
+   "FC": 69,
+   "FF": 86
+  }
+ },
+ "685801": {
+  "name": "Bigge, Hunter",
+  "cluster": 1,
+  "pitches": {
+   "FF": 164,
+   "SL": 131
+  }
+ },
+ "686218": {
+  "name": "Sheehan, Emmet",
+  "cluster": 1,
+  "pitches": {
+   "CH": 304,
+   "CU": 241,
+   "FF": 835,
+   "SL": 573
+  }
+ },
+ "686475": {
+  "name": "Tolbert, Tyler",
+  "cluster": -1,
+  "pitches": {
+   "EP": 106
+  }
+ },
+ "686560": {
+  "name": "Collyer, Gavin",
+  "cluster": 0,
+  "pitches": {
+   "FC": 159,
+   "FF": 127,
+   "SI": 85,
+   "ST": 109
+  }
+ },
+ "686563": {
+  "name": "Cannon, Jonathan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 44
+  }
+ },
+ "686580": {
+  "name": "Slaten, Justin",
+  "cluster": 0,
+  "pitches": {
+   "FC": 208,
+   "FF": 128,
+   "SI": 65,
+   "ST": 87
+  }
+ },
+ "686610": {
+  "name": "Waldichuk, Ken",
+  "cluster": -1,
+  "pitches": {
+   "CU": 61,
+   "FF": 49
+  }
+ },
+ "686613": {
+  "name": "Brown, Hunter",
+  "cluster": 3,
+  "pitches": {
+   "CH": 167,
+   "FC": 36,
+   "FF": 572,
+   "KC": 339,
+   "SI": 582,
+   "SL": 166
+  }
+ },
+ "686730": {
+  "name": "Spiers, Carson",
+  "cluster": -1,
+  "pitches": {
+   "ST": 37
+  }
+ },
+ "686751": {
+  "name": "Johnson, Seth",
+  "cluster": 3,
+  "pitches": {
+   "FF": 281,
+   "SI": 54,
+   "SL": 202,
+   "ST": 31
+  }
+ },
+ "686753": {
+  "name": "Jameson, Drey",
+  "cluster": -1,
+  "pitches": {
+   "CH": 64,
+   "FF": 62,
+   "SI": 54,
+   "SL": 104
+  }
+ },
+ "686790": {
+  "name": "McDonald, Trevor",
+  "cluster": 3,
+  "pitches": {
+   "CH": 166,
+   "SI": 653,
+   "SL": 295
+  }
+ },
+ "686799": {
+  "name": "Kochanowicz, Jack",
+  "cluster": 2,
+  "pitches": {
+   "CH": 257,
+   "FF": 245,
+   "SI": 421,
+   "SL": 179
+  }
+ },
+ "686930": {
+  "name": "Barnett, Mason",
+  "cluster": 1,
+  "pitches": {
+   "CH": 69,
+   "CU": 93,
+   "FF": 447,
+   "SL": 162,
+   "ST": 138
+  }
+ },
+ "686934": {
+  "name": "McFarlane, Alex",
+  "cluster": -1,
+  "pitches": {
+   "FF": 134,
+   "SI": 81,
+   "SL": 68
+  }
+ },
+ "686973": {
+  "name": "Varland, Louis",
+  "cluster": 1,
+  "pitches": {
+   "CH": 223,
+   "FF": 508,
+   "KC": 375,
+   "SL": 100
+  }
+ },
+ "686993": {
+  "name": "Sterner, Justin",
+  "cluster": 3,
+  "pitches": {
+   "FC": 224,
+   "FF": 285,
+   "ST": 215
+  }
+ },
+ "687064": {
+  "name": "Young, Brandon",
+  "cluster": 2,
+  "pitches": {
+   "CU": 296,
+   "FF": 1012,
+   "FS": 478,
+   "SI": 347,
+   "SL": 392
+  }
+ },
+ "687075": {
+  "name": "Sproat, Brandon",
+  "cluster": 0,
+  "pitches": {
+   "CH": 137,
+   "CU": 169,
+   "FC": 362,
+   "FF": 430,
+   "SI": 449,
+   "ST": 175
+  }
+ },
+ "687134": {
+  "name": "Blalock, Bradley",
+  "cluster": -1,
+  "pitches": {
+   "FF": 54,
+   "SL": 35
+  }
+ },
+ "687209": {
+  "name": "Maxwell, Zach",
+  "cluster": -1,
+  "pitches": {
+   "FC": 57,
+   "FF": 171,
+   "ST": 62
+  }
+ },
+ "687223": {
+  "name": "Palmquist, Carson",
+  "cluster": -1,
+  "pitches": {
+   "FC": 31,
+   "FF": 49,
+   "SI": 101,
+   "ST": 131
+  }
+ },
+ "687239": {
+  "name": "Peoples, Ben",
+  "cluster": -1,
+  "pitches": {
+   "FF": 163,
+   "SL": 107
+  }
+ },
+ "687273": {
+  "name": "Mathews, Quinn",
+  "cluster": -1,
+  "pitches": {
+   "CH": 138,
+   "CU": 116,
+   "FF": 334,
+   "SI": 82,
+   "SL": 195
+  }
+ },
+ "687309": {
+  "name": "Hjerpe, Cooper",
+  "cluster": -1,
+  "pitches": {
+   "CH": 40,
+   "FF": 132,
+   "ST": 58
+  }
+ },
+ "687312": {
+  "name": "Hughes, Gabriel",
+  "cluster": 3,
+  "pitches": {
+   "CH": 127,
+   "CU": 138,
+   "FF": 567,
+   "SI": 118,
+   "SL": 91,
+   "ST": 98
+  }
+ },
+ "687330": {
+  "name": "Kelly, Kevin",
+  "cluster": 2,
+  "pitches": {
+   "CH": 275,
+   "FF": 70,
+   "SI": 567,
+   "ST": 69
+  }
+ },
+ "687377": {
+  "name": "Ribalta, Orlando",
+  "cluster": 1,
+  "pitches": {
+   "CH": 123,
+   "FF": 209,
+   "SI": 125,
+   "SL": 292
+  }
+ },
+ "687396": {
+  "name": "Headrick, Brent",
+  "cluster": 3,
+  "pitches": {
+   "FF": 621,
+   "FS": 162,
+   "SI": 111,
+   "SL": 383
+  }
+ },
+ "687473": {
+  "name": "Gusto, Ryan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 190,
+   "CU": 131,
+   "FC": 172,
+   "FF": 411,
+   "SI": 175,
+   "SL": 168,
+   "ST": 189
+  }
+ },
+ "687531": {
+  "name": "Kempner, William",
+  "cluster": -1,
+  "pitches": {
+   "FF": 96,
+   "ST": 44
+  }
+ },
+ "687562": {
+  "name": "Bennett, Jake",
+  "cluster": 2,
+  "pitches": {
+   "CH": 438,
+   "CU": 40,
+   "FC": 60,
+   "FF": 566,
+   "SI": 387,
+   "ST": 123
+  }
+ },
+ "687570": {
+  "name": "Prielipp, Connor",
+  "cluster": 1,
+  "pitches": {
+   "CH": 205,
+   "CU": 385,
+   "FF": 544,
+   "SI": 316,
+   "SL": 613
+  }
+ },
+ "687606": {
+  "name": "Schultz, Paxton",
+  "cluster": 0,
+  "pitches": {
+   "CH": 87,
+   "FC": 271,
+   "FF": 207,
+   "SL": 44
+  }
+ },
+ "687765": {
+  "name": "Spence, Mitch",
+  "cluster": -1,
+  "pitches": {
+   "CU": 33,
+   "FC": 76,
+   "SI": 34,
+   "SL": 40
+  }
+ },
+ "687792": {
+  "name": "Herz, DJ",
+  "cluster": -1,
+  "pitches": {
+   "CH": 38,
+   "FF": 62
+  }
+ },
+ "687849": {
+  "name": "Kent, Zak",
+  "cluster": -1,
+  "pitches": {
+   "CU": 52,
+   "FF": 119,
+   "SL": 116
+  }
+ },
+ "687911": {
+  "name": "King, Bryan",
+  "cluster": 0,
+  "pitches": {
+   "FF": 585,
+   "SI": 183,
+   "ST": 284
+  }
+ },
+ "687931": {
+  "name": "Whisenhunt, Carson",
+  "cluster": 2,
+  "pitches": {
+   "CH": 216,
+   "FF": 215,
+   "SI": 57,
+   "SL": 101
+  }
+ },
+ "687941": {
+  "name": "Gamboa, Alec",
+  "cluster": -1,
+  "pitches": {
+   "FF": 192,
+   "SI": 101,
+   "SL": 156
+  }
+ },
+ "688107": {
+  "name": "Gasser, Robert",
+  "cluster": 3,
+  "pitches": {
+   "CH": 188,
+   "FC": 327,
+   "FF": 422,
+   "SI": 409,
+   "ST": 459
+  }
+ },
+ "688158": {
+  "name": "Morgan, David",
+  "cluster": 3,
+  "pitches": {
+   "CU": 135,
+   "FF": 191,
+   "SI": 163,
+   "SL": 106
+  }
+ },
+ "688297": {
+  "name": "Roycroft, Chris",
+  "cluster": 0,
+  "pitches": {
+   "FC": 133,
+   "FF": 162,
+   "SI": 348,
+   "ST": 43
+  }
+ },
+ "688497": {
+  "name": "Rashi, Taylor",
+  "cluster": -1,
+  "pitches": {
+   "FF": 37
+  }
+ },
+ "688642": {
+  "name": "Agnos, Zach",
+  "cluster": 3,
+  "pitches": {
+   "FC": 322,
+   "FF": 370,
+   "FS": 162,
+   "SI": 206,
+   "SL": 183,
+   "ST": 256
+  }
+ },
+ "688692": {
+  "name": "Simpson, Jared",
+  "cluster": -1,
+  "pitches": {
+   "FF": 37,
+   "SI": 32
+  }
+ },
+ "688883": {
+  "name": "Pallette, Peyton",
+  "cluster": 1,
+  "pitches": {
+   "CU": 106,
+   "FF": 231,
+   "SL": 99
+  }
+ },
+ "689017": {
+  "name": "Knack, Landon",
+  "cluster": -1,
+  "pitches": {
+   "CH": 45,
+   "FF": 84,
+   "SL": 31
+  }
+ },
+ "689147": {
+  "name": "Kerkering, Orion",
+  "cluster": 1,
+  "pitches": {
+   "FF": 369,
+   "FS": 61,
+   "SI": 201,
+   "ST": 460
+  }
+ },
+ "689149": {
+  "name": "Dallas, Chad",
+  "cluster": -1,
+  "pitches": {
+   "CU": 74,
+   "FC": 111,
+   "ST": 69
+  }
+ },
+ "689225": {
+  "name": "Brieske, Beau",
+  "cluster": -1,
+  "pitches": {
+   "CH": 54,
+   "CU": 43,
+   "FF": 159,
+   "SI": 60,
+   "SL": 70
+  }
+ },
+ "689254": {
+  "name": "Fluharty, Mason",
+  "cluster": 1,
+  "pitches": {
+   "CH": 107,
+   "FC": 514,
+   "ST": 410
+  }
+ },
+ "689266": {
+  "name": "Dodd, Dylan",
+  "cluster": 0,
+  "pitches": {
+   "FC": 274,
+   "SI": 467,
+   "SL": 36
+  }
+ },
+ "689296": {
+  "name": "Nunez, Anthony",
+  "cluster": 2,
+  "pitches": {
+   "CH": 219,
+   "FC": 59,
+   "FF": 295,
+   "SI": 112,
+   "ST": 305
+  }
+ },
+ "689441": {
+  "name": "Crow, Coleman",
+  "cluster": -1,
+  "pitches": {
+   "CU": 61,
+   "FC": 107,
+   "FF": 54,
+   "SI": 50
+  }
+ },
+ "689520": {
+  "name": "Laweryson, Cody",
+  "cluster": -1,
+  "pitches": {
+   "CH": 43,
+   "FC": 49,
+   "FF": 203
+  }
+ },
+ "689546": {
+  "name": "Davila, Nick",
+  "cluster": 1,
+  "pitches": {
+   "FF": 48,
+   "SI": 107,
+   "SL": 290
+  }
+ },
+ "689690": {
+  "name": "Jacob, Alek",
+  "cluster": -1,
+  "pitches": {
+   "CH": 30,
+   "FF": 37
+  }
+ },
+ "689818": {
+  "name": "Sandlin, David",
+  "cluster": 3,
+  "pitches": {
+   "CH": 40,
+   "CU": 141,
+   "FC": 116,
+   "FF": 200,
+   "SI": 58,
+   "ST": 83
+  }
+ },
+ "689981": {
+  "name": "Ryan, River",
+  "cluster": -1,
+  "pitches": {
+   "FF": 32
+  }
+ },
+ "690155": {
+  "name": "Pushard, Matt",
+  "cluster": -1,
+  "pitches": {
+   "FF": 54
+  }
+ },
+ "690279": {
+  "name": "Adams, Mason",
+  "cluster": -1,
+  "pitches": {
+   "CU": 87,
+   "FF": 147,
+   "SI": 119,
+   "ST": 63
+  }
+ },
+ "690440": {
+  "name": "Hanner, Bradley",
+  "cluster": -1,
+  "pitches": {
+   "FF": 55,
+   "SI": 31,
+   "ST": 33
+  }
+ },
+ "690829": {
+  "name": "Joyce, Ben",
+  "cluster": -1,
+  "pitches": {
+   "FF": 174,
+   "SI": 62
+  }
+ },
+ "690925": {
+  "name": "Beeter, Clayton",
+  "cluster": 1,
+  "pitches": {
+   "FF": 392,
+   "SL": 401
+  }
+ },
+ "690928": {
+  "name": "Dobbins, Hunter",
+  "cluster": 1,
+  "pitches": {
+   "CU": 106,
+   "FF": 299,
+   "FS": 109,
+   "SI": 122,
+   "SL": 158,
+   "ST": 137
+  }
+ },
+ "690953": {
+  "name": "Abel, Mick",
+  "cluster": 3,
+  "pitches": {
+   "CH": 63,
+   "CU": 43,
+   "FF": 153,
+   "SL": 48,
+   "ST": 38
+  }
+ },
+ "690978": {
+  "name": "Fulton, Dax",
+  "cluster": -1,
+  "pitches": {
+   "CH": 32,
+   "FF": 145,
+   "SI": 52,
+   "SL": 100,
+   "ST": 149
+  }
+ },
+ "690986": {
+  "name": "Harrison, Kyle",
+  "cluster": 3,
+  "pitches": {
+   "CH": 188,
+   "FF": 1201,
+   "SI": 38,
+   "SV": 678
+  }
+ },
+ "690990": {
+  "name": "Horton, Cade",
+  "cluster": -1,
+  "pitches": {
+   "FF": 45
+  }
+ },
+ "690997": {
+  "name": "McLean, Nolan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 181,
+   "CU": 420,
+   "FC": 305,
+   "FF": 563,
+   "SI": 1007,
+   "SL": 114,
+   "ST": 312
+  }
+ },
+ "691008": {
+  "name": "Rajcic, Max",
+  "cluster": -1,
+  "pitches": {
+   "CU": 42,
+   "FF": 66
+  }
+ },
+ "691384": {
+  "name": "Perales, Luis",
+  "cluster": -1,
+  "pitches": {
+   "FC": 79,
+   "FF": 56,
+   "FS": 81,
+   "SL": 34
+  }
+ },
+ "691587": {
+  "name": "P\u00e9rez, Eury",
+  "cluster": 3,
+  "pitches": {
+   "CH": 230,
+   "CU": 170,
+   "FF": 988,
+   "SI": 472,
+   "SL": 465,
+   "ST": 348
+  }
+ },
+ "691594": {
+  "name": "Sanoja, Javier",
+  "cluster": -1,
+  "pitches": {
+   "FA": 73
+  }
+ },
+ "691725": {
+  "name": "Painter, Andrew",
+  "cluster": 1,
+  "pitches": {
+   "CH": 229,
+   "CU": 126,
+   "FF": 696,
+   "FS": 164,
+   "SI": 181,
+   "SL": 373,
+   "ST": 352
+  }
+ },
+ "691769": {
+  "name": "Abner, Philip",
+  "cluster": -1,
+  "pitches": {
+   "CU": 63,
+   "FF": 174,
+   "SL": 52
+  }
+ },
+ "691799": {
+  "name": "Taylor, Grant",
+  "cluster": 3,
+  "pitches": {
+   "CU": 361,
+   "FF": 583,
+   "SI": 163,
+   "SL": 221
+  }
+ },
+ "691945": {
+  "name": "Baumler, Carter",
+  "cluster": -1,
+  "pitches": {
+   "CU": 56,
+   "FF": 39
+  }
+ },
+ "691946": {
+  "name": "Klassen, George",
+  "cluster": -1,
+  "pitches": {
+   "CH": 84,
+   "FF": 187,
+   "SI": 45,
+   "SL": 153
+  }
+ },
+ "691951": {
+  "name": "Aldegheri, Sam",
+  "cluster": 2,
+  "pitches": {
+   "CH": 189,
+   "CU": 46,
+   "FC": 59,
+   "FF": 288
+  }
+ },
+ "692230": {
+  "name": "Rodriguez, Carlos",
+  "cluster": -1,
+  "pitches": {
+   "CH": 67,
+   "FC": 49,
+   "FF": 49
+  }
+ },
+ "693308": {
+  "name": "Frasso, Nick",
+  "cluster": -1,
+  "pitches": {
+   "CH": 96,
+   "FC": 47,
+   "FF": 216,
+   "SL": 30
+  }
+ },
+ "693312": {
+  "name": "Nicolas, Kyle",
+  "cluster": -1,
+  "pitches": {
+   "CU": 32,
+   "FF": 96,
+   "SL": 64
+  }
+ },
+ "693313": {
+  "name": "Seymour, Carson",
+  "cluster": -1,
+  "pitches": {
+   "FC": 115,
+   "FF": 89,
+   "SI": 177,
+   "SL": 131
+  }
+ },
+ "693433": {
+  "name": "Woo, Bryan",
+  "cluster": 3,
+  "pitches": {
+   "CH": 167,
+   "CU": 66,
+   "FF": 1259,
+   "SI": 508,
+   "SL": 357,
+   "ST": 309
+  }
+ },
+ "693645": {
+  "name": "Schlittler, Cam",
+  "cluster": 0,
+  "pitches": {
+   "CU": 297,
+   "FC": 775,
+   "FF": 1349,
+   "SI": 585
+  }
+ },
+ "693686": {
+  "name": "Miles, Spencer",
+  "cluster": 3,
+  "pitches": {
+   "CU": 367,
+   "FF": 215,
+   "SI": 675,
+   "SL": 242
+  }
+ },
+ "693821": {
+  "name": "Elder, Bryce",
+  "cluster": 3,
+  "pitches": {
+   "CH": 275,
+   "FC": 335,
+   "FF": 502,
+   "SI": 627,
+   "SL": 502
+  }
+ },
+ "693855": {
+  "name": "Seymour, Ian",
+  "cluster": 2,
+  "pitches": {
+   "CH": 611,
+   "FF": 581,
+   "SI": 348,
+   "SL": 138,
+   "ST": 417
+  }
+ },
+ "694037": {
+  "name": "Palencia, Daniel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 317,
+   "SL": 114
+  }
+ },
+ "694297": {
+  "name": "Pfaadt, Brandon",
+  "cluster": 3,
+  "pitches": {
+   "CH": 324,
+   "CU": 297,
+   "FC": 235,
+   "FF": 550,
+   "SI": 334,
+   "ST": 291
+  }
+ },
+ "694335": {
+  "name": "Svanson, Matt",
+  "cluster": 3,
+  "pitches": {
+   "FC": 171,
+   "SI": 353,
+   "ST": 254
+  }
+ },
+ "694341": {
+  "name": "Beck, Brendan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 113,
+   "SL": 73
+  }
+ },
+ "694346": {
+  "name": "Gibson, Trey",
+  "cluster": 3,
+  "pitches": {
+   "CU": 97,
+   "FC": 140,
+   "FF": 151,
+   "SI": 163,
+   "SL": 146
+  }
+ },
+ "694357": {
+  "name": "Tiedemann, Ricky",
+  "cluster": -1,
+  "pitches": {
+   "FF": 47,
+   "ST": 62
+  }
+ },
+ "694360": {
+  "name": "Way, Beck",
+  "cluster": 0,
+  "pitches": {
+   "FC": 164,
+   "FF": 55,
+   "SI": 96,
+   "ST": 61
+  }
+ },
+ "694361": {
+  "name": "Klein, Will",
+  "cluster": 1,
+  "pitches": {
+   "CU": 122,
+   "FF": 387,
+   "SL": 35,
+   "ST": 216
+  }
+ },
+ "694363": {
+  "name": "Shuster, Jared",
+  "cluster": -1,
+  "pitches": {
+   "CH": 34,
+   "FF": 49,
+   "SL": 34
+  }
+ },
+ "694397": {
+  "name": "Raya, Marco",
+  "cluster": -1,
+  "pitches": {
+   "FF": 45
+  }
+ },
+ "694462": {
+  "name": "Waldrep, Hurston",
+  "cluster": -1,
+  "pitches": {
+   "FC": 34,
+   "FS": 41,
+   "SI": 83,
+   "SL": 31
+  }
+ },
+ "694477": {
+  "name": "Patrick, Chad",
+  "cluster": 0,
+  "pitches": {
+   "FC": 733,
+   "FF": 433,
+   "SI": 408,
+   "SV": 141
+  }
+ },
+ "694494": {
+  "name": "Johnson, Ty",
+  "cluster": -1,
+  "pitches": {
+   "FF": 87,
+   "SL": 73
+  }
+ },
+ "694646": {
+  "name": "McDermott, Chayce",
+  "cluster": -1,
+  "pitches": {
+   "FC": 59,
+   "FF": 64
+  }
+ },
+ "694680": {
+  "name": "Martin, Trevor",
+  "cluster": -1,
+  "pitches": {
+   "FC": 59,
+   "FF": 123,
+   "FS": 52
+  }
+ },
+ "694738": {
+  "name": "Roupp, Landen",
+  "cluster": 2,
+  "pitches": {
+   "CH": 551,
+   "CU": 693,
+   "FC": 381,
+   "FF": 156,
+   "SI": 927
+  }
+ },
+ "694753": {
+  "name": "Curtis, Khristian",
+  "cluster": -1,
+  "pitches": {
+   "CH": 62,
+   "FC": 112,
+   "FF": 121,
+   "SL": 39
+  }
+ },
+ "694795": {
+  "name": "Ekness, Josh",
+  "cluster": -1,
+  "pitches": {
+   "CU": 46,
+   "FF": 296,
+   "SI": 67,
+   "ST": 138
+  }
+ },
+ "694819": {
+  "name": "Misiorowski, Jacob",
+  "cluster": 0,
+  "pitches": {
+   "CU": 273,
+   "FC": 368,
+   "FF": 1675,
+   "SL": 297
+  }
+ },
+ "694820": {
+  "name": "Roxby, Braxton",
+  "cluster": -1,
+  "pitches": {
+   "SL": 30,
+   "ST": 38
+  }
+ },
+ "694851": {
+  "name": "Hoffmann, Andrew",
+  "cluster": -1,
+  "pitches": {
+   "CH": 64,
+   "FF": 118,
+   "SL": 47
+  }
+ },
+ "694918": {
+  "name": "Tidwell, Blade",
+  "cluster": -1,
+  "pitches": {
+   "CH": 42,
+   "CU": 38,
+   "FF": 321,
+   "SI": 167,
+   "SL": 87,
+   "ST": 304
+  }
+ },
+ "694973": {
+  "name": "Skenes, Paul",
+  "cluster": 2,
+  "pitches": {
+   "CH": 360,
+   "FF": 1178,
+   "FS": 290,
+   "SI": 340,
+   "SL": 249,
+   "ST": 460
+  }
+ },
+ "695001": {
+  "name": "Santa, Alimber",
+  "cluster": -1,
+  "pitches": {
+   "SI": 56,
+   "SL": 74,
+   "ST": 90
+  }
+ },
+ "695034": {
+  "name": "Morris, Kade",
+  "cluster": -1,
+  "pitches": {
+   "CH": 41,
+   "FF": 59,
+   "SI": 121,
+   "SL": 53,
+   "ST": 30
+  }
+ },
+ "695049": {
+  "name": "Kerry, Brett",
+  "cluster": -1,
+  "pitches": {
+   "CH": 47,
+   "FF": 101,
+   "SL": 58
+  }
+ },
+ "695076": {
+  "name": "Lowder, Rhett",
+  "cluster": 2,
+  "pitches": {
+   "CH": 458,
+   "CU": 67,
+   "FF": 460,
+   "SI": 690,
+   "SL": 609
+  }
+ },
+ "695239": {
+  "name": "Ahlstrom, Robby",
+  "cluster": 3,
+  "pitches": {
+   "CH": 102,
+   "FF": 211,
+   "SI": 143,
+   "SL": 167
+  }
+ },
+ "695243": {
+  "name": "Miller, Mason",
+  "cluster": 1,
+  "pitches": {
+   "FF": 555,
+   "SL": 571
+  }
+ },
+ "695378": {
+  "name": "Sinclair, Jack",
+  "cluster": -1,
+  "pitches": {
+   "FF": 51,
+   "ST": 71
+  }
+ },
+ "695380": {
+  "name": "Hoppe, Alex",
+  "cluster": 1,
+  "pitches": {
+   "FF": 277,
+   "SI": 178,
+   "SL": 269
+  }
+ },
+ "695418": {
+  "name": "Lord, Brad",
+  "cluster": 3,
+  "pitches": {
+   "CH": 68,
+   "FF": 540,
+   "SI": 364,
+   "SL": 280,
+   "ST": 210
+  }
+ },
+ "695445": {
+  "name": "Lee, Chase",
+  "cluster": -1,
+  "pitches": {
+   "SI": 53,
+   "ST": 52
+  }
+ },
+ "695505": {
+  "name": "Burns, Chase",
+  "cluster": 3,
+  "pitches": {
+   "CH": 134,
+   "FF": 1419,
+   "SL": 994
+  }
+ },
+ "695534": {
+  "name": "Petty, Chase",
+  "cluster": 2,
+  "pitches": {
+   "CH": 110,
+   "FF": 70,
+   "SI": 163,
+   "SL": 45,
+   "ST": 87
+  }
+ },
+ "695549": {
+  "name": "Jobe, Jackson",
+  "cluster": -1,
+  "pitches": {
+   "CH": 79,
+   "CU": 75,
+   "FF": 241,
+   "SI": 143,
+   "SL": 199
+  }
+ },
+ "695611": {
+  "name": "Jump, Gage",
+  "cluster": 3,
+  "pitches": {
+   "CH": 164,
+   "CU": 187,
+   "FF": 811,
+   "SI": 93,
+   "SL": 398,
+   "ST": 102
+  }
+ },
+ "695684": {
+  "name": "Rodr\u00edguez, Elmer",
+  "cluster": 3,
+  "pitches": {
+   "CH": 39,
+   "CU": 72,
+   "FF": 94,
+   "SI": 229,
+   "ST": 62
+  }
+ },
+ "696062": {
+  "name": "Dotel, Wilber",
+  "cluster": 0,
+  "pitches": {
+   "FC": 174,
+   "FF": 319,
+   "FS": 38,
+   "SL": 150
+  }
+ },
+ "696070": {
+  "name": "Rojas, Kendry",
+  "cluster": 3,
+  "pitches": {
+   "CH": 74,
+   "FF": 225,
+   "SI": 75,
+   "SL": 144
+  }
+ },
+ "696131": {
+  "name": "Black, Mason",
+  "cluster": 3,
+  "pitches": {
+   "CU": 39,
+   "FC": 46,
+   "FF": 118,
+   "SI": 144,
+   "SL": 73,
+   "ST": 113
+  }
+ },
+ "696136": {
+  "name": "Wicks, Jordan",
+  "cluster": -1,
+  "pitches": {
+   "CH": 51,
+   "FF": 69,
+   "SL": 36
+  }
+ },
+ "696146": {
+  "name": "Smith, Hagen",
+  "cluster": -1,
+  "pitches": {
+   "FC": 88,
+   "FF": 227,
+   "SL": 142
+  }
+ },
+ "696147": {
+  "name": "Bachman, Sam",
+  "cluster": 1,
+  "pitches": {
+   "CH": 119,
+   "SI": 250,
+   "SL": 425
+  }
+ },
+ "696149": {
+  "name": "Chandler, Bubba",
+  "cluster": 3,
+  "pitches": {
+   "CH": 383,
+   "CU": 122,
+   "FF": 1298,
+   "SI": 218,
+   "SL": 555,
+   "ST": 108
+  }
+ },
+ "696270": {
+  "name": "Johnson, Ryan",
+  "cluster": 2,
+  "pitches": {
+   "FC": 666,
+   "FS": 355,
+   "SI": 292,
+   "ST": 404
+  }
+ },
+ "696519": {
+  "name": "Natera Jr., Samy",
+  "cluster": 0,
+  "pitches": {
+   "FF": 463,
+   "SL": 112
+  }
+ },
+ "696522": {
+  "name": "Juenger, Hayden",
+  "cluster": -1,
+  "pitches": {
+   "CH": 62,
+   "FC": 64,
+   "FF": 102,
+   "SL": 63
+  }
+ },
+ "697812": {
+  "name": "Rock, Joe",
+  "cluster": -1,
+  "pitches": {
+   "FF": 104,
+   "SL": 79
+  }
+ },
+ "699008": {
+  "name": "Kelly, Antwone",
+  "cluster": -1,
+  "pitches": {
+   "CH": 36,
+   "FF": 152,
+   "SL": 30,
+   "ST": 51
+  }
+ },
+ "699044": {
+  "name": "Ullola, Miguel",
+  "cluster": -1,
+  "pitches": {
+   "FF": 157,
+   "SL": 71
+  }
+ },
+ "699134": {
+  "name": "Rodriguez, Bradgley",
+  "cluster": 2,
+  "pitches": {
+   "CH": 503,
+   "FF": 309,
+   "SI": 297,
+   "SL": 71
+  }
+ },
+ "699151": {
+  "name": "Paez, Jedixson",
+  "cluster": -1,
+  "pitches": {
+   "CH": 76,
+   "CU": 38,
+   "FF": 68
+  }
+ },
+ "699823": {
+  "name": "Davis, Tyler",
+  "cluster": 3,
+  "pitches": {
+   "FF": 303,
+   "FS": 31,
+   "SL": 154
+  }
+ },
+ "700187": {
+  "name": "Taylor, Troy",
+  "cluster": -1,
+  "pitches": {
+   "FF": 32
+  }
+ },
+ "700241": {
+  "name": "McGreevy, Michael",
+  "cluster": 2,
+  "pitches": {
+   "CH": 566,
+   "CU": 349,
+   "FC": 311,
+   "FF": 683,
+   "SI": 449,
+   "SL": 121,
+   "ST": 294
+  }
+ },
+ "700249": {
+  "name": "Povich, Cade",
+  "cluster": 3,
+  "pitches": {
+   "CH": 62,
+   "CU": 137,
+   "FF": 278,
+   "SI": 51,
+   "SL": 82
+  }
+ },
+ "700270": {
+  "name": "D\u00edaz, Yilber",
+  "cluster": -1,
+  "pitches": {
+   "FF": 68,
+   "SL": 74
+  }
+ },
+ "700363": {
+  "name": "Smith-Shawver, AJ",
+  "cluster": -1,
+  "pitches": {
+   "CU": 58,
+   "FF": 224,
+   "FS": 204,
+   "SI": 42
+  }
+ },
+ "700669": {
+  "name": "Graceffo, Gordon",
+  "cluster": 0,
+  "pitches": {
+   "CH": 165,
+   "CU": 100,
+   "FC": 180,
+   "FF": 467,
+   "SI": 85,
+   "SL": 224
+  }
+ },
+ "700712": {
+  "name": "Ure\u00f1a, Walbert",
+  "cluster": 2,
+  "pitches": {
+   "CH": 851,
+   "FF": 459,
+   "SI": 820,
+   "ST": 348
+  }
+ },
+ "700842": {
+  "name": "Rivera, Eduardo",
+  "cluster": -1,
+  "pitches": {
+   "CH": 31,
+   "FF": 114,
+   "SL": 65
+  }
+ },
+ "701121": {
+  "name": "VanWey, Logan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 105,
+   "ST": 55
+  }
+ },
+ "701474": {
+  "name": "Davitt, Duncan",
+  "cluster": -1,
+  "pitches": {
+   "FF": 49,
+   "ST": 30
+  }
+ },
+ "701519": {
+  "name": "Adams, Travis",
+  "cluster": 2,
+  "pitches": {
+   "CH": 233,
+   "FC": 195,
+   "FF": 231,
+   "SI": 57,
+   "SL": 233
+  }
+ },
+ "701542": {
+  "name": "Warren, Will",
+  "cluster": 3,
+  "pitches": {
+   "CH": 364,
+   "CU": 149,
+   "FF": 933,
+   "SI": 652,
+   "ST": 530
+  }
+ },
+ "701552": {
+  "name": "Granillo, Andre",
+  "cluster": -1,
+  "pitches": {
+   "FF": 48,
+   "SL": 118
+  }
+ },
+ "701656": {
+  "name": "Henderson, Logan",
+  "cluster": 2,
+  "pitches": {
+   "CH": 529,
+   "FC": 230,
+   "FF": 698,
+   "ST": 47
+  }
+ },
+ "701719": {
+  "name": "Samaniego, Tyler",
+  "cluster": 0,
+  "pitches": {
+   "FF": 84,
+   "SI": 126,
+   "ST": 59
+  }
+ },
+ "702021": {
+  "name": "Dion, Will",
+  "cluster": 3,
+  "pitches": {
+   "CH": 204,
+   "CU": 157,
+   "FC": 66,
+   "FF": 336
+  }
+ },
+ "702047": {
+  "name": "Cook, Alex",
+  "cluster": -1,
+  "pitches": {
+   "FF": 66
+  }
+ },
+ "702056": {
+  "name": "Yesavage, Trey",
+  "cluster": 2,
+  "pitches": {
+   "FF": 757,
+   "FS": 469,
+   "SL": 390
+  }
+ },
+ "702070": {
+  "name": "Cameron, Noah",
+  "cluster": 2,
+  "pitches": {
+   "CH": 575,
+   "CU": 472,
+   "FC": 610,
+   "FF": 694,
+   "SI": 146,
+   "SL": 390
+  }
+ },
+ "702153": {
+  "name": "Fitzpatrick, Brian",
+  "cluster": -1,
+  "pitches": {
+   "CH": 36
+  }
+ },
+ "702193": {
+  "name": "Morris, Andrew",
+  "cluster": 0,
+  "pitches": {
+   "CH": 139,
+   "FC": 288,
+   "FF": 582,
+   "SI": 152,
+   "ST": 116
+  }
+ },
+ "702273": {
+  "name": "Schultz, Noah",
+  "cluster": 0,
+  "pitches": {
+   "CH": 121,
+   "CU": 41,
+   "FC": 277,
+   "FF": 274,
+   "SI": 326,
+   "ST": 218
+  }
+ },
+ "702275": {
+  "name": "Ritchie, JR",
+  "cluster": 3,
+  "pitches": {
+   "CH": 226,
+   "CU": 336,
+   "FC": 109,
+   "FF": 242,
+   "SI": 287,
+   "SL": 76
+  }
+ },
+ "702303": {
+  "name": "Martin, Riley",
+  "cluster": -1,
+  "pitches": {
+   "CU": 35,
+   "FF": 64
+  }
+ },
+ "702352": {
+  "name": "Bivens, Spencer",
+  "cluster": -1,
+  "pitches": {
+   "FF": 47,
+   "SI": 64,
+   "ST": 37
+  }
+ },
+ "702474": {
+  "name": "Paredes, Mike",
+  "cluster": 2,
+  "pitches": {
+   "CH": 141,
+   "FC": 84,
+   "FF": 204,
+   "ST": 121
+  }
+ },
+ "702566": {
+  "name": "Murphy, Owen",
+  "cluster": -1,
+  "pitches": {
+   "CH": 42,
+   "CU": 33,
+   "FF": 110
+  }
+ },
+ "702752": {
+  "name": "Pintaro, Jonathan",
+  "cluster": -1,
+  "pitches": {
+   "CH": 33,
+   "FC": 275,
+   "FF": 84,
+   "SI": 104
+  }
+ },
+ "702885": {
+  "name": "Perdomo, Cesar",
+  "cluster": -1,
+  "pitches": {
+   "CH": 114,
+   "FF": 174,
+   "SL": 87
+  }
+ },
+ "703615": {
+  "name": "Cabrera, Jose",
+  "cluster": -1,
+  "pitches": {
+   "CH": 64,
+   "CU": 53,
+   "FC": 108,
+   "FF": 120,
+   "SI": 50,
+   "ST": 67
+  }
+ },
+ "703725": {
+  "name": "Gastelum, Luis",
+  "cluster": -1,
+  "pitches": {
+   "CH": 221,
+   "FF": 187,
+   "SI": 50,
+   "ST": 141
+  }
+ },
+ "800048": {
+  "name": "Messick, Parker",
+  "cluster": 2,
+  "pitches": {
+   "CH": 695,
+   "CU": 247,
+   "FC": 139,
+   "FF": 1230,
+   "SI": 440,
+   "SL": 193
+  }
+ },
+ "800311": {
+  "name": "Fuentes, Didier",
+  "cluster": 0,
+  "pitches": {
+   "FF": 846,
+   "FS": 83,
+   "SL": 294
+  }
+ },
+ "800600": {
+  "name": "Kent, Jackson",
+  "cluster": -1,
+  "pitches": {
+   "CH": 139,
+   "CU": 96,
+   "FF": 212,
+   "SI": 87,
+   "SL": 143
+  }
+ },
+ "801139": {
+  "name": "Tolle, Payton",
+  "cluster": 0,
+  "pitches": {
+   "CH": 65,
+   "CU": 212,
+   "FC": 439,
+   "FF": 1015,
+   "SI": 547
+  }
+ },
+ "801403": {
+  "name": "Dollander, Chase",
+  "cluster": 3,
+  "pitches": {
+   "CH": 78,
+   "CU": 59,
+   "FF": 279,
+   "SI": 178,
+   "SL": 108,
+   "ST": 40
+  }
+ },
+ "801434": {
+  "name": "Gervase, Paul",
+  "cluster": -1,
+  "pitches": {
+   "FF": 55,
+   "SL": 49
+  }
+ },
+ "801725": {
+  "name": "De Le\u00f3n, Luis",
+  "cluster": -1,
+  "pitches": {
+   "SI": 85
+  }
+ },
+ "802408": {
+  "name": "Mautz, Brycen",
+  "cluster": -1,
+  "pitches": {
+   "CU": 58,
+   "FF": 116,
+   "SI": 44,
+   "SL": 80
+  }
+ },
+ "804267": {
+  "name": "Thornton, Zac",
+  "cluster": 3,
+  "pitches": {
+   "CH": 58,
+   "CU": 42,
+   "FC": 398,
+   "FF": 320,
+   "SI": 139,
+   "SL": 101,
+   "ST": 198
+  }
+ },
+ "804619": {
+  "name": "Klein, John",
+  "cluster": -1,
+  "pitches": {
+   "CH": 40,
+   "FF": 68
+  }
+ },
+ "804636": {
+  "name": "Tong, Jonah",
+  "cluster": -1,
+  "pitches": {
+   "CH": 135,
+   "CU": 47,
+   "FC": 110,
+   "FF": 245
+  }
+ },
+ "805074": {
+  "name": "Marte, Yunior",
+  "cluster": -1,
+  "pitches": {
+   "FF": 170,
+   "FS": 53,
+   "SL": 158
+  }
+ },
+ "805123": {
+  "name": "Blubaugh, AJ",
+  "cluster": 2,
+  "pitches": {
+   "CH": 341,
+   "FC": 66,
+   "FF": 840,
+   "ST": 375
+  }
+ },
+ "805299": {
+  "name": "Garcia, Brandyn",
+  "cluster": 3,
+  "pitches": {
+   "FC": 146,
+   "SI": 345,
+   "ST": 213
+  }
+ },
+ "805326": {
+  "name": "Schweitzer, Tyler",
+  "cluster": 1,
+  "pitches": {
+   "CH": 53,
+   "CU": 37,
+   "FF": 217,
+   "SL": 210
+  }
+ },
+ "805345": {
+  "name": "Harris, Trent",
+  "cluster": -1,
+  "pitches": {
+   "CU": 66,
+   "FC": 110,
+   "SI": 82,
+   "ST": 107
+  }
+ },
+ "805427": {
+  "name": "Sommers, Drew",
+  "cluster": -1,
+  "pitches": {
+   "FF": 218,
+   "SI": 268,
+   "SL": 130
+  }
+ },
+ "805673": {
+  "name": "Matthews, Zebby",
+  "cluster": 3,
+  "pitches": {
+   "CH": 280,
+   "CU": 235,
+   "FC": 263,
+   "FF": 757,
+   "SI": 98,
+   "SL": 483
+  }
+ },
+ "806188": {
+  "name": "Gibson, Cade",
+  "cluster": 1,
+  "pitches": {
+   "CH": 74,
+   "CU": 184,
+   "FF": 43,
+   "SI": 199,
+   "SL": 139,
+   "ST": 236
+  }
+ },
+ "806960": {
+  "name": "Morales, Luis",
+  "cluster": 3,
+  "pitches": {
+   "CH": 31,
+   "FF": 158,
+   "SI": 39,
+   "SL": 94
+  }
+ },
+ "807739": {
+  "name": "Anderson, Kade",
+  "cluster": -1,
+  "pitches": {
+   "CH": 96,
+   "CU": 83,
+   "FF": 219,
+   "SL": 133
+  }
+ },
+ "807743": {
+  "name": "Sullivan, Sean",
+  "cluster": 0,
+  "pitches": {
+   "CH": 65,
+   "FC": 62,
+   "FF": 189,
+   "ST": 72
+  }
+ },
+ "808825": {
+  "name": "Sears, Andrew",
+  "cluster": -1,
+  "pitches": {
+   "CH": 47,
+   "FF": 163,
+   "SI": 43,
+   "SL": 111
+  }
+ },
+ "808963": {
+  "name": "Sasaki, Roki",
+  "cluster": 2,
+  "pitches": {
+   "FF": 881,
+   "FO": 152,
+   "FS": 612,
+   "SL": 453
+  }
+ },
+ "808967": {
+  "name": "Yamamoto, Yoshinobu",
+  "cluster": 2,
+  "pitches": {
+   "CU": 359,
+   "FC": 406,
+   "FF": 715,
+   "FS": 728,
+   "SI": 358,
+   "SL": 166
+  }
+ },
+ "808970": {
+  "name": "Go, Woo-Suk",
+  "cluster": -1,
+  "pitches": {
+   "FF": 34
+  }
+ },
+ "810938": {
+  "name": "Williamson, Ben",
+  "cluster": -1,
+  "pitches": {
+   "EP": 50
+  }
+ },
+ "811315": {
+  "name": "Hopkins, Brody",
+  "cluster": -1,
+  "pitches": {
+   "CU": 39,
+   "FF": 57
+  }
+ },
+ "813349": {
+  "name": "Early, Connelly",
+  "cluster": 3,
+  "pitches": {
+   "CH": 284,
+   "CU": 169,
+   "FF": 546,
+   "SI": 312,
+   "SL": 123,
+   "ST": 125
+  }
+ },
+ "814305": {
+  "name": "Tur, Yunior",
+  "cluster": -1,
+  "pitches": {
+   "FC": 108,
+   "FF": 88,
+   "FS": 95
+  }
+ },
+ "814490": {
+  "name": "Pecko, Ethan",
+  "cluster": -1,
+  "pitches": {
+   "CH": 31,
+   "CU": 74,
+   "FC": 109,
+   "FF": 119,
+   "SI": 128,
+   "ST": 110
+  }
+ },
+ "815081": {
+  "name": "Manfredi, Mark",
+  "cluster": -1,
+  "pitches": {
+   "FF": 177,
+   "SL": 83
+  }
+ },
+ "815083": {
+  "name": "Farris, Mitch",
+  "cluster": 2,
+  "pitches": {
+   "CH": 245,
+   "FC": 151,
+   "FF": 431,
+   "SL": 134
+  }
+ },
+ "820862": {
+  "name": "Fermin, Jos\u00e9",
+  "cluster": 1,
+  "pitches": {
+   "CH": 46,
+   "FF": 69,
+   "SI": 293,
+   "SL": 573
+  }
+ },
+ "837227": {
+  "name": "Imai, Tatsuya",
+  "cluster": 1,
+  "pitches": {
+   "CH": 39,
+   "FF": 642,
+   "FS": 42,
+   "SI": 61,
+   "SL": 660
+  }
+ }
+}

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+.env
+backend/data/
+backend/pitch.db
+backend/statcast_*.csv
+
+backend/static/

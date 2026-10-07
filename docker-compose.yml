@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    # Optional: mount the full Statcast download so Replay offers every held-out game
+    # volumes:
+    #   - ./backend/data:/app/data:ro

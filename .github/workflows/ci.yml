@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: backend/requirements*.txt
+      - run: pip install -r requirements.txt -r requirements-dev.txt
+      - run: pytest -q
+
+  frontend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t pitch-app .
+      - name: Smoke test the container
+        run: |
+          docker run -d -p 8000:8000 --name app pitch-app
+          for i in $(seq 1 30); do curl -sf http://localhost:8000/health && break; sleep 2; done
+          curl -sf http://localhost:8000/health
+          curl -sf http://localhost:8000/pitchers | head -c 200
+          curl -sf http://localhost:8000/ | grep -q 'id="root"'
+      - name: Container logs
+        if: failure()
+        run: docker logs app

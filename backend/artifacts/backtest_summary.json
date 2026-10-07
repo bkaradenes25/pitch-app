@@ -1,0 +1,12 @@
+{
+  "n": 113063,
+  "top1_pct": 0.24090109054244094,
+  "top3_pct": 0.6833535285637211,
+  "avg_rec_prob": 0.41709566436411555,
+  "avg_actual_prob": 0.369741000829666,
+  "success_matched": 0.40110878584278736,
+  "success_unmatched": 0.3649942907743574,
+  "n_matched": 27237,
+  "run_id": 8,
+  "n_unmatched": 85826
+}

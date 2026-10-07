@@ -1,0 +1,27 @@
+{
+  "best_params": {
+    "colsample_bytree": 0.85,
+    "learning_rate": 0.02330103223409451,
+    "max_depth": 7,
+    "n_estimators": 393,
+    "subsample": 0.85
+  },
+  "cv_auc": 0.7805754323930346,
+  "val": {
+    "auc": 0.7829915866685813,
+    "logloss": 0.5290845632553101,
+    "brier": 0.1806820183992386,
+    "base_rate": 0.37149374100524074
+  },
+  "test": {
+    "auc": 0.780310108102903,
+    "logloss": 0.5313378572463989,
+    "brier": 0.1818099021911621,
+    "base_rate": 0.37357803869929407
+  },
+  "test_baseline_brier": 0.23401883422777578,
+  "train_end": "2026-08-03",
+  "test_start": "2026-08-31",
+  "data_through": "2026-09-27",
+  "note": "Postseason games are excluded from training: use them as the out-of-sample demo set."
+}
