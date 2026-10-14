@@ -11,7 +11,7 @@ from importlib import metadata
 PACKAGES = {  # distribution name -> name to write
     "fastapi": "fastapi", "uvicorn": "uvicorn[standard]", "pydantic": "pydantic", "pandas": "pandas",
     "numpy": "numpy", "scikit-learn": "scikit-learn", "xgboost": "xgboost", "joblib": "joblib",
-    "requests": "requests", "pyarrow": "pyarrow", "scipy": "scipy",
+    "requests": "requests", "pyarrow": "pyarrow", "scipy": "scipy", "tzdata": "tzdata",
 }
 
 

@@ -10,4 +10,4 @@ pybaseball
 pyarrow
 scipy
 requests
-anthropic
+tzdata

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { API, api } from "../api";
 import { Results } from "../components/Results";
 import { Scoreboard } from "../components/Scoreboard";
@@ -11,11 +11,18 @@ export function Live() {
   const [snap, setSnap] = useState<LiveSnapshot | null>(null);
   const [err, setErr] = useState("");
 
-  useEffect(() => {
+  const loadGames = useCallback(() => {
     api<LiveGame[]>("/live/games")
-      .then(setGames)
+      .then((g) => {
+        setGames(g);
+        setErr("");
+      })
       .catch((e: unknown) => setErr("Could not load games: " + errMsg(e)));
   }, []);
+
+  useEffect(() => {
+    loadGames();
+  }, [loadGames]);
 
   useEffect(() => {
     if (!pk) return;
@@ -41,6 +48,7 @@ export function Live() {
             ))}
           </select>
         </label>
+        <button onClick={loadGames}>↻ Refresh games</button>
         {games.length === 0 && !err && <span className="muted">No games today. Use Sandbox for the demo.</span>}
       </div>
       {err && <p className="err">{err}</p>}

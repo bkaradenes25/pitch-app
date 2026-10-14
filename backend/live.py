@@ -3,15 +3,33 @@ live.py -- reads the MLB Stats API live game feed and maps it to model inputs.
 Field names below match the feed as commonly documented; verify against a real
 response (curl one gamePk) before relying on them.
 """
-from datetime import date
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 import requests
 
 BASE = "https://statsapi.mlb.com/api"
+ET = ZoneInfo("America/New_York")
+
+
+def baseball_today(now=None):
+    """Date used for the MLB schedule. MLB dates follow US Eastern time, and a game that runs past
+    midnight still belongs to the previous day, so shift back 4 hours before taking the date.
+    (Using the server's own clock breaks on hosts running in UTC: games vanish at 8 pm Eastern.)"""
+    now = (now or datetime.now(ET)).astimezone(ET)
+    return (now - timedelta(hours=4)).date()
+
+
+def _rank(status):
+    if status == "In Progress":
+        return 0
+    if status.startswith("Final") or status == "Game Over":
+        return 2
+    return 1
 
 
 def todays_games(day=None):
-    day = day or date.today().isoformat()
+    day = day or baseball_today().isoformat()
     r = requests.get(f"{BASE}/v1/schedule", params={"sportId": 1, "date": day}, timeout=10)
     r.raise_for_status()
     games = []
@@ -19,11 +37,11 @@ def todays_games(day=None):
         for g in d.get("games", []):
             games.append({
                 "game_pk": g["gamePk"],
-                "status": g["status"]["detailedState"],
+                "status": g.get("status", {}).get("detailedState", ""),
                 "away": g["teams"]["away"]["team"]["name"],
                 "home": g["teams"]["home"]["team"]["name"],
             })
-    return games
+    return sorted(games, key=lambda g: _rank(g["status"]))   # live games first, finished last
 
 
 def fetch_feed(game_pk):
