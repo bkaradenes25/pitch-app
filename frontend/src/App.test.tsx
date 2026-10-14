@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, it, vi } from "vitest";
-import { fireEvent, render, screen } from "@testing-library/react";
+import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import App from "./App";
 import { Results, type ResultsData } from "./components/Results";
 import { Scoreboard } from "./components/Scoreboard";
@@ -85,5 +85,15 @@ describe("App", () => {
     expect(await screen.findByText("held-out game")).toBeInTheDocument();
     const calls = vi.mocked(fetch).mock.calls;
     expect(calls.some(([u]) => String(u).includes("/replay/games"))).toBe(true);
+  });
+
+  it("lets you refresh the live games list", async () => {
+    render(<App />);
+    fireEvent.click(screen.getByText("Live games"));
+    const refresh = await screen.findByText("↻ Refresh games");
+    const count = () => vi.mocked(fetch).mock.calls.filter(([u]) => String(u).includes("/live/games")).length;
+    await waitFor(() => expect(count()).toBe(1));
+    fireEvent.click(refresh);
+    await waitFor(() => expect(count()).toBe(2));
   });
 });

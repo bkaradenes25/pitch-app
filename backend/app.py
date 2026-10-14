@@ -8,7 +8,7 @@ import os
 from typing import Literal, Optional
 
 import requests
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from fastapi.staticfiles import StaticFiles
@@ -105,10 +105,10 @@ def replay_step(game_pk: int, req: StepRequest):
 
 # ---- live MLB data ---------------------------------------------------------------
 @app.get("/live/games")
-def live_games():
+def live_games(day: Optional[str] = Query(None, pattern=r"^\d{4}-\d{2}-\d{2}$")):
     try:
-        return live.todays_games()
-    except requests.RequestException as e:
+        return live.todays_games(day)
+    except (requests.RequestException, KeyError) as e:
         raise HTTPException(502, f"MLB API error: {e}")
 
 
