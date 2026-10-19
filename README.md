@@ -1,6 +1,6 @@
 # ⚾ Pitch Recommender
 
-![CI](https://github.com/YOUR-USERNAME/YOUR-REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/bkaradenes25/pitch-app/actions/workflows/ci.yml/badge.svg)
 <!-- Add a screenshot or GIF at docs/demo.gif, then uncomment: ![Demo](docs/demo.gif) -->
 
 A full-stack app that recommends the next pitch from the game situation **and checks honestly whether those
