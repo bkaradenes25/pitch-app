@@ -68,3 +68,33 @@ def test_replay_games_without_any_data_returns_503(client, modules, monkeypatch,
     pytest.importorskip("xgboost")   # replay lazily imports train
     monkeypatch.setattr(modules.replay, "DEMO_DIR", tmp_path)   # no bundled demo games either
     assert client.get("/replay/games").status_code == 503
+
+
+def test_batters_endpoint_lists_profiled_batters(client):
+    out = client.get("/batters").json()
+    assert [b["batter_id"] for b in out] == [8, 7]
+    assert out[1] == {"batter_id": 7, "name": "Test Batter", "stand": "L", "switch": False}
+
+
+def test_pitchers_endpoint_includes_throwing_hand(client):
+    by_id = {p["pitcher_id"]: p for p in client.get("/pitchers").json()}
+    assert by_id[1]["throws"] == "R" and by_id[2]["throws"] is None
+
+
+def test_recommend_returns_batter_and_stuff(client):
+    body = client.post("/recommend", json=GOOD).json()
+    assert body["batter"]["name"] == "Test Batter" and body["batter"]["known"] is True
+    assert all("stuff" in r for r in body["recommendations"])
+    no_batter = client.post("/recommend", json={k: v for k, v in GOOD.items() if k != "batter_id"}).json()
+    assert no_batter["batter"] is None
+
+
+def test_live_game_with_no_play_yet_returns_409_not_502(client, monkeypatch):
+    import json
+    from pathlib import Path
+
+    import live
+    pre = json.loads((Path(__file__).parent / "fixtures" / "feed_pregame_sample.json").read_text())
+    monkeypatch.setattr(live, "snapshot", lambda pk: live.parse_snapshot(pre))
+    r = client.get("/live/123")
+    assert r.status_code == 409 and "not have started" in r.json()["detail"]

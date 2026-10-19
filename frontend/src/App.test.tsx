@@ -67,6 +67,21 @@ describe("Results", () => {
     render(<Results data={null} />);
     expect(screen.getByText(/Loading/)).toBeInTheDocument();
   });
+  it("shows the selected pitch's velocity and spin, and the batter card when there is a batter", () => {
+    const withStuff: ResultsData = {
+      used_default_arsenal: false,
+      recommendations: [
+        { ...rec("FF", 0.7), stuff: { velo: 95, spin: 2400, ext: 6.5, ivb_in: 16, hb_in: -8, source: "pitcher" } },
+        { ...rec("CU", 0.6), stuff: null },
+      ],
+      batter: { batter_id: 1, name: "Test Hitter", known: false, stand: null, switch: false, vs: {} },
+    };
+    render(<Results data={withStuff} />);
+    expect(screen.getByText(/95\.0 mph/)).toBeInTheDocument();
+    expect(screen.getByText(/Test Hitter: no profile/)).toBeInTheDocument();
+    fireEvent.click(screen.getByText("CU"));
+    expect(screen.queryByText(/mph/)).not.toBeInTheDocument(); // this pitch has no stuff data
+  });
 });
 
 describe("App", () => {

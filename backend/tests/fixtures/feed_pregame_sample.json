@@ -1,0 +1,12 @@
+{
+ "_fixture_note": "Hand-assembled to match the structure of a real feed (key names for count, matchup and pitch events verified against game 813071 on 2025-10-01); numbers are illustrative. currentPlay and linescore are from the documented shape and not yet verified against a real response: replace with `python capture_fixture.py <gamePk>`.",
+ "gamePk": 900004,
+ "liveData": {
+  "plays": {
+   "allPlays": [],
+   "scoringPlays": [],
+   "playsByInning": []
+  },
+  "linescore": {}
+ }
+}

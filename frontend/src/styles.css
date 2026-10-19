@@ -33,3 +33,10 @@ blockquote { margin:14px 0 0; padding:10px 14px; border-left:3px solid var(--acc
 .stat-val { font-size:1.5rem; font-weight:700; color:var(--accent); }
 .stat-label { font-size:.8rem; color:var(--muted); margin-top:2px; }
 .badge.ok { border-color:var(--accent); color:var(--accent); }
+.controls input { background:var(--bg); color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:6px; min-width:190px; }
+.batter-card { margin-top:14px; padding-top:12px; border-top:1px solid var(--line); }
+.batter-card h4 { margin:0 0 8px; }
+.batter-card table { width:100%; border-collapse:collapse; font-size:.85rem; }
+.batter-card th { text-align:right; color:var(--muted); font-weight:500; padding:2px 6px; }
+.batter-card td { text-align:right; padding:2px 6px; font-variant-numeric:tabular-nums; }
+.batter-card th:first-child, .batter-card td:first-child { text-align:left; padding-left:0; }

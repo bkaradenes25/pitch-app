@@ -1,0 +1,100 @@
+{
+ "_fixture_note": "Shape verified against the real schedule response for 2025-10-01 (first three games, status Final). The 'In Progress' and 'Pre-Game' rows are invented to test ordering.",
+ "dates": [
+  {
+   "date": "2025-10-01",
+   "games": [
+    {
+     "gamePk": 813071,
+     "status": {
+      "detailedState": "Final"
+     },
+     "teams": {
+      "away": {
+       "team": {
+        "name": "Detroit Tigers"
+       }
+      },
+      "home": {
+       "team": {
+        "name": "Cleveland Guardians"
+       }
+      }
+     }
+    },
+    {
+     "gamePk": 813064,
+     "status": {
+      "detailedState": "Final"
+     },
+     "teams": {
+      "away": {
+       "team": {
+        "name": "San Diego Padres"
+       }
+      },
+      "home": {
+       "team": {
+        "name": "Chicago Cubs"
+       }
+      }
+     }
+    },
+    {
+     "gamePk": 900010,
+     "status": {
+      "detailedState": "Pre-Game"
+     },
+     "teams": {
+      "away": {
+       "team": {
+        "name": "Boston Red Sox"
+       }
+      },
+      "home": {
+       "team": {
+        "name": "New York Yankees"
+       }
+      }
+     }
+    },
+    {
+     "gamePk": 900011,
+     "status": {
+      "detailedState": "In Progress"
+     },
+     "teams": {
+      "away": {
+       "team": {
+        "name": "Seattle Mariners"
+       }
+      },
+      "home": {
+       "team": {
+        "name": "Houston Astros"
+       }
+      }
+     }
+    },
+    {
+     "gamePk": 900012,
+     "status": {
+      "detailedState": "Game Over"
+     },
+     "teams": {
+      "away": {
+       "team": {
+        "name": "Toronto Blue Jays"
+       }
+      },
+      "home": {
+       "team": {
+        "name": "Baltimore Orioles"
+       }
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

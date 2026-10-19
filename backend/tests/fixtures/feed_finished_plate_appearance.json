@@ -1,0 +1,125 @@
+{
+ "_fixture_note": "Hand-assembled to match the structure of a real feed (key names for count, matchup and pitch events verified against game 813071 on 2025-10-01); numbers are illustrative. currentPlay and linescore are from the documented shape and not yet verified against a real response: replace with `python capture_fixture.py <gamePk>`.",
+ "gamePk": 900003,
+ "liveData": {
+  "plays": {
+   "currentPlay": {
+    "count": {
+     "balls": 4,
+     "strikes": 1,
+     "outs": 3
+    },
+    "matchup": {
+     "batter": {
+      "id": 592450,
+      "fullName": "Test Slugger"
+     },
+     "pitcher": {
+      "id": 554430,
+      "fullName": "Test Closer"
+     },
+     "batSide": {
+      "code": "R"
+     },
+     "pitchHand": {
+      "code": "R"
+     }
+    },
+    "playEvents": [
+     {
+      "isPitch": true,
+      "details": {
+       "description": "Ball",
+       "type": {
+        "code": "FF"
+       }
+      },
+      "pitchData": {
+       "startSpeed": 98.5,
+       "extension": 6.5,
+       "zone": 5,
+       "coordinates": {
+        "pX": -1.3,
+        "pZ": 3.9
+       },
+       "breaks": {
+        "spinRate": 2300,
+        "breakVerticalInduced": 12.0,
+        "breakHorizontal": -6.0
+       }
+      }
+     }
+    ]
+   },
+   "allPlays": [
+    {
+     "count": {
+      "balls": 4,
+      "strikes": 1,
+      "outs": 3
+     },
+     "matchup": {
+      "batter": {
+       "id": 592450,
+       "fullName": "Test Slugger"
+      },
+      "pitcher": {
+       "id": 554430,
+       "fullName": "Test Closer"
+      },
+      "batSide": {
+       "code": "R"
+      },
+      "pitchHand": {
+       "code": "R"
+      }
+     },
+     "playEvents": [
+      {
+       "isPitch": true,
+       "details": {
+        "description": "Ball",
+        "type": {
+         "code": "FF"
+        }
+       },
+       "pitchData": {
+        "startSpeed": 98.5,
+        "extension": 6.5,
+        "zone": 5,
+        "coordinates": {
+         "pX": -1.3,
+         "pZ": 3.9
+        },
+        "breaks": {
+         "spinRate": 2300,
+         "breakVerticalInduced": 12.0,
+         "breakHorizontal": -6.0
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "linescore": {
+   "currentInning": 10,
+   "offense": {
+    "first": {
+     "id": 5
+    },
+    "third": {
+     "id": 6
+    }
+   },
+   "teams": {
+    "away": {
+     "runs": 1
+    },
+    "home": {
+     "runs": 2
+    }
+   }
+  }
+ }
+}

@@ -2,6 +2,7 @@
  "434378": {
   "name": "Verlander, Justin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 30,
    "FF": 71,
@@ -11,6 +12,7 @@
  "445276": {
   "name": "Jansen, Kenley",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 600,
    "SI": 49,
@@ -20,6 +22,7 @@
  "453286": {
   "name": "Scherzer, Max",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 227,
    "CU": 214,
@@ -31,6 +34,7 @@
  "455119": {
   "name": "Martin, Chris",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 104,
    "FF": 65,
@@ -40,17 +44,19 @@
  "471911": {
   "name": "Carrasco, Carlos",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
-   "CH": 76,
-   "FC": 38,
+   "CH": 73,
+   "FC": 34,
    "FF": 30,
    "SI": 66,
-   "SL": 34
+   "SL": 41
   }
  },
  "472610": {
   "name": "Garc\u00eda, Luis",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FS": 80,
    "SI": 123,
@@ -60,10 +66,11 @@
  "476594": {
   "name": "Stock, Robert",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 48,
-   "FC": 176,
-   "FF": 134,
+   "FC": 177,
+   "FF": 133,
    "SI": 125,
    "ST": 68
   }
@@ -71,6 +78,7 @@
  "489446": {
   "name": "Yates, Kirby",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 476,
    "FS": 236
@@ -79,6 +87,7 @@
  "500743": {
   "name": "Rojas, Miguel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 43
   }
@@ -86,6 +95,7 @@
  "500779": {
   "name": "Quintana, Jose",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 164,
    "CU": 126,
@@ -97,6 +107,7 @@
  "518585": {
   "name": "Cruz, Fernando",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 301,
    "FS": 484,
@@ -106,6 +117,7 @@
  "518876": {
   "name": "Kelly, Merrill",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 724,
    "CU": 298,
@@ -118,6 +130,7 @@
  "518886": {
   "name": "Kimbrel, Craig",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FF": 507,
    "KC": 75,
@@ -128,6 +141,7 @@
  "519141": {
   "name": "Pomeranz, Drew",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 348,
    "KC": 128
@@ -136,6 +150,7 @@
  "519242": {
   "name": "Sale, Chris",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 265,
    "FF": 1065,
@@ -146,6 +161,7 @@
  "527048": {
   "name": "P\u00e9rez, Mart\u00edn",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 695,
    "CU": 161,
@@ -157,6 +173,7 @@
  "542888": {
   "name": "Armstrong, Shawn",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 150,
    "FF": 194,
@@ -167,6 +184,7 @@
  "543037": {
   "name": "Cole, Gerrit",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 248,
    "FF": 945,
@@ -178,6 +196,7 @@
  "543056": {
   "name": "Coulombe, Danny",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FC": 143,
    "FF": 38,
@@ -188,6 +207,7 @@
  "543135": {
   "name": "Eovaldi, Nathan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 492,
    "FC": 422,
@@ -199,6 +219,7 @@
  "543238": {
   "name": "Gose, Anthony",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 119,
    "SL": 68
@@ -207,6 +228,7 @@
  "543243": {
   "name": "Gray, Sonny",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 142,
    "CU": 393,
@@ -219,6 +241,7 @@
  "543309": {
   "name": "Higashioka, Kyle",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 45
   }
@@ -226,6 +249,7 @@
  "543510": {
   "name": "McCann, James",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 55
   }
@@ -233,6 +257,7 @@
  "544150": {
   "name": "Su\u00e1rez, Albert",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 156,
    "CU": 91,
@@ -243,6 +268,7 @@
  "547179": {
   "name": "Lorenzen, Michael",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 489,
    "CU": 253,
@@ -256,6 +282,7 @@
  "547184": {
   "name": "Kelly, Michael",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SL": 32,
    "ST": 50
@@ -264,6 +291,7 @@
  "547973": {
   "name": "Chapman, Aroldis",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 310,
    "FS": 103,
@@ -274,6 +302,7 @@
  "548384": {
   "name": "Raley, Brooks",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 107,
    "FC": 248,
@@ -284,6 +313,7 @@
  "552640": {
   "name": "Kittredge, Andrew",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 87,
    "SI": 280,
@@ -293,6 +323,7 @@
  "554430": {
   "name": "Wheeler, Zack",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 229,
    "FC": 279,
@@ -305,6 +336,7 @@
  "571510": {
   "name": "Boyd, Matthew",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 545,
    "CU": 242,
@@ -315,6 +347,7 @@
  "571578": {
   "name": "Corbin, Patrick",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 247,
    "FC": 213,
@@ -326,14 +359,16 @@
  "571882": {
   "name": "Law, Derek",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
-   "FC": 58,
-   "SL": 49
+   "FC": 60,
+   "SL": 44
   }
  },
  "571927": {
   "name": "Matz, Steven",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 383,
    "CU": 180,
@@ -344,6 +379,7 @@
  "571945": {
   "name": "Mikolas, Miles",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 145,
    "CU": 271,
@@ -356,6 +392,7 @@
  "571948": {
   "name": "Milner, Hoby",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 123,
    "FF": 103,
@@ -366,6 +403,7 @@
  "572143": {
   "name": "Smith, Burch",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 71,
    "FC": 60,
@@ -375,6 +413,7 @@
  "572955": {
   "name": "Johnson, Pierce",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 529,
    "FF": 304
@@ -383,6 +422,7 @@
  "573009": {
   "name": "Mantiply, Joe",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 96,
    "CU": 106,
@@ -392,6 +432,7 @@
  "573124": {
   "name": "Rogers, Taylor",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FC": 147,
    "SI": 391,
@@ -401,6 +442,7 @@
  "573204": {
   "name": "Thielbar, Caleb",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 216,
    "FF": 330,
@@ -411,6 +453,7 @@
  "579328": {
   "name": "Kikuchi, Yusei",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CU": 136,
    "FC": 66,
@@ -422,6 +465,7 @@
  "592094": {
   "name": "Adam, Jason",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 190,
    "FF": 134,
@@ -432,6 +476,7 @@
  "592155": {
   "name": "Booser, Cam",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FC": 245,
    "FF": 260,
@@ -441,16 +486,18 @@
  "592332": {
   "name": "Gausman, Kevin",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 35,
    "FF": 1517,
    "FS": 1174,
-   "SL": 249
+   "SL": 244
   }
  },
  "592454": {
   "name": "Kahnle, Tommy",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 106,
    "FF": 51
@@ -459,6 +506,7 @@
  "592662": {
   "name": "Ray, Robbie",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 529,
    "FF": 891,
@@ -470,6 +518,7 @@
  "592773": {
   "name": "Stanek, Ryne",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 556,
    "FS": 170,
@@ -480,6 +529,7 @@
  "592779": {
   "name": "Stewart, Brock",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 57,
    "FC": 34,
@@ -491,6 +541,7 @@
  "592791": {
   "name": "Taillon, Jameson",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 227,
    "CU": 159,
@@ -503,6 +554,7 @@
  "592836": {
   "name": "Walker, Taijuan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 54,
    "FC": 84,
@@ -515,6 +567,7 @@
  "592866": {
   "name": "Williams, Trevor",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 59,
    "FF": 202,
@@ -526,6 +579,7 @@
  "593958": {
   "name": "Rodriguez, Eduardo",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 807,
    "CU": 375,
@@ -537,6 +591,7 @@
  "593974": {
   "name": "Peralta, Wandy",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 418,
    "FF": 114,
@@ -547,6 +602,7 @@
  "594027": {
   "name": "Guerrero, Tyron",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "SI": 519,
    "SL": 58
@@ -555,6 +611,7 @@
  "594580": {
   "name": "Moll, Sam",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 167,
    "FF": 123,
@@ -565,6 +622,7 @@
  "594798": {
   "name": "deGrom, Jacob",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 373,
    "CU": 182,
@@ -576,6 +634,7 @@
  "594835": {
   "name": "Gonzales, Marco",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 38
   }
@@ -583,6 +642,7 @@
  "595014": {
   "name": "Treinen, Blake",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 54,
    "FF": 60,
@@ -593,6 +653,7 @@
  "595345": {
   "name": "Okert, Steven",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FF": 289,
    "SI": 57,
@@ -602,6 +663,7 @@
  "595978": {
   "name": "Hedges, Austin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FA": 34
   }
@@ -609,6 +671,7 @@
  "596001": {
   "name": "Junis, Jakob",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 171,
    "FF": 163,
@@ -619,6 +682,7 @@
  "596117": {
   "name": "Stubbs, Garrett",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 40
   }
@@ -626,6 +690,7 @@
  "596133": {
   "name": "Weaver, Luke",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 308,
    "FC": 132,
@@ -635,6 +700,7 @@
  "601713": {
   "name": "Pivetta, Nick",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 128,
    "FC": 77,
@@ -645,6 +711,7 @@
  "605130": {
   "name": "Barlow, Scott",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 199,
    "FF": 76,
@@ -655,6 +722,7 @@
  "605135": {
   "name": "Bassitt, Chris",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 83,
    "CU": 374,
@@ -668,6 +736,7 @@
  "605154": {
   "name": "Brebbia, John",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 37,
    "SL": 45
@@ -676,6 +745,7 @@
  "605218": {
   "name": "Edwards Jr., Carl",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 30,
    "FF": 53
@@ -684,6 +754,7 @@
  "605242": {
   "name": "Fulmer, Michael",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 32,
    "FC": 106,
@@ -693,6 +764,7 @@
  "605280": {
   "name": "Holmes, Clay",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 230,
    "CU": 111,
@@ -704,6 +776,7 @@
  "605288": {
   "name": "Houser, Adrian",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 275,
    "CU": 119,
@@ -715,6 +788,7 @@
  "605400": {
   "name": "Nola, Aaron",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 481,
    "FC": 223,
@@ -726,6 +800,7 @@
  "605447": {
   "name": "Romano, Jordan",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 267,
    "SL": 364
@@ -734,6 +809,7 @@
  "605452": {
   "name": "Ross, Joe",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 41,
    "FS": 42,
@@ -744,6 +820,7 @@
  "605483": {
   "name": "Snell, Blake",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 132,
    "CU": 162,
@@ -754,6 +831,7 @@
  "605488": {
   "name": "Springs, Jeffrey",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 614,
    "FC": 103,
@@ -765,6 +843,7 @@
  "605540": {
   "name": "Woodruff, Brandon",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 136,
    "FC": 66,
@@ -775,6 +854,7 @@
  "606303": {
   "name": "Payamps, Joel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 61,
    "ST": 69
@@ -783,6 +863,7 @@
  "606965": {
   "name": "Devenski, Chris",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 59,
    "FF": 53
@@ -791,6 +872,7 @@
  "606996": {
   "name": "Hart, Kyle",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FF": 92,
    "FS": 214,
@@ -802,6 +884,7 @@
  "607067": {
   "name": "Rea, Colin",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 411,
    "CU": 125,
@@ -815,6 +898,7 @@
  "607074": {
   "name": "Rod\u00f3n, Carlos",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 209,
    "FF": 661,
@@ -825,27 +909,31 @@
  "607192": {
   "name": "Glasnow, Tyler",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 57,
-   "FF": 399,
+   "FF": 398,
    "KC": 245,
    "SI": 244,
-   "SL": 203
+   "SL": 204
   }
  },
  "607200": {
   "name": "Fedde, Erick",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 272,
-   "FC": 446,
-   "SI": 740,
+   "FC": 421,
+   "FF": 49,
+   "SI": 745,
    "ST": 925
   }
  },
  "607259": {
   "name": "Martinez, Nick",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 650,
    "CU": 103,
@@ -858,6 +946,7 @@
  "607455": {
   "name": "Banda, Anthony",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 38,
    "FF": 159,
@@ -868,6 +957,7 @@
  "607481": {
   "name": "Bummer, Aaron",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CU": 70,
    "FC": 33,
@@ -878,10 +968,11 @@
  "607536": {
   "name": "Freeland, Kyle",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 295,
-   "FC": 459,
-   "FF": 515,
+   "FC": 460,
+   "FF": 514,
    "KC": 485,
    "SI": 215,
    "ST": 217
@@ -890,6 +981,7 @@
  "607625": {
   "name": "Lugo, Seth",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 257,
    "CS": 64,
@@ -905,6 +997,7 @@
  "608331": {
   "name": "Fried, Max",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 206,
    "CU": 229,
@@ -917,6 +1010,7 @@
  "608337": {
   "name": "Giolito, Lucas",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 191,
    "CU": 37,
@@ -927,6 +1021,7 @@
  "608371": {
   "name": "Sims, Lucas",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 77,
    "SL": 40,
@@ -936,6 +1031,7 @@
  "608372": {
   "name": "Sugano, Tomoyuki",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 205,
    "FC": 271,
@@ -949,6 +1045,7 @@
  "608379": {
   "name": "Wacha, Michael",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 762,
    "CU": 301,
@@ -961,6 +1058,7 @@
  "608566": {
   "name": "M\u00e1rquez, Germ\u00e1n",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 350,
    "KC": 292,
@@ -971,6 +1069,7 @@
  "608650": {
   "name": "Enns, Dietrich",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 59,
    "FF": 160
@@ -979,6 +1078,7 @@
  "608718": {
   "name": "Suter, Brent",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 413,
    "FF": 394,
@@ -989,6 +1089,7 @@
  "608723": {
   "name": "Voth, Austin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 34,
    "FC": 51,
@@ -999,6 +1100,7 @@
  "615698": {
   "name": "Quantrill, Cal",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CU": 72,
    "FC": 331,
@@ -1011,6 +1113,7 @@
  "621016": {
   "name": "Cuas, Jose",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 152,
    "SI": 174,
@@ -1020,6 +1123,7 @@
  "621053": {
   "name": "Ferguson, Tyler",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 135,
    "ST": 62
@@ -1028,6 +1132,7 @@
  "621074": {
   "name": "Rucker, Michael",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 235,
    "FC": 164,
@@ -1038,6 +1143,7 @@
  "621097": {
   "name": "Waguespack, Jacob",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 132,
    "CU": 40,
@@ -1048,19 +1154,21 @@
  "621111": {
   "name": "Buehler, Walker",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 247,
    "FC": 635,
    "FF": 526,
    "KC": 219,
    "SI": 519,
-   "SL": 274,
+   "SL": 276,
    "ST": 184
   }
  },
  "621112": {
   "name": "Blackburn, Paul",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 265,
    "CU": 179,
@@ -1073,6 +1181,7 @@
  "621121": {
   "name": "McCullers Jr., Lance",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 118,
    "FC": 219,
@@ -1084,6 +1193,7 @@
  "621237": {
   "name": "Alvarado, Jos\u00e9",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FC": 365,
    "SI": 711
@@ -1092,14 +1202,16 @@
  "621242": {
   "name": "D\u00edaz, Edwin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
-   "FF": 220,
+   "FF": 219,
    "SL": 172
   }
  },
  "621345": {
   "name": "Minter, A.J.",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 87,
    "FC": 372,
@@ -1110,6 +1222,7 @@
  "621366": {
   "name": "Borucki, Ryan",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FS": 50,
    "SI": 133,
@@ -1120,6 +1233,7 @@
  "621381": {
   "name": "Strahm, Matt",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 72,
    "FC": 46,
@@ -1131,6 +1245,7 @@
  "621383": {
   "name": "Banks, Tanner",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 32,
    "FF": 141,
@@ -1142,6 +1257,7 @@
  "622088": {
   "name": "Antone, Tejay",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 105,
    "FC": 153,
@@ -1153,6 +1269,7 @@
  "622491": {
   "name": "Castillo, Luis",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 346,
    "FF": 999,
@@ -1163,6 +1280,7 @@
  "622554": {
   "name": "Dom\u00ednguez, Seranthony",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 476,
    "FS": 126,
@@ -1173,6 +1291,7 @@
  "622608": {
   "name": "Senzatela, Antonio",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 53,
    "CU": 99,
@@ -1184,6 +1303,7 @@
  "622663": {
   "name": "Severino, Luis",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 59,
    "FC": 226,
@@ -1196,6 +1316,7 @@
  "622694": {
   "name": "Hern\u00e1ndez, Elieser",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 50,
    "FF": 81,
@@ -1205,6 +1326,7 @@
  "622761": {
   "name": "Mateo, Jorge",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FA": 41
   }
@@ -1212,6 +1334,7 @@
  "623149": {
   "name": "Sewald, Paul",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 472,
    "ST": 363
@@ -1220,6 +1343,7 @@
  "623168": {
   "name": "Heineman, Tyler",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 38
   }
@@ -1227,6 +1351,7 @@
  "623211": {
   "name": "Brazob\u00e1n, Huascar",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 412,
    "FC": 30,
@@ -1237,6 +1362,7 @@
  "623352": {
   "name": "Hader, Josh",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "SI": 435,
    "SL": 241
@@ -1245,6 +1371,7 @@
  "623437": {
   "name": "Topa, Justin",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 54,
    "FC": 109,
@@ -1255,6 +1382,7 @@
  "623454": {
   "name": "Anderson, Drew",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 550,
    "CU": 389,
@@ -1265,6 +1393,7 @@
  "623465": {
   "name": "Phillips, Evan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 43,
    "FF": 191,
@@ -1275,6 +1404,7 @@
  "623474": {
   "name": "Herget, Jimmy",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 82,
    "FC": 267,
@@ -1287,6 +1417,7 @@
  "624133": {
   "name": "Suarez, Ranger",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 291,
    "CU": 401,
@@ -1299,6 +1430,7 @@
  "624431": {
   "name": "Trevino, Jose",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 67,
    "KN": 49
@@ -1307,6 +1439,7 @@
  "624522": {
   "name": "Thompson, Keegan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 47,
    "FF": 56,
@@ -1316,6 +1449,7 @@
  "625643": {
   "name": "L\u00f3pez, Reynaldo",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 57,
    "CU": 147,
@@ -1326,6 +1460,7 @@
  "628452": {
   "name": "Iglesias, Raisel",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 325,
    "FF": 334,
@@ -1336,6 +1471,7 @@
  "640448": {
   "name": "Finnegan, Kyle",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 546,
    "FS": 336,
@@ -1345,6 +1481,7 @@
  "640451": {
   "name": "Harvey, Hunter",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 38
   }
@@ -1352,6 +1489,7 @@
  "640454": {
   "name": "Krook, Matt",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "SI": 78,
    "ST": 93
@@ -1360,6 +1498,7 @@
  "640455": {
   "name": "Manaea, Sean",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 108,
    "FC": 196,
@@ -1371,6 +1510,7 @@
  "641302": {
   "name": "Alexander, Tyler",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 278,
    "FC": 253,
@@ -1382,6 +1522,7 @@
  "641312": {
   "name": "Anderson, Shaun",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 90,
    "FF": 94,
@@ -1392,6 +1533,7 @@
  "641329": {
   "name": "Baker, Bryan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 428,
    "FF": 516,
@@ -1401,6 +1543,7 @@
  "641401": {
   "name": "Brogdon, Connor",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 110,
    "FF": 132
@@ -1409,6 +1552,7 @@
  "641585": {
   "name": "France, J.P.",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 33
   }
@@ -1416,6 +1560,7 @@
  "641656": {
   "name": "Hamilton, Ian",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SL": 57
   }
@@ -1423,6 +1568,7 @@
  "641743": {
   "name": "Kay, Anthony",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 399,
    "FC": 452,
@@ -1435,6 +1581,7 @@
  "641745": {
   "name": "Keller, Brad",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 72,
    "FF": 170,
@@ -1446,6 +1593,7 @@
  "641755": {
   "name": "Kinley, Tyler",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 149,
    "FF": 137,
@@ -1455,17 +1603,19 @@
  "641778": {
   "name": "Lauer, Eric",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 269,
    "CU": 223,
-   "FC": 412,
-   "FF": 759,
+   "FC": 408,
+   "FF": 763,
    "SL": 148
   }
  },
  "641793": {
   "name": "Littell, Zack",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 503,
    "FS": 456,
@@ -1477,16 +1627,18 @@
  "641816": {
   "name": "Mahle, Tyler",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
-   "FC": 356,
+   "FC": 355,
    "FF": 1160,
    "FS": 713,
-   "SL": 152
+   "SL": 153
   }
  },
  "641835": {
   "name": "Mayza, Tim",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "FF": 126,
    "SI": 612,
@@ -1496,6 +1648,7 @@
  "641927": {
   "name": "Ober, Bailey",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 696,
    "FF": 660,
@@ -1507,6 +1660,7 @@
  "641941": {
   "name": "Pag\u00e1n, Emilio",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 132,
    "FF": 422,
@@ -1516,6 +1670,7 @@
  "642048": {
   "name": "Saucedo, Tayler",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 34,
    "FF": 49,
@@ -1527,15 +1682,17 @@
  "642100": {
   "name": "Speier, Gabe",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "FF": 279,
-   "SI": 232,
+   "SI": 233,
    "SL": 179
   }
  },
  "642121": {
   "name": "Sulser, Cole",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 358,
    "FC": 124,
@@ -1546,6 +1703,7 @@
  "642152": {
   "name": "Trivino III, Lou",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 45,
    "SI": 43
@@ -1554,6 +1712,7 @@
  "642207": {
   "name": "Williams, Devin",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 348,
    "FF": 399
@@ -1562,6 +1721,7 @@
  "642215": {
   "name": "Wilson, Weston",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 44
   }
@@ -1569,6 +1729,7 @@
  "642232": {
   "name": "Yarbrough, Ryan",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 241,
    "FC": 304,
@@ -1580,6 +1741,7 @@
  "642376": {
   "name": "Yan, Jefry",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 37,
    "FF": 93,
@@ -1590,6 +1752,7 @@
  "642397": {
   "name": "Soto, Gregory",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "FF": 186,
    "SI": 453,
@@ -1600,10 +1763,11 @@
  "642528": {
   "name": "Lo\u00e1isiga, Jonathan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
-   "CH": 261,
+   "CH": 260,
    "CU": 142,
-   "FC": 66,
+   "FC": 67,
    "FF": 154,
    "SI": 337
   }
@@ -1611,6 +1775,7 @@
  "642546": {
   "name": "Hern\u00e1ndez, Jonathan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 71,
    "SI": 150,
@@ -1620,6 +1785,7 @@
  "642547": {
   "name": "Peralta, Freddy",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 692,
    "CU": 383,
@@ -1631,6 +1797,7 @@
  "642701": {
   "name": "Santana, Dennis",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 129,
    "FC": 101,
@@ -1642,6 +1809,7 @@
  "642759": {
   "name": "Fern\u00e1ndez, Julian",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 42
   }
@@ -1649,6 +1817,7 @@
  "643377": {
   "name": "Jax, Griffin",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 387,
    "CU": 149,
@@ -1661,6 +1830,7 @@
  "643410": {
   "name": "Leiter Jr., Mark",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 106,
    "FC": 51,
@@ -1672,6 +1842,7 @@
  "643511": {
   "name": "Rogers, Tyler",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "SI": 769,
    "SL": 245
@@ -1680,6 +1851,7 @@
  "645261": {
   "name": "Alcantara, Sandy",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 681,
    "CU": 141,
@@ -1693,6 +1865,7 @@
  "646241": {
   "name": "De Jesus, Enmanuel",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 147,
    "FC": 106,
@@ -1704,6 +1877,7 @@
  "647315": {
   "name": "Pop, Zach",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SI": 81,
    "SL": 34
@@ -1712,6 +1886,7 @@
  "647336": {
   "name": "Soroka, Michael",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 228,
    "FC": 215,
@@ -1723,6 +1898,7 @@
  "650556": {
   "name": "Abreu, Bryan",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FC": 125,
    "FF": 479,
@@ -1732,6 +1908,7 @@
  "650633": {
   "name": "King, Michael",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 786,
    "FF": 604,
@@ -1743,6 +1920,7 @@
  "650644": {
   "name": "Civale, Aaron",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 484,
    "FC": 715,
@@ -1755,6 +1933,7 @@
  "650911": {
   "name": "S\u00e1nchez, Cristopher",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 1170,
    "SI": 1396,
@@ -1764,10 +1943,11 @@
  "650960": {
   "name": "Duarte, Daniel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 49,
-   "FC": 153,
-   "FF": 72,
+   "FC": 152,
+   "FF": 73,
    "SI": 68,
    "ST": 121
   }
@@ -1775,6 +1955,7 @@
  "655889": {
   "name": "Rodr\u00edguez, Manuel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SI": 51,
    "SL": 65
@@ -1783,6 +1964,7 @@
  "656212": {
   "name": "Barnes, Charlie",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 36,
    "FF": 67,
@@ -1793,6 +1975,7 @@
  "656222": {
   "name": "Beeks, Jalen",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 163,
    "FC": 37,
@@ -1802,6 +1985,7 @@
  "656234": {
   "name": "Bird, Jake",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 77,
    "FF": 110,
@@ -1812,6 +1996,7 @@
  "656240": {
   "name": "Blewett, Scott",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 194,
    "FF": 145,
@@ -1823,6 +2008,7 @@
  "656271": {
   "name": "Burke, Brock",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 206,
    "FF": 480,
@@ -1833,6 +2019,7 @@
  "656288": {
   "name": "Canning, Griffin",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 386,
    "FC": 85,
@@ -1846,6 +2033,7 @@
  "656302": {
   "name": "Cease, Dylan",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 332,
    "FF": 1068,
@@ -1858,6 +2046,7 @@
  "656427": {
   "name": "Flaherty, Jack",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 44,
    "FF": 815,
@@ -1869,6 +2058,7 @@
  "656457": {
   "name": "Gilbert, Tyler",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "SI": 53,
    "ST": 49
@@ -1877,6 +2067,7 @@
  "656464": {
   "name": "Ginkel, Kevin",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 506,
    "SI": 60,
@@ -1886,6 +2077,7 @@
  "656492": {
   "name": "Griffin, Foster",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 325,
    "CU": 251,
@@ -1899,6 +2091,7 @@
  "656529": {
   "name": "Hentges, Sam",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CU": 117,
    "FF": 231,
@@ -1909,6 +2102,7 @@
  "656546": {
   "name": "Hoffman, Jeff",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 376,
    "FS": 240,
@@ -1919,18 +2113,20 @@
  "656550": {
   "name": "Holmes, Grant",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 173,
-   "CU": 183,
-   "FC": 194,
-   "FF": 672,
+   "CU": 186,
+   "FC": 195,
+   "FF": 671,
    "SI": 297,
-   "SL": 861
+   "SL": 858
   }
  },
  "656605": {
   "name": "Keller, Mitch",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 169,
    "CU": 165,
@@ -1944,6 +2140,7 @@
  "656638": {
   "name": "Lange, Alex",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 245,
    "FC": 151,
@@ -1955,6 +2152,7 @@
  "656641": {
   "name": "Latz, Jacob",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 227,
    "CU": 83,
@@ -1965,13 +2163,15 @@
  "656686": {
   "name": "Martin, Corbin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
-   "FF": 56
+   "FF": 57
   }
  },
  "656716": {
   "name": "McKinstry, Zach",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FA": 33
   }
@@ -1979,6 +2179,7 @@
  "656730": {
   "name": "Megill, Trevor",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 564,
    "KC": 307
@@ -1987,6 +2188,7 @@
  "656756": {
   "name": "Montgomery, Jordan",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 51,
    "CU": 66,
@@ -1998,6 +2200,7 @@
  "656786": {
   "name": "Mushinski, Parker",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "ST": 40
   }
@@ -2005,6 +2208,7 @@
  "656794": {
   "name": "Newcomb, Sean",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 42,
    "CU": 63,
@@ -2016,6 +2220,7 @@
  "656848": {
   "name": "Petersen, Michael",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 132,
    "FF": 694,
@@ -2025,6 +2230,7 @@
  "656849": {
   "name": "Peterson, David",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 323,
    "CU": 256,
@@ -2036,6 +2242,7 @@
  "656876": {
   "name": "Rasmussen, Drew",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 354,
    "CU": 92,
@@ -2048,6 +2255,7 @@
  "656945": {
   "name": "Scott, Tanner",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FF": 472,
    "SL": 489
@@ -2056,6 +2264,7 @@
  "656986": {
   "name": "Sousa, Bennett",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 130,
    "SI": 43,
@@ -2065,6 +2274,7 @@
  "657044": {
   "name": "Thompson, Ryan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "SI": 408,
    "SL": 217
@@ -2073,6 +2283,7 @@
  "657097": {
   "name": "Webb, Jacob",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 440,
    "CU": 85,
@@ -2083,6 +2294,7 @@
  "657265": {
   "name": "Strzelecki, Peter",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 69,
    "SI": 99
@@ -2091,17 +2303,19 @@
  "657277": {
   "name": "Webb, Logan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 595,
-   "FC": 322,
-   "FF": 338,
+   "FC": 324,
+   "FF": 335,
    "SI": 730,
-   "ST": 499
+   "ST": 500
   }
  },
  "657424": {
   "name": "Gage, Matt",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 75,
    "FF": 173,
@@ -2112,6 +2326,7 @@
  "657514": {
   "name": "Bernardino, Brennan",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 74,
    "CU": 343,
@@ -2123,6 +2338,7 @@
  "657571": {
   "name": "Ferguson, Caleb",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FC": 150,
    "FF": 146,
@@ -2133,6 +2349,7 @@
  "657612": {
   "name": "Hill, Tim",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 49,
    "SI": 676,
@@ -2142,6 +2359,7 @@
  "657649": {
   "name": "Koenig, Jared",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 31,
    "FC": 43,
@@ -2151,18 +2369,20 @@
  "657746": {
   "name": "Ryan, Joe",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 1081,
    "FS": 293,
-   "KC": 274,
+   "KC": 273,
    "SI": 230,
    "SL": 167,
-   "ST": 396
+   "ST": 397
   }
  },
  "657756": {
   "name": "Seabold, Connor",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 100,
    "FC": 47,
@@ -2173,6 +2393,7 @@
  "660271": {
   "name": "Ohtani, Shohei",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 133,
    "FF": 602,
@@ -2184,6 +2405,7 @@
  "660604": {
   "name": "Rangel, Alan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 183,
    "CU": 59,
@@ -2194,6 +2416,7 @@
  "660710": {
   "name": "Dur\u00e1n, Rodolfo",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FA": 35
   }
@@ -2201,6 +2424,7 @@
  "660761": {
   "name": "Suarez, Jos\u00e9",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 257,
    "FF": 388,
@@ -2212,6 +2436,7 @@
  "660787": {
   "name": "De los Santos, Yerry",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 81,
    "FF": 44,
@@ -2221,6 +2446,7 @@
  "660825": {
   "name": "Bazardo, Eduard",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "SI": 695,
    "ST": 387
@@ -2229,6 +2455,7 @@
  "660844": {
   "name": "Rivas, Leo",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 31
   }
@@ -2236,6 +2463,7 @@
  "660853": {
   "name": "De Los Santos, Enyel",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 299,
    "FF": 504,
@@ -2245,6 +2473,7 @@
  "661395": {
   "name": "Duran, Jhoan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 44,
    "FF": 265,
@@ -2256,6 +2485,7 @@
  "661563": {
   "name": "Gil, Luis",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 97,
    "FF": 253,
@@ -2266,6 +2496,7 @@
  "662253": {
   "name": "Mu\u00f1oz, Andr\u00e9s",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 66,
    "FF": 408,
@@ -2276,6 +2507,7 @@
  "663158": {
   "name": "Suarez, Robert",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 153,
    "FC": 69,
@@ -2286,6 +2518,7 @@
  "663362": {
   "name": "Waldron, Matt",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 145,
    "FF": 123,
@@ -2297,6 +2530,7 @@
  "663372": {
   "name": "Feltner, Ryan",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 380,
    "CU": 102,
@@ -2309,6 +2543,7 @@
  "663423": {
   "name": "Thornton, Trent",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 115,
    "FC": 155,
@@ -2320,6 +2555,7 @@
  "663432": {
   "name": "Rainey, Tanner",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 62,
    "SL": 51
@@ -2328,6 +2564,7 @@
  "663436": {
   "name": "Martin, Davis",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 340,
    "CU": 336,
@@ -2340,6 +2577,7 @@
  "663460": {
   "name": "Bubic, Kris",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 180,
    "FF": 365,
@@ -2351,6 +2589,7 @@
  "663465": {
   "name": "Allard, Kolby",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 33,
    "FC": 40,
@@ -2360,6 +2599,7 @@
  "663485": {
   "name": "Sands, Cole",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 49,
    "FF": 83,
@@ -2369,6 +2609,7 @@
  "663542": {
   "name": "Hudson, Bryan",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 698,
    "SI": 41,
@@ -2378,6 +2619,7 @@
  "663554": {
   "name": "Mize, Casey",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 726,
    "FS": 492,
@@ -2389,6 +2631,7 @@
  "663556": {
   "name": "McClanahan, Shane",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 516,
    "CU": 272,
@@ -2399,6 +2642,7 @@
  "663558": {
   "name": "Mor\u00e1n, Jovani",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 373,
    "FC": 124,
@@ -2410,6 +2654,7 @@
  "663559": {
   "name": "Falter, Bailey",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 120,
    "SL": 56
@@ -2418,6 +2663,7 @@
  "663567": {
   "name": "Lambert, Peter",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 625,
    "FC": 269,
@@ -2431,6 +2677,7 @@
  "663568": {
   "name": "Kolek, Stephen",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 100,
    "FC": 102,
@@ -2443,6 +2690,7 @@
  "663574": {
   "name": "Santillan, Tony",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 435,
    "SL": 55,
@@ -2452,6 +2700,7 @@
  "663623": {
   "name": "Irvin, Jake",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 151,
    "CU": 440,
@@ -2464,6 +2713,7 @@
  "663687": {
   "name": "Harris, Hogan",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 53,
    "CU": 355,
@@ -2474,6 +2724,7 @@
  "663738": {
   "name": "Lynch IV, Daniel",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 316,
    "FF": 190,
@@ -2485,6 +2736,7 @@
  "663765": {
   "name": "Woodford, Jake",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 167,
    "FS": 74,
@@ -2495,17 +2747,19 @@
  "663767": {
   "name": "Shugart, Chase",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
-   "CH": 83,
+   "CH": 82,
    "FC": 278,
    "FF": 80,
-   "SI": 251,
+   "SI": 252,
    "ST": 175
   }
  },
  "663776": {
   "name": "Sandoval, Patrick",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 342,
    "CU": 48,
@@ -2518,6 +2772,7 @@
  "663795": {
   "name": "Hagenman, Justin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 30,
    "FC": 36,
@@ -2527,6 +2782,7 @@
  "663855": {
   "name": "Hicks, Jordan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 184,
    "FS": 31,
@@ -2537,6 +2793,7 @@
  "663878": {
   "name": "Pearson, Nate",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 92,
    "FF": 345,
@@ -2547,6 +2804,7 @@
  "663893": {
   "name": "Little, Brendon",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 93,
    "KC": 156,
@@ -2557,17 +2815,19 @@
  "663903": {
   "name": "Singer, Brady",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
-   "FC": 192,
+   "FC": 193,
    "FF": 54,
    "SI": 1407,
-   "SL": 767,
+   "SL": 766,
    "ST": 367
   }
  },
  "663941": {
   "name": "Beck, Tristan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 129,
    "SL": 39,
@@ -2577,6 +2837,7 @@
  "663947": {
   "name": "Holton, Tyler",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 185,
    "CU": 37,
@@ -2589,6 +2850,7 @@
  "663969": {
   "name": "Phillips, Tyler",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 355,
    "FF": 170,
@@ -2601,6 +2863,7 @@
  "663978": {
   "name": "Paddack, Chris",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 275,
    "CU": 115,
@@ -2613,6 +2876,7 @@
  "663992": {
   "name": "Lovelady, Richard",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FF": 139,
    "SI": 187,
@@ -2623,6 +2887,7 @@
  "664062": {
   "name": "Gonsolin, Tony",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 37
   }
@@ -2630,6 +2895,7 @@
  "664076": {
   "name": "Cleavinger, Garrett",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "FF": 113,
    "SI": 207,
@@ -2640,6 +2906,7 @@
  "664126": {
   "name": "Fairbanks, Pete",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 177,
    "FF": 373,
@@ -2649,6 +2916,7 @@
  "664129": {
   "name": "Hartlieb, Geoff",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 72,
    "FF": 141,
@@ -2659,6 +2927,7 @@
  "664141": {
   "name": "Brubaker, JT",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 138,
    "CU": 87,
@@ -2670,6 +2939,7 @@
  "664192": {
   "name": "Lucchesi, Joey",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 30,
    "SI": 57
@@ -2678,6 +2948,7 @@
  "664199": {
   "name": "Clarke, Taylor",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 294,
    "FC": 200,
@@ -2688,6 +2959,7 @@
  "664208": {
   "name": "Maton, Phil",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 157,
    "FC": 201,
@@ -2698,6 +2970,7 @@
  "664285": {
   "name": "Valdez, Framber",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 496,
    "CU": 825,
@@ -2709,6 +2982,7 @@
  "664299": {
   "name": "Javier, Cristian",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 178,
    "FC": 86,
@@ -2719,6 +2993,7 @@
  "664353": {
   "name": "Urquidy, Jos\u00e9",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 170,
    "CU": 94,
@@ -2730,6 +3005,7 @@
  "664702": {
   "name": "Straw, Myles",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 38
   }
@@ -2737,6 +3013,7 @@
  "664849": {
   "name": "Young, Danny",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "SI": 128,
    "ST": 131
@@ -2745,6 +3022,7 @@
  "664854": {
   "name": "Helsley, Ryan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 123,
    "FS": 33,
@@ -2754,6 +3032,7 @@
  "664875": {
   "name": "Lawrence, Justin",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 93,
    "SI": 292,
@@ -2763,6 +3042,7 @@
  "664954": {
   "name": "Sullivan, Brett",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 58,
    "FA": 35
@@ -2771,6 +3051,7 @@
  "664991": {
   "name": "Wolfram, Grant",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CU": 139,
    "FF": 213,
@@ -2782,6 +3063,7 @@
  "665152": {
   "name": "Kremer, Dean",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 182,
    "FC": 55,
@@ -2794,6 +3076,7 @@
  "665622": {
   "name": "Medina, Luis",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 189,
    "CU": 167,
@@ -2805,6 +3088,7 @@
  "665645": {
   "name": "Castro, Kervin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 49
   }
@@ -2812,6 +3096,7 @@
  "665660": {
   "name": "Alvarado, Elvis",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FF": 562,
    "FS": 62,
@@ -2822,6 +3107,7 @@
  "665665": {
   "name": "Sanmartin, Reiver",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 96,
    "SI": 127,
@@ -2831,6 +3117,7 @@
  "665795": {
   "name": "Cabrera, Edward",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 413,
    "CU": 267,
@@ -2842,6 +3129,7 @@
  "665871": {
   "name": "Assad, Javier",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 117,
    "CU": 108,
@@ -2855,6 +3143,7 @@
  "666126": {
   "name": "Cortes, Carlos",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FA": 149
   }
@@ -2862,6 +3151,7 @@
  "666129": {
   "name": "Garrett, Braxton",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 32,
    "FF": 37,
@@ -2873,17 +3163,19 @@
  "666142": {
   "name": "Ragans, Cole",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 105,
-   "FC": 36,
+   "FC": 38,
    "FF": 358,
    "KC": 54,
-   "SL": 85
+   "SL": 83
   }
  },
  "666157": {
   "name": "Lodolo, Nick",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 425,
    "CU": 463,
@@ -2894,6 +3186,7 @@
  "666171": {
   "name": "Zeferjahn, Ryan",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 414,
    "SI": 199,
@@ -2904,6 +3197,7 @@
  "666200": {
   "name": "Luzardo, Jes\u00fas",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 521,
    "FF": 749,
@@ -2914,6 +3208,7 @@
  "666201": {
   "name": "Manoah, Alek",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 63,
    "SI": 56
@@ -2922,6 +3217,7 @@
  "666277": {
   "name": "Soriano, George",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 358,
    "FF": 340,
@@ -2933,6 +3229,7 @@
  "666374": {
   "name": "Brash, Matt",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 35,
    "SI": 55,
@@ -2942,6 +3239,7 @@
  "666619": {
   "name": "Santos, Gregory",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SL": 44
   }
@@ -2949,6 +3247,7 @@
  "666661": {
   "name": "Morillo, Juan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 218,
    "FF": 495,
@@ -2959,6 +3258,7 @@
  "666711": {
   "name": "Peguero, Joel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 73,
    "SI": 57,
@@ -2968,6 +3268,7 @@
  "666745": {
   "name": "Brito, Jhony",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 39,
    "SI": 34
@@ -2976,6 +3277,7 @@
  "666808": {
   "name": "Doval, Camilo",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 275,
    "SI": 412,
@@ -2985,6 +3287,7 @@
  "666974": {
   "name": "Cano, Yennier",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 37,
    "FS": 219,
@@ -2995,6 +3298,7 @@
  "667297": {
   "name": "Nance, Tommy",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 283,
    "SI": 266,
@@ -3004,6 +3308,7 @@
  "667463": {
   "name": "King, John",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 143,
    "CU": 82,
@@ -3015,6 +3320,7 @@
  "667652": {
   "name": "Ralston, Jack",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 82,
    "FS": 158,
@@ -3024,6 +3330,7 @@
  "667755": {
   "name": "Soriano, Jos\u00e9",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 606,
    "FS": 547,
@@ -3035,6 +3342,7 @@
  "668390": {
   "name": "Winn, Cole",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 225,
    "FF": 248,
@@ -3045,6 +3353,7 @@
  "668674": {
   "name": "Erceg, Lucas",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 122,
    "FF": 258,
@@ -3055,6 +3364,7 @@
  "668678": {
   "name": "Gallen, Zac",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 304,
    "FF": 626,
@@ -3066,6 +3376,7 @@
  "668820": {
   "name": "Kranick, Max",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 82,
    "FF": 126,
@@ -3075,6 +3386,7 @@
  "668831": {
   "name": "Stallings, Garrett",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 79,
    "FC": 51,
@@ -3084,6 +3396,7 @@
  "668834": {
   "name": "McGee, Easton",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 40,
    "FC": 31,
@@ -3095,6 +3408,7 @@
  "668873": {
   "name": "Kilian, Caleb",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 389,
    "KC": 187,
@@ -3105,6 +3419,7 @@
  "668881": {
   "name": "Greene, Hunter",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 236,
    "FS": 46,
@@ -3114,17 +3429,19 @@
  "668909": {
   "name": "Williams, Gavin",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
-   "CU": 665,
    "FC": 173,
    "FF": 806,
+   "KC": 664,
    "SI": 461,
-   "ST": 851
+   "ST": 852
   }
  },
  "668933": {
   "name": "Ashcraft, Graham",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FC": 329,
    "SL": 277
@@ -3133,6 +3450,7 @@
  "668941": {
   "name": "Romero, JoJo",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 154,
    "SI": 415,
@@ -3142,6 +3460,7 @@
  "668964": {
   "name": "Myers, Tobias",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FC": 105,
    "FF": 385,
@@ -3152,6 +3471,7 @@
  "668970": {
   "name": "Hollowell, Gavin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 92,
    "SI": 58,
@@ -3161,6 +3481,7 @@
  "668984": {
   "name": "Legumina, Casey",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 131,
    "FF": 481,
@@ -3172,6 +3493,7 @@
  "669020": {
   "name": "Rolison, Ryan",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 162,
    "FF": 392,
@@ -3183,18 +3505,20 @@
  "669022": {
   "name": "Gore, MacKenzie",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 387,
-   "CU": 534,
-   "FC": 184,
-   "FF": 1404,
+   "CU": 532,
+   "FC": 183,
+   "FF": 1405,
    "SI": 156,
-   "SL": 294
+   "SL": 297
   }
  },
  "669060": {
   "name": "Wilson, Bryse",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CU": 39,
    "FC": 194,
@@ -3206,6 +3530,7 @@
  "669062": {
   "name": "Miller, Erik",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 35,
    "FF": 58,
@@ -3216,18 +3541,20 @@
  "669084": {
   "name": "Hall, DL",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 154,
    "CU": 164,
    "FF": 121,
    "SI": 360,
-   "SL": 105,
+   "SL": 110,
    "ST": 79
   }
  },
  "669093": {
   "name": "Estrada, Jeremiah",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 298,
    "FS": 164,
@@ -3237,6 +3564,7 @@
  "669160": {
   "name": "May, Dustin",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 145,
    "CU": 182,
@@ -3249,6 +3577,7 @@
  "669165": {
   "name": "Hurt, Kyle",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 263,
    "FF": 408,
@@ -3258,6 +3587,7 @@
  "669194": {
   "name": "Nelson, Ryne",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 123,
    "FC": 134,
@@ -3269,6 +3599,7 @@
  "669199": {
   "name": "Bachar, Lake",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 296,
    "FF": 438,
@@ -3281,6 +3612,7 @@
  "669203": {
   "name": "Burnes, Corbin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 47,
    "FC": 106
@@ -3289,6 +3621,7 @@
  "669211": {
   "name": "Akin, Keegan",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 113,
    "FF": 217,
@@ -3298,6 +3631,7 @@
  "669212": {
   "name": "Morgan, Eli",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 112,
    "FF": 125,
@@ -3307,6 +3641,7 @@
  "669270": {
   "name": "Kuhnel, Joel",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 45,
    "FC": 219,
@@ -3317,6 +3652,7 @@
  "669276": {
   "name": "Lee, Dylan",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 170,
    "FF": 334,
@@ -3326,6 +3662,7 @@
  "669298": {
   "name": "Shook, TJ",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 59,
    "ST": 31
@@ -3334,6 +3671,7 @@
  "669302": {
   "name": "Gilbert, Logan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 215,
    "FC": 152,
@@ -3346,6 +3684,7 @@
  "669310": {
   "name": "Van Eyk, CJ",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 36,
    "CU": 49,
@@ -3356,6 +3695,7 @@
  "669330": {
   "name": "Wells, Tyler",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 238,
    "CU": 47,
@@ -3367,6 +3707,7 @@
  "669358": {
   "name": "Baz, Shane",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 269,
    "FC": 433,
@@ -3378,6 +3719,7 @@
  "669371": {
   "name": "Henry, Cole",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 135,
    "ST": 98
@@ -3386,6 +3728,7 @@
  "669372": {
   "name": "Ginn, J.T.",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 434,
    "CU": 64,
@@ -3398,6 +3741,7 @@
  "669373": {
   "name": "Skubal, Tarik",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 603,
    "CU": 118,
@@ -3409,6 +3753,7 @@
  "669387": {
   "name": "Mlodzinski, Carmen",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 245,
    "FC": 105,
@@ -3422,6 +3767,7 @@
  "669432": {
   "name": "Rogers, Trevor",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 549,
    "FC": 225,
@@ -3433,6 +3779,7 @@
  "669438": {
   "name": "Englert, Mason",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 178,
    "CU": 124,
@@ -3445,6 +3792,7 @@
  "669456": {
   "name": "Bieber, Shane",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 171,
    "FC": 113,
@@ -3457,18 +3805,20 @@
  "669461": {
   "name": "Liberatore, Matthew",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 325,
    "CU": 473,
-   "FC": 105,
-   "FF": 779,
+   "FC": 100,
+   "FF": 785,
    "SI": 212,
-   "SL": 690
+   "SL": 689
   }
  },
  "669467": {
   "name": "Pallante, Andre",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 899,
    "FS": 76,
@@ -3480,6 +3830,7 @@
  "669620": {
   "name": "Basso, Brady",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 30,
    "CU": 124,
@@ -3492,6 +3843,7 @@
  "669622": {
   "name": "Bender, Anthony",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "SI": 171,
    "SL": 69,
@@ -3501,6 +3853,7 @@
  "669684": {
   "name": "Murphy, Chris",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 146,
    "FF": 210,
@@ -3511,6 +3864,7 @@
  "669704": {
   "name": "Strowd, Kade",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 40
   }
@@ -3518,6 +3872,7 @@
  "669711": {
   "name": "Weissert, Greg",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 130,
    "FF": 292,
@@ -3529,6 +3884,7 @@
  "669713": {
   "name": "Wesneski, Hayden",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 107,
    "FC": 136,
@@ -3540,6 +3896,7 @@
  "669724": {
   "name": "Hanifee, Brenan",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "SI": 193,
    "SL": 74
@@ -3548,6 +3905,7 @@
  "669854": {
   "name": "Blanco, Ronel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 152,
    "CU": 87,
@@ -3558,6 +3916,7 @@
  "669920": {
   "name": "Alexander, Jason",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 105,
    "FF": 68,
@@ -3567,6 +3926,7 @@
  "669923": {
   "name": "Kirby, George",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 140,
    "FC": 116,
@@ -3580,6 +3940,7 @@
  "669947": {
   "name": "Scholtens, Jesse",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 164,
    "FS": 115,
@@ -3591,6 +3952,7 @@
  "670036": {
   "name": "Festa, Matt",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 53,
    "FF": 543,
@@ -3601,6 +3963,7 @@
  "670059": {
   "name": "Holderman, Colin",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 90,
    "FF": 40,
@@ -3611,6 +3974,7 @@
  "670062": {
   "name": "Garcia, Julian",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 217,
    "SL": 126,
@@ -3620,6 +3984,7 @@
  "670090": {
   "name": "Mills, Wyatt",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 41,
    "SI": 40,
@@ -3629,6 +3994,7 @@
  "670103": {
   "name": "Burgos, Raymond",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FC": 34,
    "SI": 126,
@@ -3638,6 +4004,7 @@
  "670167": {
   "name": "Schreiber, John",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 64,
    "FC": 126,
@@ -3649,6 +4016,7 @@
  "670183": {
   "name": "Acton, Garrett",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 116,
    "SL": 83
@@ -3657,17 +4025,19 @@
  "670245": {
   "name": "Watson, Ryan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
-   "CU": 200,
+   "CU": 201,
    "FC": 277,
    "FF": 214,
    "SI": 162,
-   "ST": 272
+   "ST": 271
   }
  },
  "670280": {
   "name": "Bednar, David",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 210,
    "FF": 468,
@@ -3677,6 +4047,7 @@
  "670329": {
   "name": "Garcia, Rico",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 273,
    "CU": 240,
@@ -3687,6 +4058,7 @@
  "670950": {
   "name": "Richards, Trevor",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 359,
    "FF": 820,
@@ -3696,16 +4068,18 @@
  "670970": {
   "name": "Morejon, Adrian",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 304,
-   "FF": 187,
-   "SI": 627,
+   "FF": 188,
+   "SI": 626,
    "SL": 199
   }
  },
  "670990": {
   "name": "Ram\u00edrez, Yohan",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 149,
    "FF": 293,
@@ -3716,6 +4090,7 @@
  "671083": {
   "name": "Kennedy, Buddy",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FA": 39
   }
@@ -3723,6 +4098,7 @@
  "671096": {
   "name": "Abbott, Andrew",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 555,
    "CU": 370,
@@ -3734,6 +4110,7 @@
  "671106": {
   "name": "Allen, Logan",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 43,
    "FC": 77,
@@ -3745,6 +4122,7 @@
  "671109": {
   "name": "Eder, Jake",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 34
   }
@@ -3752,6 +4130,7 @@
  "671111": {
   "name": "Peralta, Sammy",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 71,
    "FF": 59,
@@ -3763,6 +4142,7 @@
  "671162": {
   "name": "Thomas, Connor",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 81,
    "FC": 68,
@@ -3774,6 +4154,7 @@
  "671212": {
   "name": "Boyle, Joe",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 77,
    "FS": 49,
@@ -3785,6 +4166,7 @@
  "671345": {
   "name": "Foley, Jason",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 81,
    "FS": 61,
@@ -3795,6 +4177,7 @@
  "671382": {
   "name": "Foster, Cameron",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 37,
    "FF": 110,
@@ -3804,6 +4187,7 @@
  "671737": {
   "name": "Bradley, Taj",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CU": 278,
    "FC": 734,
@@ -3814,6 +4198,7 @@
  "671922": {
   "name": "Smith, Cade",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 788,
    "FS": 309,
@@ -3823,6 +4208,7 @@
  "671936": {
   "name": "Macko, Adam",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 84,
    "FF": 230,
@@ -3833,6 +4219,7 @@
  "672021": {
   "name": "Cerantola, Eric",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 45,
    "SL": 49
@@ -3841,6 +4228,7 @@
  "672282": {
   "name": "Detmers, Reid",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 275,
    "CU": 326,
@@ -3851,6 +4239,7 @@
  "672335": {
   "name": "P\u00e9rez, Cionel",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 128,
    "FF": 166,
@@ -3861,6 +4250,7 @@
  "672442": {
   "name": "Cruz, Yovanny",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 64,
    "SI": 46,
@@ -3870,6 +4260,7 @@
  "672456": {
   "name": "Montero, Keider",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 314,
    "FF": 691,
@@ -3881,14 +4272,16 @@
  "672582": {
   "name": "Zerpa, Angel",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
-   "SI": 146,
+   "SI": 145,
    "SL": 45
   }
  },
  "672629": {
   "name": "Carrillo, Gerardo",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 92,
    "FF": 34,
@@ -3900,6 +4293,7 @@
  "672782": {
   "name": "G\u00f3mez, Yoendrys",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 64,
    "FC": 169,
@@ -3911,6 +4305,7 @@
  "672841": {
   "name": "Vargas, Carlos",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 69,
    "SI": 142,
@@ -3920,6 +4315,7 @@
  "673380": {
   "name": "N\u00fa\u00f1ez, Dedniel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 113,
    "SL": 96
@@ -3928,6 +4324,7 @@
  "673513": {
   "name": "Matsui, Yuki",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "FF": 413,
    "FS": 281,
@@ -3939,6 +4336,7 @@
  "673540": {
   "name": "Senga, Kodai",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 149,
    "FF": 481,
@@ -3951,6 +4349,7 @@
  "673929": {
   "name": "Leasure, Jordan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 164,
    "SL": 129
@@ -3959,6 +4358,7 @@
  "674003": {
   "name": "Bradford, Cody",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 223,
    "CU": 32,
@@ -3969,6 +4369,7 @@
  "674073": {
   "name": "Weisenburger, Jack",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 38,
    "FF": 63,
@@ -3979,6 +4380,7 @@
  "674370": {
   "name": "Bido, Osvaldo",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 92,
    "SI": 65,
@@ -3989,6 +4391,7 @@
  "674444": {
   "name": "Cruz, Steven",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 265,
    "FF": 522,
@@ -3998,6 +4401,7 @@
  "674841": {
   "name": "Alvarez, Andrew",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 101,
    "CU": 593,
@@ -4009,6 +4413,7 @@
  "675512": {
   "name": "Melton, Troy",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 200,
    "CU": 139,
@@ -4021,6 +4426,7 @@
  "675540": {
   "name": "Curry, Xzavion",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 37,
    "FF": 131,
@@ -4031,6 +4437,7 @@
  "675627": {
   "name": "Grove, Michael",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SL": 34
   }
@@ -4038,18 +4445,20 @@
  "675660": {
   "name": "Drohan, Shane",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
-   "CH": 101,
+   "CH": 100,
    "CU": 257,
    "FC": 235,
    "FF": 535,
    "SI": 437,
-   "SL": 432
+   "SL": 433
   }
  },
  "675848": {
   "name": "Mejia, Juan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 698,
    "SI": 59,
@@ -4059,6 +4468,7 @@
  "675911": {
   "name": "Strider, Spencer",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 71,
    "CU": 100,
@@ -4069,6 +4479,7 @@
  "675916": {
   "name": "Karinchak, James",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 64,
    "FF": 98
@@ -4077,6 +4488,7 @@
  "675919": {
   "name": "Raquet, Nick",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "ST": 31
   }
@@ -4084,6 +4496,7 @@
  "675989": {
   "name": "Bolton, Cody",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 42,
    "CU": 45,
@@ -4096,6 +4509,7 @@
  "676051": {
   "name": "Heuer, Codi",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 46,
    "FF": 81,
@@ -4105,6 +4519,7 @@
  "676083": {
   "name": "Junk, Janson",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 346,
    "CU": 179,
@@ -4117,6 +4532,7 @@
  "676105": {
   "name": "Criswell, Jeff",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 33,
    "SL": 37
@@ -4125,6 +4541,7 @@
  "676106": {
   "name": "Hancock, Emerson",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 108,
    "CU": 97,
@@ -4137,6 +4554,7 @@
  "676254": {
   "name": "Walker, Ryan",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "SI": 393,
    "SL": 186
@@ -4145,6 +4563,7 @@
  "676263": {
   "name": "Dreyer, Jack",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 169,
    "FF": 490,
@@ -4154,6 +4573,7 @@
  "676272": {
   "name": "Miller, Bobby",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 57,
    "FF": 49
@@ -4162,6 +4582,7 @@
  "676282": {
   "name": "Cantillo, Joey",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 666,
    "CU": 843,
@@ -4173,6 +4594,7 @@
  "676395": {
   "name": "Garcia, Robert",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 101,
    "FF": 127,
@@ -4182,6 +4604,7 @@
  "676428": {
   "name": "Hurter, Brant",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 54,
    "SI": 276,
@@ -4191,6 +4614,7 @@
  "676440": {
   "name": "Bibee, Tanner",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 458,
    "CU": 325,
@@ -4203,6 +4627,7 @@
  "676454": {
   "name": "Cellucci, Brendan",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 48,
    "ST": 52
@@ -4211,6 +4636,7 @@
  "676467": {
   "name": "Gordon, Colton",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 38,
    "FF": 77,
@@ -4221,6 +4647,7 @@
  "676477": {
   "name": "Whitlock, Garrett",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 134,
    "SI": 416,
@@ -4230,6 +4657,7 @@
  "676508": {
   "name": "Casparius, Ben",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 41
   }
@@ -4237,6 +4665,7 @@
  "676510": {
   "name": "Hoffman, Nolan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 60,
    "FF": 57,
@@ -4246,6 +4675,7 @@
  "676534": {
   "name": "Faucher, Calvin",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 152,
    "FC": 372,
@@ -4257,6 +4687,7 @@
  "676568": {
   "name": "Vanasco, Ricky",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 44,
    "CU": 39,
@@ -4266,6 +4697,7 @@
  "676571": {
   "name": "Poulin, PJ",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 75,
    "FF": 189,
@@ -4276,6 +4708,7 @@
  "676604": {
   "name": "Zuber, Tyler",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 44,
    "FF": 274,
@@ -4287,6 +4720,7 @@
  "676617": {
   "name": "O'Brien, Riley",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "SI": 617,
    "SL": 82,
@@ -4296,15 +4730,17 @@
  "676620": {
   "name": "Weiman, Blake",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "SI": 36,
-   "SL": 69,
-   "ST": 138
+   "SL": 70,
+   "ST": 137
   }
  },
  "676661": {
   "name": "Lazar, Max",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 32,
    "FF": 61,
@@ -4314,6 +4750,7 @@
  "676664": {
   "name": "Sears, JP",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 109,
    "FF": 182,
@@ -4325,6 +4762,7 @@
  "676680": {
   "name": "Cosgrove, Tom",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 75,
    "ST": 178
@@ -4333,6 +4771,7 @@
  "676684": {
   "name": "Vest, Will",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 55,
    "FF": 213,
@@ -4343,6 +4782,7 @@
  "676742": {
   "name": "Sanders, Cam",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 69,
    "FF": 250,
@@ -4352,6 +4792,7 @@
  "676755": {
   "name": "Mattson, Isaac",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 74,
    "FF": 513,
@@ -4362,6 +4803,7 @@
  "676760": {
   "name": "Marinaccio, Ron",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 284,
    "FC": 217,
@@ -4372,6 +4814,7 @@
  "676775": {
   "name": "Winn, Keaton",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 157,
    "FS": 293,
@@ -4382,16 +4825,18 @@
  "676879": {
   "name": "Ashby, Aaron",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 188,
-   "CU": 354,
-   "SI": 825,
-   "SL": 187
+   "CU": 353,
+   "SI": 826,
+   "SL": 188
   }
  },
  "676917": {
   "name": "Cavalli, Cade",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 212,
    "FC": 175,
@@ -4404,6 +4849,7 @@
  "676962": {
   "name": "Brown, Ben",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 60,
    "FF": 370,
@@ -4414,17 +4860,19 @@
  "676974": {
   "name": "Meyer, Max",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 182,
    "FF": 430,
    "SI": 173,
-   "SL": 465,
-   "ST": 537
+   "SL": 469,
+   "ST": 533
   }
  },
  "676979": {
   "name": "Crochet, Garrett",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FC": 127,
    "FF": 173,
@@ -4435,6 +4883,7 @@
  "677020": {
   "name": "Walker, Josh",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 50,
    "FF": 127,
@@ -4445,6 +4894,7 @@
  "677053": {
   "name": "Nardi, Andrew",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 44,
    "FF": 180,
@@ -4455,6 +4905,7 @@
  "677161": {
   "name": "Kelly, Zack",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 124,
    "FF": 38,
@@ -4465,6 +4916,7 @@
  "677865": {
   "name": "Bruihl, Justin",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 112,
    "FF": 80,
@@ -4475,6 +4927,7 @@
  "677944": {
   "name": "Cecconi, Slade",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 41,
    "CU": 296,
@@ -4488,6 +4941,7 @@
  "677952": {
   "name": "Ashcraft, Braxton",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 637,
    "FF": 737,
@@ -4499,6 +4953,7 @@
  "677955": {
   "name": "Hill, Jaden",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 145,
    "FF": 221,
@@ -4509,6 +4964,7 @@
  "677958": {
   "name": "Rocker, Kumar",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 81,
    "FC": 352,
@@ -4520,6 +4976,7 @@
  "677960": {
   "name": "Weathers, Ryan",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 574,
    "FF": 505,
@@ -4531,6 +4988,7 @@
  "677961": {
   "name": "Wilcox, Cole",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 58,
    "FF": 135,
@@ -4542,17 +5000,19 @@
  "677976": {
   "name": "Dobnak, Randy",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 278,
    "FF": 122,
    "SI": 486,
-   "SL": 63,
-   "ST": 312
+   "SL": 62,
+   "ST": 313
   }
  },
  "678020": {
   "name": "Halvorsen, Seth",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 313,
    "FS": 47,
@@ -4562,6 +5022,7 @@
  "678022": {
   "name": "Perkins, Jack",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 388,
    "CU": 34,
@@ -4574,6 +5035,7 @@
  "678061": {
   "name": "Kerr, Ray",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 65,
    "FF": 76,
@@ -4583,6 +5045,7 @@
  "678368": {
   "name": "Bellozo, Valente",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 31,
    "FC": 40,
@@ -4593,6 +5056,7 @@
  "678391": {
   "name": "Vivas, Jorbit",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 53
   }
@@ -4600,6 +5064,7 @@
  "678394": {
   "name": "Bello, Brayan",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 387,
    "CU": 64,
@@ -4612,6 +5077,7 @@
  "678576": {
   "name": "Ramos, Wilkin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SI": 37
   }
@@ -4619,6 +5085,7 @@
  "678606": {
   "name": "Ferrer, Jos\u00e9 A.",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 196,
    "SI": 748,
@@ -4628,6 +5095,7 @@
  "678868": {
   "name": "Yean, Eddy",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 50,
    "SI": 97
@@ -4636,6 +5104,7 @@
  "678906": {
   "name": "Teng, Kai-Wei",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 125,
    "CU": 116,
@@ -4647,6 +5116,7 @@
  "679358": {
   "name": "Orze, Eric",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 63,
    "FF": 176,
@@ -4657,6 +5127,7 @@
  "679775": {
   "name": "Backhus, Kyle",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 37,
    "SI": 195,
@@ -4666,6 +5137,7 @@
  "679883": {
   "name": "Avila, Luinder",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 134,
    "CU": 191,
@@ -4677,6 +5149,7 @@
  "679885": {
   "name": "Martinez, Justin",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 84,
    "FS": 54,
@@ -4686,6 +5159,7 @@
  "680570": {
   "name": "Rodriguez, Grayson",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 467,
    "CU": 207,
@@ -4696,6 +5170,7 @@
  "680573": {
   "name": "Woods Richardson, Simeon",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 112,
    "FF": 502,
@@ -4706,6 +5181,7 @@
  "680604": {
   "name": "Casta\u00f1o, Blas",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 47,
    "FC": 63,
@@ -4717,6 +5193,7 @@
  "680694": {
   "name": "Bradish, Kyle",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 569,
    "FF": 445,
@@ -4727,6 +5204,7 @@
  "680702": {
   "name": "Gerber, Joey",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 54,
    "FF": 70
@@ -4735,6 +5213,7 @@
  "680704": {
   "name": "Sandlin, Nick",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FS": 37,
    "SL": 85
@@ -4743,6 +5222,7 @@
  "680723": {
   "name": "Rom, Drew",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 182,
    "FS": 36,
@@ -4753,6 +5233,7 @@
  "680730": {
   "name": "Parker, Mitchell",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 103,
    "FF": 223,
@@ -4762,6 +5243,7 @@
  "680732": {
   "name": "Burke, Sean",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 53,
    "FC": 300,
@@ -4774,6 +5256,7 @@
  "680736": {
   "name": "Wrobleski, Justin",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 106,
    "CU": 98,
@@ -4787,6 +5270,7 @@
  "680742": {
   "name": "Bowlan, Jonathan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 128,
    "FF": 465,
@@ -4798,6 +5282,7 @@
  "680744": {
   "name": "Madden, Ty",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 159,
    "FF": 247,
@@ -4809,6 +5294,7 @@
  "680755": {
   "name": "Fisher, Braydon",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 372,
    "FC": 30,
@@ -4819,6 +5305,7 @@
  "680767": {
   "name": "Vodnik, Victor",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 152,
    "FF": 467,
@@ -4830,6 +5317,7 @@
  "680802": {
   "name": "Weiss, Ryan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 79,
    "FF": 196,
@@ -4840,6 +5328,7 @@
  "680899": {
   "name": "Tolman, Erik",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 79,
    "FF": 151,
@@ -4849,6 +5338,7 @@
  "680916": {
   "name": "Aleman, Franco",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 283,
    "SL": 116
@@ -4857,6 +5347,7 @@
  "681006": {
   "name": "Simpson, Josh",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 39,
    "SI": 59,
@@ -4866,6 +5357,7 @@
  "681035": {
   "name": "Scott, Christian",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 100,
    "FC": 372,
@@ -4878,6 +5370,7 @@
  "681151": {
   "name": "Murray, Jayden",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FF": 162,
    "ST": 75
@@ -4886,6 +5379,7 @@
  "681168": {
   "name": "Curvelo, Luis",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 57,
    "FS": 38,
@@ -4896,6 +5390,7 @@
  "681190": {
   "name": "V\u00e1squez, Randy",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 194,
    "CU": 171,
@@ -4909,6 +5404,7 @@
  "681217": {
   "name": "Silseth, Chase",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 456,
    "FS": 261,
@@ -4919,6 +5415,7 @@
  "681252": {
   "name": "Anderson, Jack",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 60,
    "FS": 42,
@@ -4928,6 +5425,7 @@
  "681293": {
   "name": "Arrighetti, Spencer",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 155,
    "CU": 665,
@@ -4940,6 +5438,7 @@
  "681320": {
   "name": "Lavender, Nate",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 216,
    "SL": 31
@@ -4948,6 +5447,7 @@
  "681343": {
   "name": "Smith, Shane",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 41,
    "CU": 53,
@@ -4958,6 +5458,7 @@
  "681347": {
   "name": "Burrows, Mike",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 424,
    "CU": 225,
@@ -4969,6 +5470,7 @@
  "681402": {
   "name": "Varland, Gus",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 332,
    "SL": 232
@@ -4977,6 +5479,7 @@
  "681517": {
   "name": "Leahy, Kyle",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 339,
    "CU": 381,
@@ -4989,6 +5492,7 @@
  "681544": {
   "name": "Olds, Wyatt",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 41,
    "FF": 149,
@@ -4998,6 +5502,7 @@
  "681676": {
   "name": "Fernandez, Ryan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 46,
    "FF": 158,
@@ -5007,6 +5512,7 @@
  "681751": {
   "name": "Estrada, Lazaro",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 37,
    "FC": 55,
@@ -5016,6 +5522,7 @@
  "681799": {
   "name": "Roberts, Ethan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 196,
    "SI": 71,
@@ -5025,6 +5532,7 @@
  "681810": {
   "name": "Warren, Austin",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 63,
    "FF": 149,
@@ -5035,6 +5543,7 @@
  "681867": {
   "name": "Criswell, Cooper",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 169,
    "FC": 125,
@@ -5046,6 +5555,7 @@
  "681870": {
   "name": "Sabrowski, Erik",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CU": 154,
    "FF": 531,
@@ -5055,6 +5565,7 @@
  "681892": {
   "name": "Funderburk, Kody",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 51,
    "FC": 311,
@@ -5066,6 +5577,7 @@
  "681895": {
   "name": "Sisk, Evan",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 74,
    "CU": 220,
@@ -5077,6 +5589,7 @@
  "681911": {
   "name": "Vesia, Alex",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 142,
    "FF": 564,
@@ -5086,6 +5599,7 @@
  "681916": {
   "name": "Smith, Dylan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 44,
    "FF": 400,
@@ -5097,6 +5611,7 @@
  "681982": {
   "name": "Anderson, Grant",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 31,
    "FF": 324,
@@ -5107,6 +5622,7 @@
  "682052": {
   "name": "Lopez, Jacob",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 193,
    "FC": 445,
@@ -5118,6 +5634,7 @@
  "682120": {
   "name": "Herrin, Tim",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CU": 298,
    "FF": 195,
@@ -5128,6 +5645,7 @@
  "682227": {
   "name": "Williamson, Brandon",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 191,
    "CU": 80,
@@ -5140,9 +5658,10 @@
  "682243": {
   "name": "Miller, Bryce",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
-   "FC": 107,
-   "FF": 742,
+   "FC": 102,
+   "FF": 747,
    "FS": 439,
    "KC": 80,
    "SI": 162,
@@ -5153,6 +5672,7 @@
  "682254": {
   "name": "Montgomery, Mason",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CU": 156,
    "FF": 542,
@@ -5163,6 +5683,7 @@
  "682274": {
   "name": "Hiraldo, Yaramil",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 86,
    "FS": 59,
@@ -5172,6 +5693,7 @@
  "682445": {
   "name": "Gonzalez, Domingo",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 50,
    "SI": 31,
@@ -5181,6 +5703,7 @@
  "682608": {
   "name": "Gray, Peyton",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 373,
    "FF": 393,
@@ -5190,6 +5713,7 @@
  "682610": {
   "name": "Mu\u00f1oz, Roddery",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SL": 46
   }
@@ -5197,6 +5721,7 @@
  "682825": {
   "name": "Mey, Luis",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SI": 390,
    "SL": 243
@@ -5205,6 +5730,7 @@
  "682842": {
   "name": "Uribe, Abner",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "SI": 565,
    "SL": 348
@@ -5213,6 +5739,7 @@
  "682982": {
   "name": "Espino, Daniel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 169,
    "SL": 79
@@ -5221,6 +5748,7 @@
  "682989": {
   "name": "Mederos, Victor",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 272,
    "FF": 137,
@@ -5231,6 +5759,7 @@
  "682995": {
   "name": "Barco, Hunter",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 30,
    "FF": 130,
@@ -5241,6 +5770,7 @@
  "683000": {
   "name": "Cornelio, Riley",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FC": 99,
    "FF": 250,
@@ -5250,6 +5780,7 @@
  "683003": {
   "name": "Jones, Jared",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 181,
    "CU": 135,
@@ -5260,6 +5791,7 @@
  "683004": {
   "name": "Leiter, Jack",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 243,
    "CU": 122,
@@ -5272,6 +5804,7 @@
  "683155": {
   "name": "Estes, Joey",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 43
   }
@@ -5279,6 +5812,7 @@
  "683175": {
   "name": "Phillips, Connor",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 293,
    "ST": 278
@@ -5287,6 +5821,7 @@
  "683232": {
   "name": "Mears, Nick",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 36,
    "CU": 46,
@@ -5298,6 +5833,7 @@
  "683352": {
   "name": "Bratt, Mitch",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 71,
    "FF": 337,
@@ -5309,6 +5845,7 @@
  "683363": {
   "name": "Wilkinson, Matt",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 96,
    "FF": 237,
@@ -5318,6 +5855,7 @@
  "683409": {
   "name": "Chivilli, Angel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 118,
    "FF": 59,
@@ -5327,6 +5865,7 @@
  "683618": {
   "name": "Henriquez, Edgardo",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CU": 41,
    "FC": 141,
@@ -5338,6 +5877,7 @@
  "683627": {
   "name": "Molina, Anthony",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 117,
    "CU": 77,
@@ -5348,6 +5888,7 @@
  "683734": {
   "name": "Vaughn, Andrew",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "KN": 50
   }
@@ -5355,6 +5896,7 @@
  "683742": {
   "name": "Franco, Jose",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 47,
    "FF": 160,
@@ -5364,6 +5906,7 @@
  "683769": {
   "name": "Gaddis, Hunter",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 196,
    "FF": 290,
@@ -5373,6 +5916,7 @@
  "684007": {
   "name": "Imanaga, Shota",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CU": 81,
    "FF": 1127,
@@ -5385,6 +5929,7 @@
  "684049": {
   "name": "Bidois, Brandan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 177,
    "SL": 136
@@ -5393,6 +5938,7 @@
  "684320": {
   "name": "Rodr\u00edguez, Yariel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 36,
    "FS": 42,
@@ -5402,6 +5948,7 @@
  "684442": {
   "name": "Drake, Kohl",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 73,
    "CU": 65,
@@ -5413,6 +5960,7 @@
  "684665": {
   "name": "Murphy, Luke",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 80,
    "FF": 209,
@@ -5422,6 +5970,7 @@
  "684974": {
   "name": "Yoho, Craig",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 337,
    "FC": 79,
@@ -5432,6 +5981,7 @@
  "685005": {
   "name": "Roa, Christian",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 45,
    "SI": 57,
@@ -5441,6 +5991,7 @@
  "685112": {
   "name": "McCambley, Zach",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 104,
    "FF": 82,
@@ -5450,6 +6001,7 @@
  "685126": {
   "name": "Eisert, Brandon",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 147,
    "FF": 307,
@@ -5460,6 +6012,7 @@
  "685299": {
   "name": "Gordon, Tanner",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 377,
    "CU": 159,
@@ -5472,6 +6025,7 @@
  "685464": {
   "name": "Winquest, Cade",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 67,
    "FC": 69,
@@ -5481,6 +6035,7 @@
  "685801": {
   "name": "Bigge, Hunter",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 164,
    "SL": 131
@@ -5489,6 +6044,7 @@
  "686218": {
   "name": "Sheehan, Emmet",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 304,
    "CU": 241,
@@ -5499,6 +6055,7 @@
  "686475": {
   "name": "Tolbert, Tyler",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 106
   }
@@ -5506,6 +6063,7 @@
  "686560": {
   "name": "Collyer, Gavin",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 159,
    "FF": 127,
@@ -5516,6 +6074,7 @@
  "686563": {
   "name": "Cannon, Jonathan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 44
   }
@@ -5523,6 +6082,7 @@
  "686580": {
   "name": "Slaten, Justin",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 208,
    "FF": 128,
@@ -5533,6 +6093,7 @@
  "686610": {
   "name": "Waldichuk, Ken",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 61,
    "FF": 49
@@ -5541,6 +6102,7 @@
  "686613": {
   "name": "Brown, Hunter",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 167,
    "FC": 36,
@@ -5553,6 +6115,7 @@
  "686730": {
   "name": "Spiers, Carson",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "ST": 37
   }
@@ -5560,6 +6123,7 @@
  "686751": {
   "name": "Johnson, Seth",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 281,
    "SI": 54,
@@ -5570,6 +6134,7 @@
  "686753": {
   "name": "Jameson, Drey",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 64,
    "FF": 62,
@@ -5580,6 +6145,7 @@
  "686790": {
   "name": "McDonald, Trevor",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 166,
    "SI": 653,
@@ -5589,16 +6155,18 @@
  "686799": {
   "name": "Kochanowicz, Jack",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 257,
-   "FF": 245,
-   "SI": 421,
+   "FF": 246,
+   "SI": 420,
    "SL": 179
   }
  },
  "686930": {
   "name": "Barnett, Mason",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 69,
    "CU": 93,
@@ -5610,6 +6178,7 @@
  "686934": {
   "name": "McFarlane, Alex",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 134,
    "SI": 81,
@@ -5619,6 +6188,7 @@
  "686973": {
   "name": "Varland, Louis",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 223,
    "FF": 508,
@@ -5629,6 +6199,7 @@
  "686993": {
   "name": "Sterner, Justin",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 224,
    "FF": 285,
@@ -5638,6 +6209,7 @@
  "687064": {
   "name": "Young, Brandon",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 296,
    "FF": 1012,
@@ -5649,6 +6221,7 @@
  "687075": {
   "name": "Sproat, Brandon",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 137,
    "CU": 169,
@@ -5661,6 +6234,7 @@
  "687134": {
   "name": "Blalock, Bradley",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 54,
    "SL": 35
@@ -5669,6 +6243,7 @@
  "687209": {
   "name": "Maxwell, Zach",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 57,
    "FF": 171,
@@ -5678,6 +6253,7 @@
  "687223": {
   "name": "Palmquist, Carson",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FC": 31,
    "FF": 49,
@@ -5688,6 +6264,7 @@
  "687239": {
   "name": "Peoples, Ben",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 163,
    "SL": 107
@@ -5696,6 +6273,7 @@
  "687273": {
   "name": "Mathews, Quinn",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 138,
    "CU": 116,
@@ -5707,6 +6285,7 @@
  "687309": {
   "name": "Hjerpe, Cooper",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 40,
    "FF": 132,
@@ -5716,6 +6295,7 @@
  "687312": {
   "name": "Hughes, Gabriel",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 127,
    "CU": 138,
@@ -5728,6 +6308,7 @@
  "687330": {
   "name": "Kelly, Kevin",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 275,
    "FF": 70,
@@ -5738,16 +6319,18 @@
  "687377": {
   "name": "Ribalta, Orlando",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 123,
-   "FF": 209,
-   "SI": 125,
+   "FF": 211,
+   "SI": 123,
    "SL": 292
   }
  },
  "687396": {
   "name": "Headrick, Brent",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "FF": 621,
    "FS": 162,
@@ -5758,11 +6341,12 @@
  "687473": {
   "name": "Gusto, Ryan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 190,
    "CU": 131,
-   "FC": 172,
-   "FF": 411,
+   "FC": 173,
+   "FF": 410,
    "SI": 175,
    "SL": 168,
    "ST": 189
@@ -5771,6 +6355,7 @@
  "687531": {
   "name": "Kempner, William",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 96,
    "ST": 44
@@ -5779,6 +6364,7 @@
  "687562": {
   "name": "Bennett, Jake",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 438,
    "CU": 40,
@@ -5791,6 +6377,7 @@
  "687570": {
   "name": "Prielipp, Connor",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 205,
    "CU": 385,
@@ -5802,6 +6389,7 @@
  "687606": {
   "name": "Schultz, Paxton",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 87,
    "FC": 271,
@@ -5812,6 +6400,7 @@
  "687765": {
   "name": "Spence, Mitch",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 33,
    "FC": 76,
@@ -5822,6 +6411,7 @@
  "687792": {
   "name": "Herz, DJ",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 38,
    "FF": 62
@@ -5830,6 +6420,7 @@
  "687849": {
   "name": "Kent, Zak",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 52,
    "FF": 119,
@@ -5839,6 +6430,7 @@
  "687911": {
   "name": "King, Bryan",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 585,
    "SI": 183,
@@ -5848,6 +6440,7 @@
  "687931": {
   "name": "Whisenhunt, Carson",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 216,
    "FF": 215,
@@ -5858,6 +6451,7 @@
  "687941": {
   "name": "Gamboa, Alec",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 192,
    "SI": 101,
@@ -5867,17 +6461,19 @@
  "688107": {
   "name": "Gasser, Robert",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 188,
    "FC": 327,
-   "FF": 422,
-   "SI": 409,
+   "FF": 423,
+   "SI": 408,
    "ST": 459
   }
  },
  "688158": {
   "name": "Morgan, David",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 135,
    "FF": 191,
@@ -5888,6 +6484,7 @@
  "688297": {
   "name": "Roycroft, Chris",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 133,
    "FF": 162,
@@ -5898,6 +6495,7 @@
  "688497": {
   "name": "Rashi, Taylor",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 37
   }
@@ -5905,6 +6503,7 @@
  "688642": {
   "name": "Agnos, Zach",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 322,
    "FF": 370,
@@ -5917,6 +6516,7 @@
  "688692": {
   "name": "Simpson, Jared",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 37,
    "SI": 32
@@ -5925,6 +6525,7 @@
  "688883": {
   "name": "Pallette, Peyton",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 106,
    "FF": 231,
@@ -5934,6 +6535,7 @@
  "689017": {
   "name": "Knack, Landon",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 45,
    "FF": 84,
@@ -5943,6 +6545,7 @@
  "689147": {
   "name": "Kerkering, Orion",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 369,
    "FS": 61,
@@ -5953,6 +6556,7 @@
  "689149": {
   "name": "Dallas, Chad",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 74,
    "FC": 111,
@@ -5962,6 +6566,7 @@
  "689225": {
   "name": "Brieske, Beau",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 54,
    "CU": 43,
@@ -5973,6 +6578,7 @@
  "689254": {
   "name": "Fluharty, Mason",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 107,
    "FC": 514,
@@ -5982,6 +6588,7 @@
  "689266": {
   "name": "Dodd, Dylan",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FC": 274,
    "SI": 467,
@@ -5991,6 +6598,7 @@
  "689296": {
   "name": "Nunez, Anthony",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 219,
    "FC": 59,
@@ -6002,6 +6610,7 @@
  "689441": {
   "name": "Crow, Coleman",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 61,
    "FC": 107,
@@ -6012,6 +6621,7 @@
  "689520": {
   "name": "Laweryson, Cody",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 43,
    "FC": 49,
@@ -6021,6 +6631,7 @@
  "689546": {
   "name": "Davila, Nick",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 48,
    "SI": 107,
@@ -6030,6 +6641,7 @@
  "689690": {
   "name": "Jacob, Alek",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 30,
    "FF": 37
@@ -6038,6 +6650,7 @@
  "689818": {
   "name": "Sandlin, David",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 40,
    "CU": 141,
@@ -6050,6 +6663,7 @@
  "689981": {
   "name": "Ryan, River",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 32
   }
@@ -6057,6 +6671,7 @@
  "690155": {
   "name": "Pushard, Matt",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 54
   }
@@ -6064,6 +6679,7 @@
  "690279": {
   "name": "Adams, Mason",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 87,
    "FF": 147,
@@ -6074,6 +6690,7 @@
  "690440": {
   "name": "Hanner, Bradley",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 55,
    "SI": 31,
@@ -6083,6 +6700,7 @@
  "690829": {
   "name": "Joyce, Ben",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 174,
    "SI": 62
@@ -6091,6 +6709,7 @@
  "690925": {
   "name": "Beeter, Clayton",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 392,
    "SL": 401
@@ -6099,6 +6718,7 @@
  "690928": {
   "name": "Dobbins, Hunter",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 106,
    "FF": 299,
@@ -6111,6 +6731,7 @@
  "690953": {
   "name": "Abel, Mick",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 63,
    "CU": 43,
@@ -6122,6 +6743,7 @@
  "690978": {
   "name": "Fulton, Dax",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 32,
    "FF": 145,
@@ -6133,6 +6755,7 @@
  "690986": {
   "name": "Harrison, Kyle",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 188,
    "FF": 1201,
@@ -6143,6 +6766,7 @@
  "690990": {
   "name": "Horton, Cade",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 45
   }
@@ -6150,6 +6774,7 @@
  "690997": {
   "name": "McLean, Nolan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 181,
    "CU": 420,
@@ -6163,6 +6788,7 @@
  "691008": {
   "name": "Rajcic, Max",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 42,
    "FF": 66
@@ -6171,6 +6797,7 @@
  "691384": {
   "name": "Perales, Luis",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 79,
    "FF": 56,
@@ -6181,18 +6808,20 @@
  "691587": {
   "name": "P\u00e9rez, Eury",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 230,
-   "CU": 170,
+   "CU": 169,
    "FF": 988,
    "SI": 472,
-   "SL": 465,
-   "ST": 348
+   "SL": 463,
+   "ST": 351
   }
  },
  "691594": {
   "name": "Sanoja, Javier",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FA": 73
   }
@@ -6200,6 +6829,7 @@
  "691725": {
   "name": "Painter, Andrew",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 229,
    "CU": 126,
@@ -6213,6 +6843,7 @@
  "691769": {
   "name": "Abner, Philip",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 63,
    "FF": 174,
@@ -6222,6 +6853,7 @@
  "691799": {
   "name": "Taylor, Grant",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 361,
    "FF": 583,
@@ -6232,6 +6864,7 @@
  "691945": {
   "name": "Baumler, Carter",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 56,
    "FF": 39
@@ -6240,16 +6873,18 @@
  "691946": {
   "name": "Klassen, George",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 84,
-   "FF": 187,
-   "SI": 45,
-   "SL": 153
+   "FF": 183,
+   "SI": 49,
+   "SL": 154
   }
  },
  "691951": {
   "name": "Aldegheri, Sam",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 189,
    "CU": 46,
@@ -6260,6 +6895,7 @@
  "692230": {
   "name": "Rodriguez, Carlos",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 67,
    "FC": 49,
@@ -6269,6 +6905,7 @@
  "693308": {
   "name": "Frasso, Nick",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 96,
    "FC": 47,
@@ -6279,6 +6916,7 @@
  "693312": {
   "name": "Nicolas, Kyle",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 32,
    "FF": 96,
@@ -6288,6 +6926,7 @@
  "693313": {
   "name": "Seymour, Carson",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 115,
    "FF": 89,
@@ -6298,18 +6937,20 @@
  "693433": {
   "name": "Woo, Bryan",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 167,
-   "CU": 66,
+   "CU": 68,
    "FF": 1259,
    "SI": 508,
-   "SL": 357,
+   "SL": 355,
    "ST": 309
   }
  },
  "693645": {
   "name": "Schlittler, Cam",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CU": 297,
    "FC": 775,
@@ -6320,6 +6961,7 @@
  "693686": {
   "name": "Miles, Spencer",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 367,
    "FF": 215,
@@ -6330,6 +6972,7 @@
  "693821": {
   "name": "Elder, Bryce",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 275,
    "FC": 335,
@@ -6341,6 +6984,7 @@
  "693855": {
   "name": "Seymour, Ian",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 611,
    "FF": 581,
@@ -6352,14 +6996,16 @@
  "694037": {
   "name": "Palencia, Daniel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 317,
-   "SL": 114
+   "SL": 116
   }
  },
  "694297": {
   "name": "Pfaadt, Brandon",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 324,
    "CU": 297,
@@ -6372,6 +7018,7 @@
  "694335": {
   "name": "Svanson, Matt",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FC": 171,
    "SI": 353,
@@ -6381,6 +7028,7 @@
  "694341": {
   "name": "Beck, Brendan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 113,
    "SL": 73
@@ -6389,6 +7037,7 @@
  "694346": {
   "name": "Gibson, Trey",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 97,
    "FC": 140,
@@ -6400,6 +7049,7 @@
  "694357": {
   "name": "Tiedemann, Ricky",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 47,
    "ST": 62
@@ -6408,6 +7058,7 @@
  "694360": {
   "name": "Way, Beck",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 164,
    "FF": 55,
@@ -6418,6 +7069,7 @@
  "694361": {
   "name": "Klein, Will",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CU": 122,
    "FF": 387,
@@ -6428,6 +7080,7 @@
  "694363": {
   "name": "Shuster, Jared",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 34,
    "FF": 49,
@@ -6437,6 +7090,7 @@
  "694397": {
   "name": "Raya, Marco",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 45
   }
@@ -6444,6 +7098,7 @@
  "694462": {
   "name": "Waldrep, Hurston",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 34,
    "FS": 41,
@@ -6454,6 +7109,7 @@
  "694477": {
   "name": "Patrick, Chad",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FC": 733,
    "FF": 433,
@@ -6464,6 +7120,7 @@
  "694494": {
   "name": "Johnson, Ty",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 87,
    "SL": 73
@@ -6472,6 +7129,7 @@
  "694646": {
   "name": "McDermott, Chayce",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 59,
    "FF": 64
@@ -6480,6 +7138,7 @@
  "694680": {
   "name": "Martin, Trevor",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 59,
    "FF": 123,
@@ -6489,17 +7148,19 @@
  "694738": {
   "name": "Roupp, Landen",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 551,
    "CU": 693,
-   "FC": 381,
-   "FF": 156,
+   "FC": 380,
+   "FF": 157,
    "SI": 927
   }
  },
  "694753": {
   "name": "Curtis, Khristian",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 62,
    "FC": 112,
@@ -6510,6 +7171,7 @@
  "694795": {
   "name": "Ekness, Josh",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 46,
    "FF": 296,
@@ -6520,6 +7182,7 @@
  "694819": {
   "name": "Misiorowski, Jacob",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CU": 273,
    "FC": 368,
@@ -6530,6 +7193,7 @@
  "694820": {
   "name": "Roxby, Braxton",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SL": 30,
    "ST": 38
@@ -6538,6 +7202,7 @@
  "694851": {
   "name": "Hoffmann, Andrew",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 64,
    "FF": 118,
@@ -6547,6 +7212,7 @@
  "694918": {
   "name": "Tidwell, Blade",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 42,
    "CU": 38,
@@ -6559,6 +7225,7 @@
  "694973": {
   "name": "Skenes, Paul",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 360,
    "FF": 1178,
@@ -6571,6 +7238,7 @@
  "695001": {
   "name": "Santa, Alimber",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SI": 56,
    "SL": 74,
@@ -6580,6 +7248,7 @@
  "695034": {
   "name": "Morris, Kade",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 41,
    "FF": 59,
@@ -6591,6 +7260,7 @@
  "695049": {
   "name": "Kerry, Brett",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 47,
    "FF": 101,
@@ -6600,6 +7270,7 @@
  "695076": {
   "name": "Lowder, Rhett",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 458,
    "CU": 67,
@@ -6611,6 +7282,7 @@
  "695239": {
   "name": "Ahlstrom, Robby",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 102,
    "FF": 211,
@@ -6621,6 +7293,7 @@
  "695243": {
   "name": "Miller, Mason",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 555,
    "SL": 571
@@ -6629,6 +7302,7 @@
  "695378": {
   "name": "Sinclair, Jack",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 51,
    "ST": 71
@@ -6637,6 +7311,7 @@
  "695380": {
   "name": "Hoppe, Alex",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "FF": 277,
    "SI": 178,
@@ -6646,6 +7321,7 @@
  "695418": {
   "name": "Lord, Brad",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 68,
    "FF": 540,
@@ -6657,6 +7333,7 @@
  "695445": {
   "name": "Lee, Chase",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "SI": 53,
    "ST": 52
@@ -6665,6 +7342,7 @@
  "695505": {
   "name": "Burns, Chase",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 134,
    "FF": 1419,
@@ -6674,6 +7352,7 @@
  "695534": {
   "name": "Petty, Chase",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 110,
    "FF": 70,
@@ -6685,17 +7364,19 @@
  "695549": {
   "name": "Jobe, Jackson",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 79,
-   "CU": 75,
+   "CU": 70,
    "FF": 241,
    "SI": 143,
-   "SL": 199
+   "SL": 195
   }
  },
  "695611": {
   "name": "Jump, Gage",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 164,
    "CU": 187,
@@ -6708,6 +7389,7 @@
  "695684": {
   "name": "Rodr\u00edguez, Elmer",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 39,
    "CU": 72,
@@ -6719,16 +7401,18 @@
  "696062": {
   "name": "Dotel, Wilber",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
-   "FC": 174,
+   "FC": 173,
    "FF": 319,
    "FS": 38,
-   "SL": 150
+   "SL": 151
   }
  },
  "696070": {
   "name": "Rojas, Kendry",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 74,
    "FF": 225,
@@ -6739,6 +7423,7 @@
  "696131": {
   "name": "Black, Mason",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CU": 39,
    "FC": 46,
@@ -6751,6 +7436,7 @@
  "696136": {
   "name": "Wicks, Jordan",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 51,
    "FF": 69,
@@ -6760,6 +7446,7 @@
  "696146": {
   "name": "Smith, Hagen",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FC": 88,
    "FF": 227,
@@ -6769,6 +7456,7 @@
  "696147": {
   "name": "Bachman, Sam",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 119,
    "SI": 250,
@@ -6778,28 +7466,31 @@
  "696149": {
   "name": "Chandler, Bubba",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 383,
-   "CU": 122,
+   "CU": 124,
    "FF": 1298,
    "SI": 218,
-   "SL": 555,
+   "SL": 553,
    "ST": 108
   }
  },
  "696270": {
   "name": "Johnson, Ryan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FC": 666,
    "FS": 355,
-   "SI": 292,
+   "SI": 290,
    "ST": 404
   }
  },
  "696519": {
   "name": "Natera Jr., Samy",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 463,
    "SL": 112
@@ -6808,6 +7499,7 @@
  "696522": {
   "name": "Juenger, Hayden",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 62,
    "FC": 64,
@@ -6818,6 +7510,7 @@
  "697812": {
   "name": "Rock, Joe",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 104,
    "SL": 79
@@ -6826,6 +7519,7 @@
  "699008": {
   "name": "Kelly, Antwone",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 36,
    "FF": 152,
@@ -6836,6 +7530,7 @@
  "699044": {
   "name": "Ullola, Miguel",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 157,
    "SL": 71
@@ -6844,6 +7539,7 @@
  "699134": {
   "name": "Rodriguez, Bradgley",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 503,
    "FF": 309,
@@ -6854,6 +7550,7 @@
  "699151": {
   "name": "Paez, Jedixson",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 76,
    "CU": 38,
@@ -6863,6 +7560,7 @@
  "699823": {
   "name": "Davis, Tyler",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "FF": 303,
    "FS": 31,
@@ -6872,6 +7570,7 @@
  "700187": {
   "name": "Taylor, Troy",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 32
   }
@@ -6879,6 +7578,7 @@
  "700241": {
   "name": "McGreevy, Michael",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 566,
    "CU": 349,
@@ -6892,6 +7592,7 @@
  "700249": {
   "name": "Povich, Cade",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 62,
    "CU": 137,
@@ -6903,6 +7604,7 @@
  "700270": {
   "name": "D\u00edaz, Yilber",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 68,
    "SL": 74
@@ -6911,6 +7613,7 @@
  "700363": {
   "name": "Smith-Shawver, AJ",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 58,
    "FF": 224,
@@ -6921,6 +7624,7 @@
  "700669": {
   "name": "Graceffo, Gordon",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 165,
    "CU": 100,
@@ -6933,16 +7637,18 @@
  "700712": {
   "name": "Ure\u00f1a, Walbert",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
-   "CH": 851,
+   "CH": 850,
    "FF": 459,
    "SI": 820,
-   "ST": 348
+   "ST": 349
   }
  },
  "700842": {
   "name": "Rivera, Eduardo",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 31,
    "FF": 114,
@@ -6952,6 +7658,7 @@
  "701121": {
   "name": "VanWey, Logan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 105,
    "ST": 55
@@ -6960,6 +7667,7 @@
  "701474": {
   "name": "Davitt, Duncan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 49,
    "ST": 30
@@ -6968,6 +7676,7 @@
  "701519": {
   "name": "Adams, Travis",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 233,
    "FC": 195,
@@ -6979,6 +7688,7 @@
  "701542": {
   "name": "Warren, Will",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 364,
    "CU": 149,
@@ -6990,6 +7700,7 @@
  "701552": {
   "name": "Granillo, Andre",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 48,
    "SL": 118
@@ -6998,16 +7709,18 @@
  "701656": {
   "name": "Henderson, Logan",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 529,
-   "FC": 230,
-   "FF": 698,
+   "FC": 229,
+   "FF": 699,
    "ST": 47
   }
  },
  "701719": {
   "name": "Samaniego, Tyler",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "FF": 84,
    "SI": 126,
@@ -7017,6 +7730,7 @@
  "702021": {
   "name": "Dion, Will",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 204,
    "CU": 157,
@@ -7027,6 +7741,7 @@
  "702047": {
   "name": "Cook, Alex",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 66
   }
@@ -7034,6 +7749,7 @@
  "702056": {
   "name": "Yesavage, Trey",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 757,
    "FS": 469,
@@ -7043,18 +7759,20 @@
  "702070": {
   "name": "Cameron, Noah",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 575,
    "CU": 472,
-   "FC": 610,
+   "FC": 609,
    "FF": 694,
    "SI": 146,
-   "SL": 390
+   "SL": 391
   }
  },
  "702153": {
   "name": "Fitzpatrick, Brian",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 36
   }
@@ -7062,6 +7780,7 @@
  "702193": {
   "name": "Morris, Andrew",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "CH": 139,
    "FC": 288,
@@ -7073,6 +7792,7 @@
  "702273": {
   "name": "Schultz, Noah",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 121,
    "CU": 41,
@@ -7085,6 +7805,7 @@
  "702275": {
   "name": "Ritchie, JR",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 226,
    "CU": 336,
@@ -7097,6 +7818,7 @@
  "702303": {
   "name": "Martin, Riley",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 35,
    "FF": 64
@@ -7105,6 +7827,7 @@
  "702352": {
   "name": "Bivens, Spencer",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 47,
    "SI": 64,
@@ -7114,6 +7837,7 @@
  "702474": {
   "name": "Paredes, Mike",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 141,
    "FC": 84,
@@ -7124,6 +7848,7 @@
  "702566": {
   "name": "Murphy, Owen",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 42,
    "CU": 33,
@@ -7133,6 +7858,7 @@
  "702752": {
   "name": "Pintaro, Jonathan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 33,
    "FC": 275,
@@ -7143,15 +7869,17 @@
  "702885": {
   "name": "Perdomo, Cesar",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 114,
-   "FF": 174,
+   "FF": 171,
    "SL": 87
   }
  },
  "703615": {
   "name": "Cabrera, Jose",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 64,
    "CU": 53,
@@ -7164,6 +7892,7 @@
  "703725": {
   "name": "Gastelum, Luis",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 221,
    "FF": 187,
@@ -7174,6 +7903,7 @@
  "800048": {
   "name": "Messick, Parker",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 695,
    "CU": 247,
@@ -7186,15 +7916,17 @@
  "800311": {
   "name": "Fuentes, Didier",
   "cluster": 0,
+  "throws": "R",
   "pitches": {
    "FF": 846,
    "FS": 83,
-   "SL": 294
+   "SL": 295
   }
  },
  "800600": {
   "name": "Kent, Jackson",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 139,
    "CU": 96,
@@ -7206,6 +7938,7 @@
  "801139": {
   "name": "Tolle, Payton",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 65,
    "CU": 212,
@@ -7217,6 +7950,7 @@
  "801403": {
   "name": "Dollander, Chase",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 78,
    "CU": 59,
@@ -7229,6 +7963,7 @@
  "801434": {
   "name": "Gervase, Paul",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 55,
    "SL": 49
@@ -7237,6 +7972,7 @@
  "801725": {
   "name": "De Le\u00f3n, Luis",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "SI": 85
   }
@@ -7244,6 +7980,7 @@
  "802408": {
   "name": "Mautz, Brycen",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CU": 58,
    "FF": 116,
@@ -7254,6 +7991,7 @@
  "804267": {
   "name": "Thornton, Zac",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 58,
    "CU": 42,
@@ -7267,6 +8005,7 @@
  "804619": {
   "name": "Klein, John",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 40,
    "FF": 68
@@ -7275,6 +8014,7 @@
  "804636": {
   "name": "Tong, Jonah",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 135,
    "CU": 47,
@@ -7285,6 +8025,7 @@
  "805074": {
   "name": "Marte, Yunior",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 170,
    "FS": 53,
@@ -7294,6 +8035,7 @@
  "805123": {
   "name": "Blubaugh, AJ",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CH": 341,
    "FC": 66,
@@ -7304,6 +8046,7 @@
  "805299": {
   "name": "Garcia, Brandyn",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "FC": 146,
    "SI": 345,
@@ -7313,6 +8056,7 @@
  "805326": {
   "name": "Schweitzer, Tyler",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 53,
    "CU": 37,
@@ -7323,6 +8067,7 @@
  "805345": {
   "name": "Harris, Trent",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 66,
    "FC": 110,
@@ -7333,6 +8078,7 @@
  "805427": {
   "name": "Sommers, Drew",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 218,
    "SI": 268,
@@ -7342,6 +8088,7 @@
  "805673": {
   "name": "Matthews, Zebby",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 280,
    "CU": 235,
@@ -7354,6 +8101,7 @@
  "806188": {
   "name": "Gibson, Cade",
   "cluster": 1,
+  "throws": "L",
   "pitches": {
    "CH": 74,
    "CU": 184,
@@ -7366,6 +8114,7 @@
  "806960": {
   "name": "Morales, Luis",
   "cluster": 3,
+  "throws": "R",
   "pitches": {
    "CH": 31,
    "FF": 158,
@@ -7376,6 +8125,7 @@
  "807739": {
   "name": "Anderson, Kade",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 96,
    "CU": 83,
@@ -7386,6 +8136,7 @@
  "807743": {
   "name": "Sullivan, Sean",
   "cluster": 0,
+  "throws": "L",
   "pitches": {
    "CH": 65,
    "FC": 62,
@@ -7396,6 +8147,7 @@
  "808825": {
   "name": "Sears, Andrew",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "CH": 47,
    "FF": 163,
@@ -7406,6 +8158,7 @@
  "808963": {
   "name": "Sasaki, Roki",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "FF": 881,
    "FO": 152,
@@ -7416,6 +8169,7 @@
  "808967": {
   "name": "Yamamoto, Yoshinobu",
   "cluster": 2,
+  "throws": "R",
   "pitches": {
    "CU": 359,
    "FC": 406,
@@ -7428,6 +8182,7 @@
  "808970": {
   "name": "Go, Woo-Suk",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FF": 34
   }
@@ -7435,6 +8190,7 @@
  "810938": {
   "name": "Williamson, Ben",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "EP": 50
   }
@@ -7442,6 +8198,7 @@
  "811315": {
   "name": "Hopkins, Brody",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CU": 39,
    "FF": 57
@@ -7450,6 +8207,7 @@
  "813349": {
   "name": "Early, Connelly",
   "cluster": 3,
+  "throws": "L",
   "pitches": {
    "CH": 284,
    "CU": 169,
@@ -7462,6 +8220,7 @@
  "814305": {
   "name": "Tur, Yunior",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "FC": 108,
    "FF": 88,
@@ -7471,6 +8230,7 @@
  "814490": {
   "name": "Pecko, Ethan",
   "cluster": -1,
+  "throws": "R",
   "pitches": {
    "CH": 31,
    "CU": 74,
@@ -7483,6 +8243,7 @@
  "815081": {
   "name": "Manfredi, Mark",
   "cluster": -1,
+  "throws": "L",
   "pitches": {
    "FF": 177,
    "SL": 83
@@ -7491,6 +8252,7 @@
  "815083": {
   "name": "Farris, Mitch",
   "cluster": 2,
+  "throws": "L",
   "pitches": {
    "CH": 245,
    "FC": 151,
@@ -7501,6 +8263,7 @@
  "820862": {
   "name": "Fermin, Jos\u00e9",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 46,
    "FF": 69,
@@ -7511,6 +8274,7 @@
  "837227": {
   "name": "Imai, Tatsuya",
   "cluster": 1,
+  "throws": "R",
   "pitches": {
    "CH": 39,
    "FF": 642,

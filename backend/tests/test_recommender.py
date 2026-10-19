@@ -113,3 +113,104 @@ def test_without_a_locations_file_everything_falls_back_to_the_grid(modules, sta
 def test_count_bucket():
     assert [count_bucket(0, 2), count_bucket(1, 1), count_bucket(3, 0), count_bucket(0, 0)] == \
            ["ahead", "even", "behind", "even"]
+
+
+# ---- batter vs pitch category + pitch quality ---------------------------------------------------
+NEW_COLS = ["bat_whiff_vs_cat", "bat_xwoba_vs_cat", "pq_velo", "pq_spin", "pq_pfx_x", "pq_pfx_z", "pq_ext"]
+
+
+class ColumnModel:
+    """Success probability = a chosen feature column (so we can see exactly which value reached the model)."""
+    def __init__(self, col, scale=1.0, offset=0.0):
+        self.col, self.scale, self.offset = col, scale, offset
+
+    def predict_proba(self, X):
+        p = np.clip(self.offset + self.scale * X[self.col].to_numpy(), 0, 1)
+        return np.column_stack([1 - p, p])
+
+
+def test_matrix_places_the_new_feature_columns_and_matches_get_dummies(modules, state):
+    rc = modules.recommender
+    pts, xs, zs = ["FF", "SL", "CH"], [0.1, -0.5, 0.9], [2.5, 3.0, 1.2]
+    feats = {"bat_whiff_vs_cat": [.1, .2, .3], "bat_xwoba_vs_cat": [.4, .5, .6], "pq_velo": [95, 85, 84],
+             "pq_spin": [2400, 2600, 1700], "pq_pfx_x": [-.5, .3, -1.0], "pq_pfx_z": [1.3, .2, .6],
+             "pq_ext": [6.6, 6.2, 6.4]}
+    got = rc._matrix(state, 2, 3, pts, xs, zs, feats)
+    ref = pd.DataFrame({**{k: state[k] for k in rc.REQUIRED_STATE}, "pitch_type": pts,
+                        "plate_x": xs, "plate_z": zs, "cluster": 2, "hitter_cluster": 3, **feats})
+    ref = (pd.get_dummies(ref, columns=["pitch_type", "stand", "p_throws"]).astype(float)
+           .reindex(columns=rc.X_COLUMNS, fill_value=0.0))
+    pd.testing.assert_frame_equal(got.astype(float), ref, check_dtype=False)
+
+
+def test_the_batter_changes_the_ranking_through_his_profile_against_each_pitch_category(modules, state, monkeypatch):
+    rc = modules.recommender
+    monkeypatch.setattr(rc, "MODEL", ColumnModel("bat_whiff_vs_cat"))
+    probs = lambda b: {r["pitch_type"]: r["success_prob"]
+                       for r in rc.recommend(1, state, batter_id=b, top_n=10, detail=False)["recommendations"]}
+    # batter 7 whiffs 18% vs fastballs, 40% vs breaking balls, 30% vs offspeed
+    assert probs(7) == pytest.approx({"FF": .18, "SL": .40, "CH": .30}, abs=1e-4)
+    # no batter / unknown batter -> league rate (.25) for every category
+    assert probs(None) == pytest.approx({"FF": .25, "SL": .25, "CH": .25}, abs=1e-4)
+    assert probs(123456) == pytest.approx({"FF": .25, "SL": .25, "CH": .25}, abs=1e-4)
+
+
+def test_batter_category_missing_from_his_profile_falls_back_to_league(modules):
+    rc = modules.recommender
+    assert rc.batter_vs(7, "other") == (.25, .35)             # his profile has no 'other'
+    assert rc.batter_vs(7, "fastballs") == (.18, .42)
+
+
+def test_pitch_quality_reaches_the_model_and_falls_back_per_column(modules, state, monkeypatch):
+    rc = modules.recommender
+    monkeypatch.setattr(rc, "MODEL", ColumnModel("pq_velo", scale=.01))
+    out = {r["pitch_type"]: r for r in rc.recommend(1, state, top_n=10, detail=False)["recommendations"]}
+    assert out["FF"]["success_prob"] == pytest.approx(.951, abs=1e-4)      # this pitcher's own FF velocity
+    assert out["SL"]["success_prob"] == pytest.approx(.85, abs=1e-4)
+    assert out["CH"]["success_prob"] == pytest.approx(.84, abs=1e-4)       # pitcher has none -> league CH|R
+    assert [r["pitch_type"] for r in rc.recommend(1, state, detail=False)["recommendations"]] == ["FF", "SL", "CH"]
+    # extension is None for his SL, so only that column falls back to the league value
+    q, src = rc.pitch_stuff(1, "SL", "R")
+    assert q["pq_velo"] == 85.0 and q["pq_ext"] == 6.4 and src == "pitcher"
+    assert rc.pitch_stuff(1, "CH", "R")[1] == "league"
+    assert rc.pitch_stuff(1, "XX", "R") == ({k: None for k in q}, None)
+
+
+def test_stuff_is_returned_for_display_in_inches(modules, state):
+    out = {r["pitch_type"]: r for r in modules.recommender.recommend(1, state, top_n=10)["recommendations"]}
+    ff = out["FF"]["stuff"]
+    assert ff == {"velo": 95.1, "spin": 2300.0, "ext": 6.4, "source": "pitcher", "ivb_in": 15.6, "hb_in": -6.0}
+    assert out["CH"]["stuff"]["source"] == "league"
+
+
+def test_batter_info_in_the_response(modules, state):
+    rc = modules.recommender
+    b = rc.recommend(1, state, batter_id=7)["batter"]
+    assert (b["name"], b["known"], b["stand"], b["switch"]) == ("Test Batter", True, "L", False)
+    assert b["vs"]["fastballs"] == {"whiff": .18, "xwoba_con": .42, "swings": 300}
+    unknown = rc.recommend(1, state, batter_id=555)["batter"]
+    assert unknown["known"] is False and unknown["name"] == "Batter 555" and unknown["vs"] == {}
+    assert rc.recommend(1, state)["batter"] is None
+
+
+def test_list_batters_is_sorted_and_names_fall_back_to_the_id(modules):
+    out = modules.recommender.list_batters()
+    assert [b["batter_id"] for b in out] == [8, 7]                 # "Batter 8" sorts before "Test Batter"
+    assert out[0] == {"batter_id": 8, "name": "Batter 8", "stand": "R", "switch": True}
+    assert out[1]["name"] == "Test Batter" and out[1]["switch"] is False
+
+
+def test_pitchers_list_carries_throwing_hand_when_known(modules):
+    by_id = {p["pitcher_id"]: p for p in modules.recommender.list_pitchers()}
+    assert by_id[1]["throws"] == "R" and by_id[2]["throws"] is None
+
+
+def test_an_older_model_without_profile_files_still_works(modules, state, monkeypatch):
+    """No batter/pitch profiles (and unknown values reach the model as NaN) must degrade, not crash."""
+    rc = modules.recommender
+    monkeypatch.setattr(rc, "BATTERS", {"league": {}, "batters": {}})
+    monkeypatch.setattr(rc, "PITCH_Q", {"pitchers": {}, "league": {}})
+    out = rc.recommend(1, state, batter_id=7)
+    assert len(out["recommendations"]) == 3
+    assert all(r["stuff"] is None and 0 <= r["success_prob"] <= 1 for r in out["recommendations"])
+    assert out["batter"]["known"] is False and rc.list_batters() == []

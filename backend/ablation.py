@@ -14,8 +14,14 @@ from xgboost import XGBClassifier
 
 import train
 
+PREVIOUS = train.BASE_FEATURES + train.CLUSTER_FEATURES     # the model before the two new feature groups
 VARIANTS = {
     "all features": train.FEATURES,
+    "previous model (clusters only)": PREVIOUS,
+    "previous + batter vs pitch type": PREVIOUS + train.BATTER_FEATURES,
+    "previous + pitch quality": PREVIOUS + train.QUALITY_FEATURES,
+    "all, minus batter vs pitch type": [f for f in train.FEATURES if f not in train.BATTER_FEATURES],
+    "all, minus pitch quality": [f for f in train.FEATURES if f not in train.QUALITY_FEATURES],
     "no location (plate_x/z)": [f for f in train.FEATURES if f not in ("plate_x", "plate_z")],
     "no pitch type": [f for f in train.FEATURES if f != "pitch_type"],
     "location + count only": ["plate_x", "plate_z", "balls", "strikes"],
@@ -30,15 +36,12 @@ def main():
     t1, t2 = dates[int(len(dates) * 0.70)], dates[int(len(dates) * 0.85)]
     train_m, test_m = df["game_date"] < t1, df["game_date"] >= t2
 
-    _, pmap = train.cluster_pitchers(df[train_m])
-    _, _, _, hmap = train.cluster_hitters(df[train_m])
-    df["cluster"] = df["pitcher"].map(pmap).fillna(-1)
-    df["hitter_cluster"] = df["batter"].map(hmap).fillna(-1)
+    df, _ = train.add_features(df, train_m)       # same feature code as train.py
     y = df["success"]
     params = json.load(open(f"{train.ART}/metrics.json"))["best_params"]
 
     base_brier = brier_score_loss(y[test_m], np.full(int(test_m.sum()), y[train_m].mean()))
-    print(f"{'variant':28s} {'test AUC':>9s} {'test Brier':>11s}   (baseline Brier {base_brier:.4f})")
+    print(f"{'variant':34s} {'test AUC':>9s} {'test Brier':>11s}   (baseline Brier {base_brier:.4f})")
     results = {}
     for name, cols in VARIANTS.items():
         cats = [c for c in cols if c in train.CATEGORICAL]
@@ -48,7 +51,7 @@ def main():
         p = model.predict_proba(X[test_m])[:, 1]
         results[name] = {"auc": float(roc_auc_score(y[test_m], p)),
                          "brier": float(brier_score_loss(y[test_m], p))}
-        print(f"{name:28s} {results[name]['auc']:9.4f} {results[name]['brier']:11.4f}", flush=True)
+        print(f"{name:34s} {results[name]['auc']:9.4f} {results[name]['brier']:11.4f}", flush=True)
     json.dump({"baseline_brier": float(base_brier), "variants": results},
               open(f"{train.ART}/ablation.json", "w"), indent=2)
 
