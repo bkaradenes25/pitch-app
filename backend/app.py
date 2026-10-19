@@ -63,6 +63,12 @@ def pitchers():
     return recommender.list_pitchers()
 
 
+@app.get("/batters")
+def batters():
+    """Batters with a profile, for the Sandbox picker (name, stand, switch-hitter flag)."""
+    return recommender.list_batters()
+
+
 @app.post("/recommend")
 def recommend(req: RecommendRequest):
     return recommender.recommend(req.pitcher_id, req.state.model_dump(), req.batter_id)
@@ -116,6 +122,8 @@ def live_games(day: Optional[str] = Query(None, pattern=r"^\d{4}-\d{2}-\d{2}$"))
 def live_snapshot(game_pk: int):
     try:
         snap = live.snapshot(game_pk)
+    except live.NoActivePlay as e:
+        raise HTTPException(409, str(e))
     except (requests.RequestException, KeyError) as e:
         raise HTTPException(502, f"Could not read live feed: {e}")
     snap["recommendation"] = recommender.recommend(

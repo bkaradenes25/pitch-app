@@ -1,9 +1,10 @@
 import { useState } from "react";
-import { pct } from "../format";
+import { pct, stuffLine } from "../format";
 import type { PitchRec, PlotPitch, Recommendation } from "../types";
+import { BatterCard } from "./BatterCard";
 import { StrikeZone } from "./StrikeZone";
 
-export type ResultsData = Pick<Recommendation, "recommendations" | "used_default_arsenal">;
+export type ResultsData = Pick<Recommendation, "recommendations" | "used_default_arsenal" | "batter">;
 
 interface BarsProps {
   recs: PitchRec[];
@@ -56,11 +57,13 @@ export function Results({ data, pitches }: Props) {
         {data.used_default_arsenal && (
           <p className="muted">Pitcher not in training data: using a default arsenal.</p>
         )}
+        {data.batter && <BatterCard batter={data.batter} />}
       </div>
       <div>
         <h3>
           {cur.pitch_type} location heatmap <small className="muted">(catcher's view)</small>
         </h3>
+        {cur.stuff && <p className="muted">{stuffLine(cur.stuff)}</p>}
         <StrikeZone rec={cur} pitches={pitches} />
       </div>
     </div>

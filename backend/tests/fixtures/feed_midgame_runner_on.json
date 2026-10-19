@@ -1,0 +1,226 @@
+{
+ "_fixture_note": "Hand-assembled to match the structure of a real feed (key names for count, matchup and pitch events verified against game 813071 on 2025-10-01); numbers are illustrative. currentPlay and linescore are from the documented shape and not yet verified against a real response: replace with `python capture_fixture.py <gamePk>`.",
+ "gamePk": 900001,
+ "liveData": {
+  "plays": {
+   "currentPlay": {
+    "count": {
+     "balls": 1,
+     "strikes": 2,
+     "outs": 1
+    },
+    "matchup": {
+     "batter": {
+      "id": 678009,
+      "fullName": "Parker Meadows"
+     },
+     "pitcher": {
+      "id": 676440,
+      "fullName": "Tanner Bibee"
+     },
+     "batSide": {
+      "code": "L"
+     },
+     "pitchHand": {
+      "code": "R"
+     }
+    },
+    "playEvents": [
+     {
+      "isPitch": false,
+      "details": {
+       "description": "Pickoff Attempt 1B"
+      }
+     },
+     {
+      "isPitch": true,
+      "details": {
+       "description": "Called Strike",
+       "type": {
+        "code": "FC"
+       }
+      },
+      "pitchData": {
+       "startSpeed": 89.7,
+       "extension": 6.634,
+       "zone": 5,
+       "coordinates": {
+        "pX": -0.2505,
+        "pZ": 2.4873
+       },
+       "breaks": {
+        "spinRate": 2545,
+        "breakVerticalInduced": -2.5,
+        "breakHorizontal": -10.9
+       }
+      }
+     },
+     {
+      "isPitch": true,
+      "details": {
+       "description": "Ball",
+       "type": {
+        "code": "SL"
+       }
+      },
+      "pitchData": {
+       "startSpeed": 85.2,
+       "extension": 6.5,
+       "zone": 5,
+       "coordinates": {
+        "pX": 0.9,
+        "pZ": 1.1
+       },
+       "breaks": {
+        "spinRate": 2610,
+        "breakVerticalInduced": 2.0,
+        "breakHorizontal": 4.1
+       }
+      }
+     },
+     {
+      "isPitch": true,
+      "details": {
+       "description": "Foul",
+       "type": {
+        "code": "FF"
+       }
+      },
+      "pitchData": {
+       "startSpeed": 94.8,
+       "extension": 6.5,
+       "zone": 5,
+       "coordinates": {
+        "pX": 0.3,
+        "pZ": 3.4
+       },
+       "breaks": {
+        "spinRate": 2390,
+        "breakVerticalInduced": 15.5,
+        "breakHorizontal": -7.2
+       }
+      }
+     }
+    ]
+   },
+   "allPlays": [
+    {
+     "count": {
+      "balls": 1,
+      "strikes": 2,
+      "outs": 1
+     },
+     "matchup": {
+      "batter": {
+       "id": 678009,
+       "fullName": "Parker Meadows"
+      },
+      "pitcher": {
+       "id": 676440,
+       "fullName": "Tanner Bibee"
+      },
+      "batSide": {
+       "code": "L"
+      },
+      "pitchHand": {
+       "code": "R"
+      }
+     },
+     "playEvents": [
+      {
+       "isPitch": false,
+       "details": {
+        "description": "Pickoff Attempt 1B"
+       }
+      },
+      {
+       "isPitch": true,
+       "details": {
+        "description": "Called Strike",
+        "type": {
+         "code": "FC"
+        }
+       },
+       "pitchData": {
+        "startSpeed": 89.7,
+        "extension": 6.634,
+        "zone": 5,
+        "coordinates": {
+         "pX": -0.2505,
+         "pZ": 2.4873
+        },
+        "breaks": {
+         "spinRate": 2545,
+         "breakVerticalInduced": -2.5,
+         "breakHorizontal": -10.9
+        }
+       }
+      },
+      {
+       "isPitch": true,
+       "details": {
+        "description": "Ball",
+        "type": {
+         "code": "SL"
+        }
+       },
+       "pitchData": {
+        "startSpeed": 85.2,
+        "extension": 6.5,
+        "zone": 5,
+        "coordinates": {
+         "pX": 0.9,
+         "pZ": 1.1
+        },
+        "breaks": {
+         "spinRate": 2610,
+         "breakVerticalInduced": 2.0,
+         "breakHorizontal": 4.1
+        }
+       }
+      },
+      {
+       "isPitch": true,
+       "details": {
+        "description": "Foul",
+        "type": {
+         "code": "FF"
+        }
+       },
+       "pitchData": {
+        "startSpeed": 94.8,
+        "extension": 6.5,
+        "zone": 5,
+        "coordinates": {
+         "pX": 0.3,
+         "pZ": 3.4
+        },
+        "breaks": {
+         "spinRate": 2390,
+         "breakVerticalInduced": 15.5,
+         "breakHorizontal": -7.2
+        }
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "linescore": {
+   "currentInning": 4,
+   "offense": {
+    "second": {
+     "id": 11
+    }
+   },
+   "teams": {
+    "away": {
+     "runs": 2
+    },
+    "home": {
+     "runs": 1
+    }
+   }
+  }
+ }
+}

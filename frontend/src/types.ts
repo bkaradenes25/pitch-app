@@ -18,17 +18,52 @@ export interface GridCell {
   prob: number;
 }
 
+/** What this pitcher's version of the pitch looks like (averages), shown next to the heatmap. */
+export interface Stuff {
+  velo: number | null;
+  spin: number | null;
+  ext: number | null;
+  ivb_in: number | null; // induced vertical break, inches
+  hb_in: number | null; // horizontal break, inches
+  source: "pitcher" | "league"; // league = he has too few of this pitch, so league average is used
+}
+
 export interface PitchRec {
   pitch_type: string;
   success_prob: number;
   n_samples: number;
   locations_source: string;
+  stuff?: Stuff | null;
   best_location: { plate_x: number; plate_z: number };
   best_cell_prob: number;
   grid: GridCell[];
 }
 
+/** One batter's results against a pitch category (shrunk toward the league average). */
+export interface BatterVs {
+  whiff: number | null;
+  xwoba_con: number | null;
+  swings: number;
+}
+
+export interface BatterInfo {
+  batter_id: number;
+  name: string;
+  known: boolean; // false -> no profile, the model treated him as a league-average hitter
+  stand: Hand | null;
+  switch: boolean;
+  vs: Record<string, BatterVs>;
+}
+
+export interface BatterListItem {
+  batter_id: number;
+  name: string;
+  stand: Hand;
+  switch: boolean;
+}
+
 export interface Recommendation {
+  batter?: BatterInfo | null;
   pitcher_id: number;
   pitcher_name: string;
   used_default_arsenal: boolean;
@@ -42,6 +77,7 @@ export interface Pitcher {
   pitcher_id: number;
   name: string;
   pitches: string[];
+  throws?: Hand | null;
 }
 
 export interface ScoreboardStats {
@@ -66,6 +102,8 @@ export interface PlotPitch {
 export interface LivePitch extends PlotPitch {
   type: string | null;
   call?: string | null;
+  speed?: number | null;
+  spin?: number | null;
 }
 
 export interface LiveGame {

@@ -1,6 +1,6 @@
 # ⚾ Pitch Recommender
 
-![CI](https://github.com/bkaradenes25/pitch-app/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/YOUR-USERNAME/YOUR-REPO/actions/workflows/ci.yml/badge.svg)
 <!-- Add a screenshot or GIF at docs/demo.gif, then uncomment: ![Demo](docs/demo.gif) -->
 
 A full-stack app that recommends the next pitch from the game situation **and checks honestly whether those
@@ -13,13 +13,15 @@ recommendations hold up** on pitches the model has never seen.
 - **Live games:** stream today's MLB games (MLB Stats API) with a recommendation for every at-bat.
 
 ## Results at a glance
+_All rows are for model v2 (adds batter-vs-pitch-type and pitch-quality features)._
+
 | | |
 |---|---|
-| Outcome model, held-out test AUC / Brier | 0.780 / 0.182 (baseline Brier 0.234) |
-| What drives accuracy | Location (AUC 0.78 → 0.57 without it); pitch type adds about 0.009 |
-| Backtest | 113,063 unseen pitches |
-| Pitchers who threw the model's top pick vs not | **+2.9 points** better good-outcome rate (positive in all 12 counts), +2.8 to +3.2 when comparing each pitcher with himself |
-| Caveat | An association, not proof of cause; no velocity/spin/movement features |
+| Outcome model, held-out test AUC / Brier | 0.783 / 0.181 (baseline Brier 0.234) |
+| What drives accuracy | Location (AUC 0.78 → 0.58 without it); pitch quality adds about +0.002 and makes pitch type redundant; batter-vs-pitch-type adds nothing |
+| Backtest | 118,503 unseen pitches |
+| Pitchers who threw the model's top pick vs not | **+2.4 points** better good-outcome rate (95% CI +1.6 to +3.0; positive in 10 of 12 counts), +2.2 to +2.5 when comparing each pitcher with himself |
+| Caveat | An association, not proof of cause; the model still favors sinkers and sliders over fastballs more than pitchers do (label effect) |
 
 Full details, ablation and limitations: **[MODEL_CARD.md](MODEL_CARD.md)**.
 
@@ -55,12 +57,13 @@ Sandbox and Replay work out of the box. The Live tab needs internet access and a
 ## Rebuilding the model from scratch
 ```bash
 cd backend
-python get_data.py          # download the Statcast season by month (cached, resumable)
+python get_data.py          # download the Statcast season by month (cached, resumable; re-fetches old files that lack velocity/spin columns)
 python train.py             # train on the regular season; postseason stays held out
+python fetch_names.py       # batter names for the Sandbox batter picker (MLB Stats API)
 python build_locations.py   # real pitch locations per pitcher/pitch type/count (training period only)
 python -u backtest.py       # score every held-out pitch into SQLite (add --every 10 for a quick run)
 python analyze.py           # baselines, count-adjusted and within-pitcher comparison, bootstrap intervals
-python ablation.py          # which feature groups drive the accuracy
+python ablation.py          # which feature groups drive the accuracy (incl. the two v2 groups)
 python summary.py && python make_demo_data.py   # bundle results and demo games for deployment
 ```
 
@@ -71,6 +74,7 @@ python summary.py && python make_demo_data.py   # bundle results and demo games 
 - **Heatmap:** success probability if the pitch is located at an exact spot (5x5 grid incl. out-of-zone cells).
 
 ## Engineering notes
+- Live-feed parsing is covered by contract tests against saved feed files (`backend/tests/fixtures`); add real ones with `python capture_fixture.py <gamePk>`.
 - Chronological train/validation/test split; clusters and location samples built from training-period data only.
 - Missing model inputs raise an error instead of being silently zero-filled; unknown players map to cluster -1.
 - Input validation with Pydantic; typed API responses on the frontend (`frontend/src/types.ts`).

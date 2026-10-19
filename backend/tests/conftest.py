@@ -8,7 +8,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import pytest
-from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import HistGradientBoostingClassifier
 
 FEED = {  # minimal MLB Stats API live-feed shape used by live.parse_snapshot
     "liveData": {
@@ -39,15 +39,35 @@ def artifacts_dir(tmp_path_factory):
         "balls": rng.integers(0, 4, n), "strikes": rng.integers(0, 3, n),
         "outs_when_up": rng.integers(0, 3, n), "inning": rng.integers(1, 10, n),
         "plate_x": rng.normal(0, .7, n), "plate_z": rng.normal(2.5, .6, n),
-        "cluster": rng.integers(0, 4, n), "hitter_cluster": rng.integers(-1, 5, n)})
+        "cluster": rng.integers(0, 4, n), "hitter_cluster": rng.integers(-1, 5, n),
+        "bat_whiff_vs_cat": rng.uniform(.1, .4, n), "bat_xwoba_vs_cat": rng.uniform(.25, .5, n),
+        "pq_velo": rng.normal(90, 5, n), "pq_spin": rng.normal(2300, 200, n),
+        "pq_pfx_x": rng.normal(0, .8, n), "pq_pfx_z": rng.normal(.8, .5, n), "pq_ext": rng.normal(6.4, .3, n)})
     enc = pd.get_dummies(raw, columns=["pitch_type", "stand", "p_throws"]).astype(float)
-    model = GradientBoostingClassifier(n_estimators=15, random_state=0).fit(enc, rng.integers(0, 2, n))
+    # HistGradientBoosting accepts NaN, like XGBoost does for the "unknown" feature values
+    model = HistGradientBoostingClassifier(max_iter=15, random_state=0).fit(enc, rng.integers(0, 2, n))
     joblib.dump(model, d / "model.pkl")
     json.dump(list(enc.columns), open(d / "x_columns.json", "w"))
-    json.dump({"1": {"name": "Pitcher, Test", "cluster": 2, "pitches": {"FF": 100, "SL": 80, "CH": 40}},
-               "2": {"name": "Arm, Another", "cluster": 1, "pitches": {"FF": 50}}},
+    json.dump({"1": {"name": "Pitcher, Test", "cluster": 2, "throws": "R",
+                     "pitches": {"FF": 100, "SL": 80, "CH": 40}},
+               "2": {"name": "Arm, Another", "cluster": 1, "pitches": {"FF": 50}}},      # no 'throws' (old file)
               open(d / "arsenals.json", "w"))
     json.dump({"7": 3}, open(d / "hitter_clusters.json", "w"))
+    cats = ["fastballs", "breaking_balls", "offspeed", "other"]
+    cat = lambda w, x: {"whiff": w, "xwoba_con": x, "swings": 300, "bip": 120}
+    json.dump({"league": {c: {"whiff": .25, "xwoba_con": .35} for c in cats},
+               "batters": {"7": {"stand": "L", "switch": False, "n": 900,
+                                 "cats": {"fastballs": cat(.18, .42), "breaking_balls": cat(.40, .30),
+                                          "offspeed": cat(.30, .33)}},        # no 'other' -> league value
+                           "8": {"stand": "R", "switch": True, "n": 500, "cats": {}}}},
+              open(d / "batter_profiles.json", "w"))
+    json.dump({"7": "Test Batter"}, open(d / "batter_names.json", "w"))          # batter 8 has no name
+    q = lambda v: {"velo": v, "spin": 2300.0, "pfx_x": -0.5, "pfx_z": 1.0, "ext": 6.4}
+    json.dump({"pitchers": {"1": {"FF": {**q(95.1), "pfx_z": 1.3, "n": 100},
+                                  "SL": {**q(85.0), "ext": None, "n": 80}}},      # SL extension unknown
+               "league": {f"{pt}|{h}": q(v) for pt, v in (("FF", 93), ("SI", 92), ("SL", 84), ("CH", 84), ("CU", 79))
+                          for h in ("L", "R")}},
+              open(d / "pitch_profiles.json", "w"))
     loc = lambda n, cx, cz: np.round(np.column_stack(
         [rng.normal(cx, .3, n), rng.normal(cz, .5, n)]), 2).tolist()
     json.dump({"pitchers": {"1": {"FF": {"ahead": loc(30, 0, 2.5), "all": loc(60, 0, 2.5)},
