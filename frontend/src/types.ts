@@ -93,10 +93,25 @@ export interface ScoreboardStats {
   n_unmatched?: number;
 }
 
+/** The nine numbers that describe a pitch's flight (feet, seconds; velocity and acceleration at y = 50 ft). */
+export interface Trajectory {
+  x0: number;
+  y0: number;
+  z0: number;
+  vx0: number;
+  vy0: number;
+  vz0: number;
+  ax: number;
+  ay: number;
+  az: number;
+}
+
 /** A pitch to draw on the strike zone (coordinates can be missing in live data). */
 export interface PlotPitch {
   plate_x: number | null;
   plate_z: number | null;
+  type?: string | null;
+  traj?: Trajectory | null; // real flight path, when the data has it (3D view only)
 }
 
 export interface LivePitch extends PlotPitch {
@@ -141,6 +156,7 @@ export interface ReplayStep extends Recommendation {
   state: GameState;
   actual_x: number;
   actual_z: number;
+  actual_traj?: Trajectory | null;
   scoreboard: ScoreboardStats;
 }
 

@@ -14,6 +14,7 @@ from pathlib import Path
 import pandas as pd
 
 import db
+import trajectory
 
 POSTSEASON = ("F", "D", "L", "W")
 DEMO_DIR = Path(os.path.dirname(os.path.abspath(__file__))) / "demo_data"
@@ -127,6 +128,7 @@ def step(game_pk, index, run_id):
             "pitcher_name": row["player_name"],
             "state": state_of(row),
             "actual_x": float(row["plate_x"]), "actual_z": float(row["plate_z"]),
+            "actual_traj": trajectory.from_statcast(row),      # None unless the data has vx0..az (get_data --refresh)
             "scoreboard": db.scoreboard(run_id=run_id)}
 
 

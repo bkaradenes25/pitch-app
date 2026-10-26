@@ -1,8 +1,10 @@
-import { useState } from "react";
+import { lazy, Suspense, useState } from "react";
 import { pct, stuffLine } from "../format";
 import type { PitchRec, PlotPitch, Recommendation } from "../types";
 import { BatterCard } from "./BatterCard";
 import { StrikeZone } from "./StrikeZone";
+
+const Pitch3D = lazy(() => import("./Pitch3D")); // three.js only loads when the 3D view is first opened
 
 export type ResultsData = Pick<Recommendation, "recommendations" | "used_default_arsenal" | "batter">;
 
@@ -40,6 +42,7 @@ interface Props {
 
 export function Results({ data, pitches }: Props) {
   const [sel, setSel] = useState<string | null>(null);
+  const [mode, setMode] = useState<"2d" | "3d">("2d");
   if (!data) return <p className="muted">Loading…</p>;
   const recs = data.recommendations;
   const cur = recs.find((r) => r.pitch_type === sel) ?? recs[0];
@@ -63,8 +66,21 @@ export function Results({ data, pitches }: Props) {
         <h3>
           {cur.pitch_type} location heatmap <small className="muted">(catcher's view)</small>
         </h3>
+        <div className="view-toggle" role="group" aria-label="Heatmap view">
+          {(["2d", "3d"] as const).map((m) => (
+            <button key={m} className={m === mode ? "on" : ""} aria-pressed={m === mode} onClick={() => setMode(m)}>
+              {m.toUpperCase()}
+            </button>
+          ))}
+        </div>
         {cur.stuff && <p className="muted">{stuffLine(cur.stuff)}</p>}
-        <StrikeZone rec={cur} pitches={pitches} />
+        {mode === "2d" ? (
+          <StrikeZone rec={cur} pitches={pitches} />
+        ) : (
+          <Suspense fallback={<p className="muted">Loading 3D view…</p>}>
+            <Pitch3D rec={cur} pitches={pitches} />
+          </Suspense>
+        )}
       </div>
     </div>
   );

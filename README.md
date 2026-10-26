@@ -73,6 +73,17 @@ python summary.py && python make_demo_data.py   # bundle results and demo games 
   picking the best cell.
 - **Heatmap:** success probability if the pitch is located at an exact spot (5x5 grid incl. out-of-zone cells).
 
+## 3D view
+Every results panel has a **2D / 3D** toggle (2D is the default). The 3D view (three.js, loaded only when opened) shows the
+heatmap as bars at the front of the plate: taller and greener means a higher success probability, the best spot is outlined,
+and hovering a bar shows its number. Pitches are drawn as real flight paths from the release point (50 ft) to the plate,
+computed from the tracked position, velocity and acceleration of each pitch; **Play flight** replays the last pitch in slow
+motion. Camera presets: catcher, pitcher, side. It needs WebGL and falls back to a message without it, and it respects
+`prefers-reduced-motion`.
+- **Live games** show flight paths with no extra setup. **Replay** needs the extra tracking columns:
+  run `python get_data.py --refresh` once (re-downloads the season), otherwise Replay shows only the plate location.
+- The flight maths is in `backend/trajectory.py` and `frontend/src/trajectory.ts` (both tested; the 3D path ends exactly at the recorded plate location).
+
 ## Engineering notes
 - Live-feed parsing is covered by contract tests against saved feed files (`backend/tests/fixtures`); add real ones with `python capture_fixture.py <gamePk>`.
 - Chronological train/validation/test split; clusters and location samples built from training-period data only.
@@ -84,7 +95,7 @@ python summary.py && python make_demo_data.py   # bundle results and demo games 
 
 ## Project structure
 ```
-backend/   app.py (API) · recommender.py · replay.py · db.py · live.py · shared.py
+backend/   app.py (API) · trajectory.py · recommender.py · replay.py · db.py · live.py · shared.py
            train.py · get_data.py · build_locations.py · backtest.py · analyze.py · ablation.py
            artifacts/ (trained model + lookups) · demo_data/ · tests/
 frontend/  src/{components,views}/ · types.ts · api.ts · tests next to the code

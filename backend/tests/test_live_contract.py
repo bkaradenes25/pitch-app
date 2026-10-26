@@ -121,7 +121,7 @@ def test_trimming_a_bulky_feed_does_not_change_the_parse():
     play["matchup"]["batterHotColdZones"] = [{"zone": i} for i in range(13)]
     play["matchup"]["splits"] = {"batter": "vs_RHP"}
     play["result"] = {"type": "atBat"}
-    play["playEvents"][1]["pitchData"]["coordinates"].update(x0=-2.1, y0=50.0, z0=6.2, aX=1.0)
+    play["playEvents"][1]["pitchData"]["coordinates"].update(extraTracking=1.0, spinAxis=200)
     bulky["liveData"]["linescore"]["offense"]["second"] = {"id": 11, "fullName": "Runner", "stats": [1] * 50}
     bulky["liveData"]["linescore"]["offense"]["batter"] = {"id": 5}      # not a base: must not count
     bulky["gameData"] = {"huge": list(range(1000))}

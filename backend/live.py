@@ -12,6 +12,8 @@ from zoneinfo import ZoneInfo
 
 import requests
 
+import trajectory
+
 BASE = "https://statsapi.mlb.com/api"
 ET = ZoneInfo("America/New_York")
 
@@ -75,7 +77,8 @@ def _pitch(ev):
     return {"type": (ev.get("details") or {}).get("type", {}).get("code"),
             "plate_x": c.get("pX"), "plate_z": c.get("pZ"),
             "call": (ev.get("details") or {}).get("description"),
-            "speed": pd_.get("startSpeed"), "spin": (pd_.get("breaks") or {}).get("spinRate")}
+            "speed": pd_.get("startSpeed"), "spin": (pd_.get("breaks") or {}).get("spinRate"),
+            "traj": trajectory.from_feed_coordinates(c)}
 
 
 def parse_snapshot(feed):
