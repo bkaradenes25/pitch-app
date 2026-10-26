@@ -125,7 +125,7 @@ export function Replay() {
             </span>
             <span className="badge">{step.actual_success ? "Good outcome" : "Not a good outcome"}</span>
           </div>
-          <Results data={step} pitches={[{ plate_x: step.actual_x, plate_z: step.actual_z }]} />
+          <Results data={step} pitches={[{ plate_x: step.actual_x, plate_z: step.actual_z, type: step.actual_pitch, traj: step.actual_traj }]} />
         </>
       )}
       <Scoreboard sb={sb} title="This replay" />

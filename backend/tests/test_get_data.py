@@ -38,3 +38,15 @@ def test_finished_month_saved_by_the_old_script_is_downloaded_again(tmp_path):
 
 def test_pitch_quality_columns_are_kept():
     assert set(get_data.REQUIRED_NEW) <= set(get_data.KEEP)
+
+
+def test_refresh_flag_forces_a_download_even_when_the_file_is_complete(tmp_path):
+    f = tmp_path / "a.parquet"
+    write(f, get_data.KEEP)
+    assert get_data.needs_download(f, pd.Timestamp("2026-04-30"), pd.Timestamp("2026-10-01"), force=True)
+
+
+def test_old_files_without_flight_columns_are_still_accepted_without_refresh(tmp_path):
+    f = tmp_path / "a.parquet"
+    write(f, [c for c in get_data.KEEP if c not in ("vx0", "vy0", "vz0", "ax", "ay", "az")])
+    assert not get_data.needs_download(f, pd.Timestamp("2026-04-30"), pd.Timestamp("2026-10-01"))

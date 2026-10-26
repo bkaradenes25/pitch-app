@@ -40,3 +40,14 @@ blockquote { margin:14px 0 0; padding:10px 14px; border-left:3px solid var(--acc
 .batter-card th { text-align:right; color:var(--muted); font-weight:500; padding:2px 6px; }
 .batter-card td { text-align:right; padding:2px 6px; font-variant-numeric:tabular-nums; }
 .batter-card th:first-child, .batter-card td:first-child { text-align:left; padding-left:0; }
+
+/* 3D view */
+.view-toggle { display:inline-flex; gap:0; margin:0 0 8px; border:1px solid var(--line); border-radius:8px; overflow:hidden; }
+.view-toggle button, .pitch3d-bar button { background:transparent; color:inherit; border:0; padding:4px 12px; cursor:pointer; font:inherit; }
+.view-toggle button.on, .pitch3d-bar button.on { background:var(--line); font-weight:600; }
+.pitch3d-bar { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:6px; }
+.pitch3d-bar button { border:1px solid var(--line); border-radius:8px; }
+.pitch3d-bar button:disabled { opacity:.45; cursor:not-allowed; }
+.pitch3d-canvas { position:relative; width:100%; border-radius:10px; overflow:hidden; background:#0f1a14; touch-action:none; }
+.pitch3d-canvas canvas { display:block; width:100%; }
+.pitch3d-tip { position:absolute; pointer-events:none; background:rgba(0,0,0,.8); color:#fff; padding:3px 8px; border-radius:6px; font-size:12px; white-space:nowrap; }

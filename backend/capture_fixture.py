@@ -40,7 +40,7 @@ def trim_event(ev):
         pdata = ev.get("pitchData") or {}
         out["pitchData"] = {
             **_pick(pdata, ["startSpeed", "extension", "zone"]),
-            "coordinates": _pick(pdata.get("coordinates"), ["pX", "pZ"]),
+            "coordinates": _pick(pdata.get("coordinates"), ["pX", "pZ", "x0", "y0", "z0", "vX0", "vY0", "vZ0", "aX", "aY", "aZ"]),
             "breaks": _pick(pdata.get("breaks"), ["spinRate", "breakVerticalInduced", "breakHorizontal"]),
         }
     return out

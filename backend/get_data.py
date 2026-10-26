@@ -30,14 +30,15 @@ KEEP = [
     "estimated_woba_using_speedangle",
     "bat_speed", "swing_length", "attack_angle", "attack_direction",  # bat tracking (if present)
     "release_speed", "release_spin_rate", "pfx_x", "pfx_z", "release_extension",  # pitch quality
+    "vx0", "vy0", "vz0", "ax", "ay", "az",   # flight path (optional: only the 3D pitch view uses them)
 ]
 REQUIRED_NEW = ["release_speed", "release_spin_rate", "pfx_x", "pfx_z", "release_extension"]
 
 
-def needs_download(path, month_end, last_day):
-    """Download if the month isn't saved yet, is still in progress, or was saved without the
-    pitch-quality columns (files made by an older version of this script)."""
-    if not path.exists() or month_end >= last_day:
+def needs_download(path, month_end, last_day, force=False):
+    """Download if the month isn't saved yet, is still in progress, was saved without the
+    pitch-quality columns (files made by an older version of this script), or force is set."""
+    if force or not path.exists() or month_end >= last_day:
         return True
     import pyarrow.parquet as pq
     return any(c not in pq.read_schema(path).names for c in REQUIRED_NEW)
@@ -52,12 +53,14 @@ def month_ranges(start, end):
 
 
 def main():
+    import sys
+    force = "--refresh" in sys.argv       # also re-download months saved without the flight-path columns
     from pybaseball import cache, statcast
     cache.enable()
     OUT.mkdir(exist_ok=True)
     for s, e, last in month_ranges(SEASON_START, SEASON_END):
         f = OUT / f"statcast_{s:%Y-%m}.parquet"
-        if not needs_download(f, e, last):   # finished month already saved with every column
+        if not needs_download(f, e, last, force):   # finished month already saved with every column
             print(f"skip {f.name}")
             continue
         print(f"downloading {s.date()} to {e.date()} ...")
